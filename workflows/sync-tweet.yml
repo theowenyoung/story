@@ -1,0 +1,60 @@
+name: Sync Tweets to JSON files
+on:
+  twitter:
+    auth:
+      consumer_key: ${{ secrets.TWITTER_CONSUMER_KEY }}
+      consumer_secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+      access_token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+      access_token_secret: ${{ secrets.TWITTER_ACCESS_SECRET }}
+    params:
+      screen_name: theowenyoung
+    fetchAllResultsAtFirst: true
+    config:
+      outputsMode: combine
+jobs:
+  sync:
+    name: Sync Tweets to JSON
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Create Tweet JSON
+        uses: actions/github-script@v2
+        with:
+          script: |
+            const path = require('path')
+            const fs = require('fs').promises
+            const outputs = ${{toJSON(on.twitter.outputs)}}
+            const promises = outputs.map((item) => {
+                const createdAt = new Date(Date.parse(item.created_at))
+                const tweetFilePath = `./data/tweets/${createdAt.getUTCFullYear()}/${createdAt.getUTCMonth()}/${item.id_str}.json`
+                return fs.mkdir(path.dirname(tweetFilePath), {
+                    recursive: true
+                }).then(()=>{
+                  return fs.writeFile(
+                      tweetFilePath,
+                      JSON.stringify(item, null, 2),
+                      {
+                        flag: "wx"
+                      }
+                  ).catch((e) => {
+                    if (e.code === "EEXIST") {
+                      return Promise.resolve();
+                    } else {
+                      return Promise.reject(e);
+                    }
+                  });
+                })
+  
+            });
+            await Promise.all(promises);
+            return outputs.length
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v5
+        with:
+          message: "chore: add tweet data"
+          add: "data/tweets/*"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
