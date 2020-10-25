@@ -1,4 +1,4 @@
-name: Sync Tweets to JSON files
+name: Sync zh Tweets to JSON files
 on:
   twitter:
     auth:
