@@ -29,7 +29,7 @@ jobs:
             const outputs = ${{toJSON(on.twitter.outputs)}}
             const promises = outputs.map((item) => {
                 const createdAt = new Date(Date.parse(item.created_at))
-                const tweetFilePath = `./data/tweets-zh/${createdAt.getUTCFullYear()}/${createdAt.getUTCMonth()}/${item.id_str}.json`
+                const tweetFilePath = `./data/tweets-zh/${createdAt.getUTCFullYear()}/${createdAt.getUTCMonth()+1}/${item.id_str}.json`
                 return fs.mkdir(path.dirname(tweetFilePath), {
                     recursive: true
                 }).then(()=>{
@@ -58,3 +58,10 @@ jobs:
           add: "data/tweets-zh/*"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy site
+        if: on.twitter.outputs.length>0
+        uses: actionsflow/axios@v1
+        with:
+          url: https://theowenyoung:${{secrets.GITHUB_TOKEN}}@api.github.com/repos/theowenyoung/theowenyoung.github.io/dispatches
+          method: 'POST'
+          data: '{ "event_type": "redeploy"}'
