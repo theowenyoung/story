@@ -47,7 +47,7 @@ jobs:
                     }
                   });
                 })
-  
+
             });
             await Promise.all(promises);
             return outputs.length
@@ -58,10 +58,3 @@ jobs:
           add: "data/tweets/*"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Deploy site
-        if: on.twitter.outputs.length>0
-        uses: actionsflow/axios@v1
-        with:
-          url: https://theowenyoung:${{secrets.GITHUB_TOKEN}}@api.github.com/repos/theowenyoung/theowenyoung.github.io/dispatches
-          method: 'POST'
-          data: '{ "event_type": "redeploy"}'
