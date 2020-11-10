@@ -69,7 +69,7 @@ Code: `380714095`
 
 安裝完成後，你需要在你的單詞模板里插入一個佔位符來作為顯示 Tag 的地方，步驟如下：
 
-![](https://i.imgur.com/2i6eVt4.png)
+![](https://i.imgur.com/2WWkaiA.png)
 
 點擊「Cards」，選擇「Back Template」，在合適的地方插入 `{{clickable:Tags}}`
 
