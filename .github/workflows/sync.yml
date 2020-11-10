@@ -1,0 +1,16 @@
+name: Sync Source
+on:
+  push:
+    branches:
+      - main
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    name: Run
+    steps:
+      - name: Deploy site
+        uses: actionsflow/axios@v1
+        with:
+          url: https://theowenyoung:${{secrets.GITHUB_TOKEN}}@api.github.com/repos/theowenyoung/theowenyoung.github.io/dispatches
+          method: "POST"
+          data: '{ "event_type": "redeploy"}'
