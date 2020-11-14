@@ -1,0 +1,265 @@
+{
+  "created_at": "Tue Oct 20 13:47:10 +0000 2020",
+  "id": 1318549320434671600,
+  "id_str": "1318549320434671623",
+  "full_text": "RT @t3n: #IFTTT für #Entwickler, aber #kostenlos: #Actionsflow wird euch bekannt vorkommen https://t.co/qshFtDkywC",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    114
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "IFTTT",
+        "indices": [
+          9,
+          15
+        ]
+      },
+      {
+        "text": "Entwickler",
+        "indices": [
+          20,
+          31
+        ]
+      },
+      {
+        "text": "kostenlos",
+        "indices": [
+          38,
+          48
+        ]
+      },
+      {
+        "text": "Actionsflow",
+        "indices": [
+          50,
+          62
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "t3n",
+        "name": "t3n Magazin",
+        "id": 11060982,
+        "id_str": "11060982",
+        "indices": [
+          3,
+          7
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/qshFtDkywC",
+        "expanded_url": "https://t3n.de/news/actionsflow-statt-ifttt-setzt-1326077/",
+        "display_url": "t3n.de/news/actionsfl…",
+        "indices": [
+          91,
+          114
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1241294513575878700,
+    "id_str": "1241294513575878656",
+    "name": "Owen Young",
+    "screen_name": "TheOwenYoung",
+    "location": "",
+    "description": "Freelancer / perfectionism / workflow lover",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 13,
+    "friends_count": 76,
+    "listed_count": 1,
+    "created_at": "Sat Mar 21 09:24:27 +0000 2020",
+    "favourites_count": 13,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 15,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Oct 02 14:05:35 +0000 2020",
+    "id": 1312030974574723000,
+    "id_str": "1312030974574723072",
+    "full_text": "#IFTTT für #Entwickler, aber #kostenlos: #Actionsflow wird euch bekannt vorkommen https://t.co/qshFtDkywC",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      105
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "IFTTT",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "Entwickler",
+          "indices": [
+            11,
+            22
+          ]
+        },
+        {
+          "text": "kostenlos",
+          "indices": [
+            29,
+            39
+          ]
+        },
+        {
+          "text": "Actionsflow",
+          "indices": [
+            41,
+            53
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qshFtDkywC",
+          "expanded_url": "https://t3n.de/news/actionsflow-statt-ifttt-setzt-1326077/",
+          "display_url": "t3n.de/news/actionsfl…",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 11060982,
+      "id_str": "11060982",
+      "name": "t3n Magazin",
+      "screen_name": "t3n",
+      "location": "Hannover, Germany",
+      "description": "Netzwerk & Magazin für digitale Zukunft.",
+      "url": "https://t.co/xSQNjqcWIZ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/xSQNjqcWIZ",
+              "expanded_url": "http://t3n.de",
+              "display_url": "t3n.de",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 161503,
+      "friends_count": 240,
+      "listed_count": 4121,
+      "created_at": "Tue Dec 11 20:18:56 +0000 2007",
+      "favourites_count": 6715,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 86724,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/964072513679581184/4YV1Q0mR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/964072513679581184/4YV1Q0mR_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11060982/1518687761",
+      "profile_link_color": "CC0000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "444444",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "de"
+  },
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": true,
+  "possibly_sensitive": false,
+  "lang": "de"
+}
