@@ -1,0 +1,351 @@
+{
+  "created_at": "Fri Aug 07 16:19:22 +0000 2020",
+  "id": 1291770923133984800,
+  "id_str": "1291770923133984768",
+  "full_text": "RT @ProductHunt: *sighs in maker* https://t.co/mEiFks3xBR",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    57
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ProductHunt",
+        "name": "Product Hunt 😺",
+        "id": 2208027565,
+        "id_str": "2208027565",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1291434130463494100,
+        "id_str": "1291434130463494147",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/EewYf9UXkAMYtoW.png",
+        "media_url_https": "https://pbs.twimg.com/media/EewYf9UXkAMYtoW.png",
+        "url": "https://t.co/mEiFks3xBR",
+        "display_url": "pic.twitter.com/mEiFks3xBR",
+        "expanded_url": "https://twitter.com/ProductHunt/status/1291434134884225026/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1260,
+            "h": 840,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1291434134884225000,
+        "source_status_id_str": "1291434134884225026",
+        "source_user_id": 2208027565,
+        "source_user_id_str": "2208027565"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1291434130463494100,
+        "id_str": "1291434130463494147",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/EewYf9UXkAMYtoW.png",
+        "media_url_https": "https://pbs.twimg.com/media/EewYf9UXkAMYtoW.png",
+        "url": "https://t.co/mEiFks3xBR",
+        "display_url": "pic.twitter.com/mEiFks3xBR",
+        "expanded_url": "https://twitter.com/ProductHunt/status/1291434134884225026/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1260,
+            "h": 840,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1291434134884225000,
+        "source_status_id_str": "1291434134884225026",
+        "source_user_id": 2208027565,
+        "source_user_id_str": "2208027565"
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1241294513575878700,
+    "id_str": "1241294513575878656",
+    "name": "Owen Young",
+    "screen_name": "TheOwenYoung",
+    "location": "",
+    "description": "Freelancer / perfectionism / workflow lover",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 13,
+    "friends_count": 76,
+    "listed_count": 1,
+    "created_at": "Sat Mar 21 09:24:27 +0000 2020",
+    "favourites_count": 13,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 15,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Aug 06 18:01:06 +0000 2020",
+    "id": 1291434134884225000,
+    "id_str": "1291434134884225026",
+    "full_text": "*sighs in maker* https://t.co/mEiFks3xBR",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      16
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1291434130463494100,
+          "id_str": "1291434130463494147",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/EewYf9UXkAMYtoW.png",
+          "media_url_https": "https://pbs.twimg.com/media/EewYf9UXkAMYtoW.png",
+          "url": "https://t.co/mEiFks3xBR",
+          "display_url": "pic.twitter.com/mEiFks3xBR",
+          "expanded_url": "https://twitter.com/ProductHunt/status/1291434134884225026/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1260,
+              "h": 840,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1291434130463494100,
+          "id_str": "1291434130463494147",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/EewYf9UXkAMYtoW.png",
+          "media_url_https": "https://pbs.twimg.com/media/EewYf9UXkAMYtoW.png",
+          "url": "https://t.co/mEiFks3xBR",
+          "display_url": "pic.twitter.com/mEiFks3xBR",
+          "expanded_url": "https://twitter.com/ProductHunt/status/1291434134884225026/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1260,
+              "h": 840,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2208027565,
+      "id_str": "2208027565",
+      "name": "Product Hunt 😺",
+      "screen_name": "ProductHunt",
+      "location": "",
+      "description": "The place to discover your next favorite thing. Emoji spirit of @AngelList ✌️\nText the 🐈 (415) 481-3148 📱",
+      "url": "https://t.co/swrwVKLWK3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/swrwVKLWK3",
+              "expanded_url": "https://www.producthunt.com",
+              "display_url": "producthunt.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 418419,
+      "friends_count": 43,
+      "listed_count": 6062,
+      "created_at": "Fri Nov 22 00:06:06 +0000 2013",
+      "favourites_count": 83240,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 136227,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FAFAFA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1278008340577206274/nF3h-Jf3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278008340577206274/nF3h-Jf3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2208027565/1541705015",
+      "profile_link_color": "DA552F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 274,
+    "favorite_count": 937,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 274,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": true,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
