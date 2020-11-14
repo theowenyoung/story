@@ -19,4 +19,4 @@ jobs:
           method: "POST"
           data: '{ "event_type": "redeploy"}'
       - name: deploy vercel
-        run: curl ${{ secrets.VERCERL_HOOK }}
+        run: curl ${{ secrets.VERCEL_HOOK }}
