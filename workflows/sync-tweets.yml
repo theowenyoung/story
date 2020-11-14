@@ -10,23 +10,22 @@ on:
       screen_name: theowenyoung
     fetchAllResultsAtFirst: true
     config:
+      exportOutputs: true
       outputsMode: combine
 jobs:
   sync:
     name: Sync Tweets to JSON
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-          fetch-depth: 0
       - name: Create Tweet JSON
         uses: actions/github-script@v2
+        env:
+          OUTPUTS_PATH: ${{ on.twitter.outputs.path }}
         with:
           script: |
             const path = require('path')
             const fs = require('fs').promises
-            const outputs = ${{toJSON(on.twitter.outputs)}}
+            const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`)
             const promises = outputs.map((item) => {
                 const createdAt = new Date(Date.parse(item.created_at))
                 const tweetFilePath = `./data/tweets/${createdAt.getUTCFullYear()}/${createdAt.getUTCMonth()+1}/${item.id_str}.json`
@@ -58,3 +57,11 @@ jobs:
           add: "data/tweets/*"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: deploy vercel
+        run: curl ${{ secrets.VERCERL_HOOK }}
+      - name: Deploy site
+        uses: actionsflow/axios@v1
+        with:
+          url: https://theowenyoung:${{secrets.PERSONAL_TOKEN}}@api.github.com/repos/theowenyoung/theowenyoung.github.io/dispatches
+          method: "POST"
+          data: '{ "event_type": "redeploy"}'

@@ -18,3 +18,5 @@ jobs:
           url: https://theowenyoung:${{secrets.PERSONAL_TOKEN}}@api.github.com/repos/theowenyoung/theowenyoung.github.io/dispatches
           method: "POST"
           data: '{ "event_type": "redeploy"}'
+        - name: deploy vercel
+          run: curl ${{ secrets.VERCERL_HOOK }}
