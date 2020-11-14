@@ -58,7 +58,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: deploy vercel
-        run: curl ${{ secrets.VERCERL_HOOK }}
+        run: curl ${{ secrets.VERCEL_HOOK }}
       - name: Deploy site
         uses: actionsflow/axios@v1
         with:
