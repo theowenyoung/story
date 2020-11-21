@@ -1,38 +1,38 @@
 ---
-title: Anki背单词必備的3个插件
+title: Anki背单词必备的3个插件
 date: 2020-11-10
 tags:
   - anki
-  - 學習
+  - 学习
   - 英文
 ---
 
-用了那麼多背單詞軟件，發現還是[Anki](https://ankiweb.net/)好用，我覺得其中最好用是 Anki 提供的強大的 Tag 功能，你可以給每個單詞打上一個 Tag，這樣方便你日後歸類來複習這些單詞，比如你可以有一個「hard」的 Tag。
+用了那么多背单词软件，发现还是[Anki](https://ankiweb.net/)好用，我觉得其中最好用是Anki 提供的强大的Tag 功能，你可以给每个单词打上一个Tag ，这样方便你日后归类来复习这些单词，比如你可以有一个「hard」的Tag。
 
-Tag 是 Anki 官方提供的功能，你可以直接在 Anki 上管理 tag，但是默認的 tag 管理比較不夠便捷，所以如果配合以下插件，就能更方便的添加，查看 Tag。
+Tag 是 Anki 官方提供的功能，你可以直接在 Anki 上管理 tag，但是默认的 tag 管理比较不够便捷，所以如果配合以下插件，就能更方便的添加，查看 Tag。
 
-這裏紀錄下我的 Anki 配置，希望你也能用得著。最终效果如下：
+这里纪录下我的 Anki 配置，希望你也能用得着。最终效果如下：
 
 ![](https://i.imgur.com/WF5posJ.png)
 
-## 預先準備
+## 预先准备
 
-- [下載 Anki 桌面版](https://apps.ankiweb.net/)
-- [下載一個詞庫][https://ankiweb.net/shared/decks/] - 可選，我初學的時候用的是這個排名第一的 [4000 Essential English Words 英英](https://ankiweb.net/shared/info/1104981491)
+- [下载 Anki 桌面版](https://apps.ankiweb.net/)
+- [下载一个词库][https://ankiweb.net/shared/decks/] - 可选，我初学的时候用的是这个排名第一的[4000 Essential English Words 英英](https://ankiweb.net/shared/info/1104981491)
 
-## 必備插件
+## 必备插件
 
-下載插件是在「Tools->Add-ons->Get Add-ons」,輸入插件的 Code，插件的 Code 在插件主頁上找到，[點擊這裏](https://ankiweb.net/shared/addons/2.1)可以瀏覽所有的插件。
+下载插件是在「Tools->Add-ons->Get Add-ons」,输入插件的Code，插件的Code 在插件主页上找到，[点击这里](https://ankiweb.net/shared/addons/ 2.1)可以浏览所有的插件。
 
-> Note: 每次安裝完插件後，重啟才能生效。
+> Note: 每次安装完插件后，重启才能生效。
 
 ### 1. [Quick tagging](https://ankiweb.net/shared/info/304770511)
 
 Code: `304770511`
 
-這個插件用來在 review 時，用快捷鍵快速添加 tag，默認是「q」鍵，你可以配置自己常用的 tag，比如「h」鍵添加一個「hard」標籤。
+这个插件用来在 review 时，用快捷键快速添加 tag，默认是「q」键，你可以配置自己常用的 tag，比如「h」键添加一个「hard」标签。
 
-以下是我的配置(其實就只是加了一個 hard 快捷鍵)：
+以下是我的配置(其实就只是加了一个 hard 快捷键)：
 
 ```json
 {
@@ -63,19 +63,19 @@ Code: `304770511`
 
 Code: `380714095`
 
-接下來就是這個 Clickable Tags 插件了，上一個插件解決了添加 Tag 的問題，這個插件解決顯示 Tag 的問題，用了這個插件後你可以把這個單詞所屬的 Tag 都顯示在 Review 頁面，並且可以隨時點擊進去查看同個 Tag 的所有單詞。效果如下：
+接下来就是这个Clickable Tags 插件了，上一个插件解决了添加Tag 的问题，这个插件解决显示Tag 的问题，用了这个插件后你可以把这个单词所属的Tag 都显示在Review 页面，并且可以随时点击进去查看同个Tag 的所有单词。效果如下：
 
 ![](https://raw.githubusercontent.com/luoliyan/anki-misc/master/screenshots/clickable-tags.png)
 
-安裝完成後，你需要在你的單詞模板里插入一個佔位符來作為顯示 Tag 的地方，步驟如下：
+安装完成后，你需要在你的单词模板里插入一个占位符来作为显示 Tag 的地方，步骤如下：
 
 ![](https://i.imgur.com/2WWkaiA.png)
 
-點擊「Cards」，選擇「Back Template」，在合適的地方插入 `{{clickable:Tags}}`
+点击「Cards」，选择「Back Template」，在合适的地方插入 `{{clickable:Tags}}`
 
 ![](https://i.imgur.com/xVZHyjW.png)
 
-保存並重啟 Anki，你就會在卡片背面看到單詞的 Tags（如果有 Tag 的話）
+保存并重启 Anki，你就会在卡片背面看到单词的 Tags（如果有 Tag 的话）
 
 ### 3. [Tag Entry Enhancements v2](https://ankiweb.net/shared/info/536796161)
 
@@ -83,13 +83,13 @@ Code: `536796161`
 
 这个插件提供标签输入增强的，提供了以下功能：
 
-- 添加 Return / Enter 作為熱鍵以應用第一個建議的標籤
-- 將 Ctrl + Tab 作為熱鍵添加以在建議列表中移動
-- 輸入字段時禁用初始建議框彈出窗口
-- 允許使用 ↑/↓ 調用標籤建議框
+- 添加 Return / Enter 作为热键以应用第一个建议的标签
+- 将 Ctrl + Tab 作为热键添加以在建议列表中移动
+- 输入字段时禁用初始建议框弹出窗口
+- 允许使用 ↑/↓ 调用标签建议框
 
 安装后重启即可使用
 
-## 總結
+## 总结
 
-總之，我使用 Anki 的重度功能就是這個 Tag，背到某個單詞的時候，可以看到你標記的同類單詞，這樣更不容易忘記。
+总之，我使用 Anki 的重度功能就是这个 Tag，背到某个单词的时候，可以看到你标记的同类单词，这样更不容易忘记。

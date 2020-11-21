@@ -5,7 +5,8 @@
   "version": "1.0.0",
   "author": "Owen Young <theowenyoung@gmail.com>",
   "devDependencies": {
-    "actionsflow": "^1.7.0"
+    "actionsflow": "^1.7.0",
+    "prettier": "^2.2.0"
   },
   "keywords": [
     "actionsflow",
@@ -17,7 +18,8 @@
     "start": "actionsflow start -- --bind",
     "act": "act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1 --bind",
     "clean": "actionsflow clean",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "g": "node scripts/generate-words-from-anki.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +27,12 @@
   },
   "bugs": {
     "url": "https://github.com/actionsflow/actionsflow-workflow-default/issues"
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "handlebars": "^4.7.6",
+    "minimist": "^1.2.5",
+    "node-html-parser": "^2.0.0",
+    "tencentcloud-sdk-nodejs": "^4.0.20"
   }
 }
