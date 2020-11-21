@@ -13,7 +13,7 @@ tags:
 
 | Item        | Value                                                                    |
 | ----------- | ------------------------------------------------------------------------ |
-| ｜**单词**  | hang                                                                     |
+| **单词**    | hang                                                                     |
 | **中译**    | 挂起                                                                     |
 | **音标**    | `[hæŋ]`                                                                  |
 | **Meaning** | To <i>hang</i> something is to keep it above the ground.                 |
@@ -23,7 +23,7 @@ tags:
 
 | Item        | Value                                            |
 | ----------- | ------------------------------------------------ |
-| ｜**单词**  | tear                                             |
+| **单词**    | tear                                             |
 | **中译**    | 撕裂                                             |
 | **音标**    | `[teər]`                                         |
 | **Meaning** | To <i>tear</i> something means to pull it apart. |
@@ -33,7 +33,7 @@ tags:
 
 | Item        | Value                                                           |
 | ----------- | --------------------------------------------------------------- |
-| ｜**单词**  | pull                                                            |
+| **单词**    | pull                                                            |
 | **中译**    | 拉                                                              |
 | **音标**    | `[pul]`                                                         |
 | **Meaning** | To <i>pull</i> is to hold onto something to move it toward you. |
@@ -43,7 +43,7 @@ tags:
 
 | Item        | Value                                                   |
 | ----------- | ------------------------------------------------------- |
-| ｜**单词**  | steal                                                   |
+| **单词**    | steal                                                   |
 | **中译**    | 偷窃                                                    |
 | **音标**    | `[stiːl]`                                               |
 | **Meaning** | To <i>steal</i> is to take something that is not yours. |
@@ -53,7 +53,7 @@ tags:
 
 | Item        | Value                                             |
 | ----------- | ------------------------------------------------- |
-| ｜**单词**  | strike                                            |
+| **单词**    | strike                                            |
 | **中译**    | 罢工                                              |
 | **音标**    | `[straik]`                                        |
 | **Meaning** | To <i>strike</i> people or things is to hit them. |
@@ -63,7 +63,7 @@ tags:
 
 | Item        | Value                                                                        |
 | ----------- | ---------------------------------------------------------------------------- |
-| ｜**单词**  | spill                                                                        |
+| **单词**    | spill                                                                        |
 | **中译**    | 溢出                                                                         |
 | **音标**    | `[spil]`                                                                     |
 | **Meaning** | To <i>spill</i> is to accidentally make something fall out of its container. |
@@ -73,7 +73,7 @@ tags:
 
 | Item        | Value                                                        |
 | ----------- | ------------------------------------------------------------ |
-| ｜**单词**  | twist                                                        |
+| **单词**    | twist                                                        |
 | **中译**    | 扭曲                                                         |
 | **音标**    | `[twist]`                                                    |
 | **Meaning** | When we <i>twist</i> something we turn it around and around. |
@@ -83,7 +83,7 @@ tags:
 
 | Item        | Value                                                                        |
 | ----------- | ---------------------------------------------------------------------------- |
-| ｜**单词**  | trap                                                                         |
+| **单词**    | trap                                                                         |
 | **中译**    | 陷阱                                                                         |
 | **音标**    | `[træp]`                                                                     |
 | **Meaning** | To <i>trap</i> people or animals is to capture them so they cannot get away. |
@@ -93,7 +93,7 @@ tags:
 
 | Item        | Value                                                                  |
 | ----------- | ---------------------------------------------------------------------- |
-| ｜**单词**  | pound                                                                  |
+| **单词**    | pound                                                                  |
 | **中译**    | 拍击                                                                   |
 | **音标**    | `[paund]`                                                              |
 | **Meaning** | To <i>pound</i> something is to hit it many times with a lot of force. |
@@ -103,7 +103,7 @@ tags:
 
 | Item        | Value                                                             |
 | ----------- | ----------------------------------------------------------------- |
-| ｜**单词**  | pour                                                              |
+| **单词**    | pour                                                              |
 | **中译**    | 浇注                                                              |
 | **音标**    | `[pɔːr]`                                                          |
 | **Meaning** | To <i>pour</i> a liquid means to make it come out of a container. |
@@ -113,7 +113,7 @@ tags:
 
 | Item        | Value                                        |
 | ----------- | -------------------------------------------- |
-| ｜**单词**  | slip                                         |
+| **单词**    | slip                                         |
 | **中译**    | 滑倒                                         |
 | **音标**    | `[slip]`                                     |
 | **Meaning** | To <i>slip</i> means to slide and fall down. |
@@ -123,7 +123,7 @@ tags:
 
 | Item        | Value                                                       |
 | ----------- | ----------------------------------------------------------- |
-| ｜**单词**  | bend                                                        |
+| **单词**    | bend                                                        |
 | **中译**    | 本德                                                        |
 | **音标**    | `[bend]`                                                    |
 | **Meaning** | To <i>bend</i> is to move something so it is not straight.  |
@@ -133,7 +133,7 @@ tags:
 
 | Item        | Value                                                            |
 | ----------- | ---------------------------------------------------------------- |
-| ｜**单词**  | chew                                                             |
+| **单词**    | chew                                                             |
 | **中译**    | 咀嚼                                                             |
 | **音标**    | `[tʃuː]`                                                         |
 | **Meaning** | To <i>chew</i> is to break up food by using the mouth and teeth. |
@@ -143,7 +143,7 @@ tags:
 
 | Item        | Value                                              |
 | ----------- | -------------------------------------------------- |
-| ｜**单词**  | cast                                               |
+| **单词**    | cast                                               |
 | **中译**    | 铸造                                               |
 | **音标**    | `[kæst]`                                           |
 | **Meaning** | To <i>cast</i> something means to throw it.        |
@@ -153,7 +153,7 @@ tags:
 
 | Item        | Value                                                                           |
 | ----------- | ------------------------------------------------------------------------------- |
-| ｜**单词**  | swing                                                                           |
+| **单词**    | swing                                                                           |
 | **中译**    | 秋千                                                                            |
 | **音标**    | `[swiŋ]`                                                                        |
 | **Meaning** | To <i>swing</i> something means to move it back and forth or from side to side. |
@@ -163,7 +163,7 @@ tags:
 
 | Item        | Value                                                             |
 | ----------- | ----------------------------------------------------------------- |
-| ｜**单词**  | chop                                                              |
+| **单词**    | chop                                                              |
 | **中译**    | 砍掉                                                              |
 | **音标**    | `[tʃɑp]`                                                          |
 | **Meaning** | To <i>chop</i> something means to cut it into pieces with a tool. |
@@ -173,7 +173,7 @@ tags:
 
 | Item        | Value                                       |
 | ----------- | ------------------------------------------- |
-| ｜**单词**  | grasp                                       |
+| **单词**    | grasp                                       |
 | **中译**    | 抓紧                                        |
 | **音标**    | `[græsp]`                                   |
 | **Meaning** | To <i>grasp</i> something means to hold it. |
@@ -183,7 +183,7 @@ tags:
 
 | Item        | Value                                                                         |
 | ----------- | ----------------------------------------------------------------------------- |
-| ｜**单词**  | stir                                                                          |
+| **单词**    | stir                                                                          |
 | **中译**    | 搅拌                                                                          |
 | **音标**    | `[stəːr]`                                                                     |
 | **Meaning** | To <i>stir</i> something means to mix it using something small, like a spoon. |
@@ -193,7 +193,7 @@ tags:
 
 | Item        | Value                                                            |
 | ----------- | ---------------------------------------------------------------- |
-| ｜**单词**  | tap                                                              |
+| **单词**    | tap                                                              |
 | **中译**    | 攻丝                                                             |
 | **音标**    | `[tæp]`                                                          |
 | **Meaning** | To <i>tap</i> something is to hit it lightly.                    |
@@ -203,7 +203,7 @@ tags:
 
 | Item        | Value                                                                       |
 | ----------- | --------------------------------------------------------------------------- |
-| ｜**单词**  | rub                                                                         |
+| **单词**    | rub                                                                         |
 | **中译**    | 摩擦                                                                        |
 | **音标**    | `[rʌb]`                                                                     |
 | **Meaning** | To <i>rub</i> something is to push on it and move your hand back and forth. |
@@ -213,7 +213,7 @@ tags:
 
 | Item        | Value                                                              |
 | ----------- | ------------------------------------------------------------------ |
-| ｜**单词**  | polish                                                             |
+| **单词**    | polish                                                             |
 | **中译**    | 波兰语                                                             |
 | **音标**    | `[pɑ́liʃ]`                                                          |
 | **Meaning** | To <i>polish</i> something is to rub it in order to make it shiny. |
@@ -223,7 +223,7 @@ tags:
 
 | Item        | Value                                                                    |
 | ----------- | ------------------------------------------------------------------------ |
-| ｜**单词**  | bounce                                                                   |
+| **单词**    | bounce                                                                   |
 | **中译**    | 反弹                                                                     |
 | **音标**    | `[bauns]`                                                                |
 | **Meaning** | To <i>bounce</i> is to move up and away from a surface after hitting it. |
@@ -233,7 +233,7 @@ tags:
 
 | Item        | Value                                                                   |
 | ----------- | ----------------------------------------------------------------------- |
-| ｜**单词**  | sting                                                                   |
+| **单词**    | sting                                                                   |
 | **中译**    | 刺痛                                                                    |
 | **音标**    | `[stiŋ]`                                                                |
 | **Meaning** | To <i>sting</i> is to cause pain by pushing a sharp part into the skin. |
@@ -243,7 +243,7 @@ tags:
 
 | Item        | Value                                                       |
 | ----------- | ----------------------------------------------------------- |
-| ｜**单词**  | pat                                                         |
+| **单词**    | pat                                                         |
 | **中译**    | 拍拍                                                        |
 | **音标**    | `[pæt]`                                                     |
 | **Meaning** | To <i>pat</i> something is to hit it softly with your hand. |
@@ -253,7 +253,7 @@ tags:
 
 | Item        | Value                                                                                |
 | ----------- | ------------------------------------------------------------------------------------ |
-| ｜**单词**  | suck                                                                                 |
+| **单词**    | suck                                                                                 |
 | **中译**    | 太差劲了                                                                             |
 | **音标**    | `[sʌk]`                                                                              |
 | **Meaning** | To <i>suck</i> is to put something in your mouth and try to get something out of it. |
@@ -263,7 +263,7 @@ tags:
 
 | Item        | Value                                                                |
 | ----------- | -------------------------------------------------------------------- |
-| ｜**单词**  | fasten                                                               |
+| **单词**    | fasten                                                               |
 | **中译**    | 紧固                                                                 |
 | **音标**    | `[fǽsn]`                                                             |
 | **Meaning** | To <i>fasten</i> something is to close it or attach it to something. |
@@ -273,7 +273,7 @@ tags:
 
 | Item        | Value                                                        |
 | ----------- | ------------------------------------------------------------ |
-| ｜**单词**  | scatter                                                      |
+| **单词**    | scatter                                                      |
 | **中译**    | 散布                                                         |
 | **音标**    | `[skǽtəːr]`                                                  |
 | **Meaning** | To <i>scatter</i> something is to make it go in many places. |
@@ -283,7 +283,7 @@ tags:
 
 | Item        | Value                                           |
 | ----------- | ----------------------------------------------- |
-| ｜**单词**  | toss                                            |
+| **单词**    | toss                                            |
 | **中译**    | 掷硬币                                          |
 | **音标**    | `[tɔːs]`                                        |
 | **Meaning** | To <i>toss</i> something is to throw it softly. |
@@ -293,7 +293,7 @@ tags:
 
 | Item        | Value                                                                        |
 | ----------- | ---------------------------------------------------------------------------- |
-| ｜**单词**  | seize                                                                        |
+| **单词**    | seize                                                                        |
 | **中译**    | 抓住                                                                         |
 | **音标**    | `[siːz]`                                                                     |
 | **Meaning** | To <i>seize</i> something means to grab it quickly or strongly.              |
@@ -303,7 +303,7 @@ tags:
 
 | Item        | Value                                                                       |
 | ----------- | --------------------------------------------------------------------------- |
-| ｜**单词**  | squeeze                                                                     |
+| **单词**    | squeeze                                                                     |
 | **中译**    | 挤压                                                                        |
 | **音标**    | `[skwiːz]`                                                                  |
 | **Meaning** | To <i>squeeze</i> something means to press it together and hold it tightly. |
@@ -313,7 +313,7 @@ tags:
 
 | Item        | Value                                                                       |
 | ----------- | --------------------------------------------------------------------------- |
-| ｜**单词**  | shave                                                                       |
+| **单词**    | shave                                                                       |
 | **中译**    | 刮胡子                                                                      |
 | **音标**    | `[ʃeiv]`                                                                    |
 | **Meaning** | To <i>shave</i> means to cut the hairs on one’s face with a sharp tool.     |
@@ -323,7 +323,7 @@ tags:
 
 | Item        | Value                                                                      |
 | ----------- | -------------------------------------------------------------------------- |
-| ｜**单词**  | wipe                                                                       |
+| **单词**    | wipe                                                                       |
 | **中译**    | 擦拭                                                                       |
 | **音标**    | `[waip]`                                                                   |
 | **Meaning** | To <i>wipe</i> something is to slide a piece of cloth over it to clean it. |
@@ -333,7 +333,7 @@ tags:
 
 | Item        | Value                                                                   |
 | ----------- | ----------------------------------------------------------------------- |
-| ｜**单词**  | splash                                                                  |
+| **单词**    | splash                                                                  |
 | **中译**    | 飞溅                                                                    |
 | **音标**    | `[splæʃ]`                                                               |
 | **Meaning** | To <i>splash</i> is to crash into something so that liquid spreads out. |
@@ -343,7 +343,7 @@ tags:
 
 | Item        | Value                                                                                  |
 | ----------- | -------------------------------------------------------------------------------------- |
-| ｜**单词**  | clap                                                                                   |
+| **单词**    | clap                                                                                   |
 | **中译**    | 鼓掌                                                                                   |
 | **音标**    | `[klæp]`                                                                               |
 | **Meaning** | To <i>clap</i> means to hit one’s hands together to express pleasure or get attention. |
@@ -353,7 +353,7 @@ tags:
 
 | Item        | Value                                                                            |
 | ----------- | -------------------------------------------------------------------------------- |
-| ｜**单词**  | pinch                                                                            |
+| **单词**    | pinch                                                                            |
 | **中译**    | 夹紧                                                                             |
 | **音标**    | `[pintʃ]`                                                                        |
 | **Meaning** | To <i>pinch</i> means to take a piece of skin between one’s fingers and squeeze. |
@@ -363,7 +363,7 @@ tags:
 
 | Item        | Value                                                                       |
 | ----------- | --------------------------------------------------------------------------- |
-| ｜**单词**  | pierce                                                                      |
+| **单词**    | pierce                                                                      |
 | **中译**    | 皮尔斯                                                                      |
 | **音标**    | `[piərs]`                                                                   |
 | **Meaning** | To <i>pierce</i> something means to make a hole in it using a sharp object. |
@@ -373,7 +373,7 @@ tags:
 
 | Item        | Value                                                                              |
 | ----------- | ---------------------------------------------------------------------------------- |
-| ｜**单词**  | cram                                                                               |
+| **单词**    | cram                                                                               |
 | **中译**    | 临时抱佛脚                                                                         |
 | **音标**    | `[kræm]`                                                                           |
 | **Meaning** | To <i>cram</i> things means to put them into a place that can barely contain them. |
@@ -383,7 +383,7 @@ tags:
 
 | Item        | Value                                                                              |
 | ----------- | ---------------------------------------------------------------------------------- |
-| ｜**单词**  | snap                                                                               |
+| **单词**    | snap                                                                               |
 | **中译**    | 捕捉                                                                               |
 | **音标**    | `[snæp]`                                                                           |
 | **Meaning** | To <i>snap</i> something means to break it suddenly, which can cause a loud noise. |
@@ -393,7 +393,7 @@ tags:
 
 | Item        | Value                                                               |
 | ----------- | ------------------------------------------------------------------- |
-| ｜**单词**  | slap                                                                |
+| **单词**    | slap                                                                |
 | **中译**    | 打耳光                                                              |
 | **音标**    | `[slæp]`                                                            |
 | **Meaning** | To <i>slap</i> someone means to hit them with the palm of the hand. |
@@ -403,7 +403,7 @@ tags:
 
 | Item        | Value                                                          |
 | ----------- | -------------------------------------------------------------- |
-| ｜**单词**  | sift                                                           |
+| **单词**    | sift                                                           |
 | **中译**    | 筛分                                                           |
 | **音标**    | `[sift]`                                                       |
 | **Meaning** | To <i>sift</i> something means to remove all the large pieces. |
@@ -413,7 +413,7 @@ tags:
 
 | Item        | Value                                                                  |
 | ----------- | ---------------------------------------------------------------------- |
-| ｜**单词**  | sprinkle                                                               |
+| **单词**    | sprinkle                                                               |
 | **中译**    | 洒水                                                                   |
 | **音标**    | `[spríŋkəl]`                                                           |
 | **Meaning** | To <i>sprinkle</i> means to scatter something all over something else. |
@@ -423,7 +423,7 @@ tags:
 
 | Item        | Value                                                                   |
 | ----------- | ----------------------------------------------------------------------- |
-| ｜**单词**  | scrape                                                                  |
+| **单词**    | scrape                                                                  |
 | **中译**    | 刮擦                                                                    |
 | **音标**    | `[skreip]`                                                              |
 | **Meaning** | To <i>scrape</i> something is to rub it very hard with something sharp. |
@@ -433,7 +433,7 @@ tags:
 
 | Item        | Value                                                                            |
 | ----------- | -------------------------------------------------------------------------------- |
-| ｜**单词**  | stitch                                                                           |
+| **单词**    | stitch                                                                           |
 | **中译**    | 缝合                                                                             |
 | **音标**    | `[stitʃ]`                                                                        |
 | **Meaning** | To <i>stitch</i> is to use a needle and thread to join pieces of cloth together. |
@@ -443,7 +443,7 @@ tags:
 
 | Item        | Value                                                                |
 | ----------- | -------------------------------------------------------------------- |
-| ｜**单词**  | flip                                                                 |
+| **单词**    | flip                                                                 |
 | **中译**    | 翻转                                                                 |
 | **音标**    | `[flip]`                                                             |
 | **Meaning** | To <i>flip</i> means to press a switch quickly to turn it on or off. |
@@ -453,7 +453,7 @@ tags:
 
 | Item        | Value                                                         |
 | ----------- | ------------------------------------------------------------- |
-| ｜**单词**  | peel                                                          |
+| **单词**    | peel                                                          |
 | **中译**    | 剥皮                                                          |
 | **音标**    | `[piːl]`                                                      |
 | **Meaning** | To <i>peel</i> fruits and vegetables is to remove their skin. |
@@ -463,7 +463,7 @@ tags:
 
 | Item        | Value                                                        |
 | ----------- | ------------------------------------------------------------ |
-| ｜**单词**  | discard                                                      |
+| **单词**    | discard                                                      |
 | **中译**    | 丢弃                                                         |
 | **音标**    | `[diskάːrd]`                                                 |
 | **Meaning** | To <i>discard</i> something is to throw it away.             |
@@ -473,7 +473,7 @@ tags:
 
 | Item        | Value                                                         |
 | ----------- | ------------------------------------------------------------- |
-| ｜**单词**  | lick                                                          |
+| **单词**    | lick                                                          |
 | **中译**    | 舌舔                                                          |
 | **音标**    | `[lik]`                                                       |
 | **Meaning** | When you <i>lick</i> something, you pass your tongue over it. |
@@ -483,7 +483,7 @@ tags:
 
 | Item        | Value                                                    |
 | ----------- | -------------------------------------------------------- |
-| ｜**单词**  | inflate                                                  |
+| **单词**    | inflate                                                  |
 | **中译**    | 充气                                                     |
 | **音标**    | `[infléit]`                                              |
 | **Meaning** | To <i>infate</i> something means to fill it up with air. |
@@ -493,7 +493,7 @@ tags:
 
 | Item        | Value                                                      |
 | ----------- | ---------------------------------------------------------- |
-| ｜**单词**  | sever                                                      |
+| **单词**    | sever                                                      |
 | **中译**    | 服务器                                                     |
 | **音标**    | `[sévər]`                                                  |
 | **Meaning** | To <i>sever</i> something is to cut through it completely. |
@@ -503,7 +503,7 @@ tags:
 
 | Item        | Value                                                                     |
 | ----------- | ------------------------------------------------------------------------- |
-| ｜**单词**  | stab                                                                      |
+| **单词**    | stab                                                                      |
 | **中译**    | 刺伤                                                                      |
 | **音标**    | `[stæb]`                                                                  |
 | **Meaning** | To <i>stab</i> means to cut with the end of a sharp object like a knife.  |
@@ -513,7 +513,7 @@ tags:
 
 | Item        | Value                                                                            |
 | ----------- | -------------------------------------------------------------------------------- |
-| ｜**单词**  | orbit                                                                            |
+| **单词**    | orbit                                                                            |
 | **中译**    | 动态观察                                                                         |
 | **音标**    | `[ɔ́ːrbit]`                                                                       |
 | **Meaning** | To <i>orbit</i> something means to move around it in a continuous, curving path. |
@@ -523,7 +523,7 @@ tags:
 
 | Item        | Value                                                                          |
 | ----------- | ------------------------------------------------------------------------------ |
-| ｜**单词**  | excavate                                                                       |
+| **单词**    | excavate                                                                       |
 | **中译**    | 挖掘                                                                           |
 | **音标**    | `[ékskəvèit]`                                                                  |
 | **Meaning** | To <i>excavate</i> means to dig on land and remove dirt to look for something. |
@@ -533,7 +533,7 @@ tags:
 
 | Item        | Value                                                                            |
 | ----------- | -------------------------------------------------------------------------------- |
-| ｜**单词**  | propel                                                                           |
+| **单词**    | propel                                                                           |
 | **中译**    | 推进                                                                             |
 | **音标**    | `[prəpél]`                                                                       |
 | **Meaning** | To <i>propel</i> something means to push or move it somewhere.                   |
@@ -543,7 +543,7 @@ tags:
 
 | Item        | Value                                                         |
 | ----------- | ------------------------------------------------------------- |
-| ｜**单词**  | penetrate                                                     |
+| **单词**    | penetrate                                                     |
 | **中译**    | 穿透                                                          |
 | **音标**    | `[pénətrèit]`                                                 |
 | **Meaning** | To <i>penetrate</i> something means to enter into it.         |
