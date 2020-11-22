@@ -28,7 +28,7 @@ jobs:
             const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`)
             const promises = outputs.map((item) => {
                 const createdAt = new Date(Date.parse(item.created_at))
-                const tweetFilePath = `./data/tweets-zh/${createdAt.getUTCFullYear()}/${createdAt.getUTCMonth()+1}/${item.id_str}.json`
+                const tweetFilePath = `./zh/tweets/${createdAt.getUTCFullYear()}/${createdAt.getUTCMonth()+1}/${item.id_str}.json`
                 return fs.mkdir(path.dirname(tweetFilePath), {
                     recursive: true
                 }).then(()=>{
@@ -54,7 +54,7 @@ jobs:
         uses: EndBug/add-and-commit@v5
         with:
           message: "chore: add zh tweet data"
-          add: "data/tweets-zh/*"
+          add: "zh/tweets/*"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: deploy vercel
