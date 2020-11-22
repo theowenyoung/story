@@ -29,6 +29,16 @@ tags:
 | **Meaning** | To <i>tear</i> something means to pull it apart. |
 | **Example** | It is easy to <b>tear</b> paper.                 |
 
+## Rip-撕碎
+
+| Item        | Value                                     |
+| ----------- | ----------------------------------------- |
+| **单词**    | rip                                       |
+| **中译**    | 撕碎                                      |
+| **音标**    | `[rip]`                                   |
+| **Meaning** | To rip something means to pull it apart.  |
+| **Example** | She ripped the paper in half by accident. |
+
 ## Pull-拉
 
 | Item        | Value                                                           |
