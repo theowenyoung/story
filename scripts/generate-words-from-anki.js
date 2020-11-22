@@ -1,5 +1,6 @@
 // 把从anki导出的tag列表生成一篇优美的md文档
 // specify this desk https://ankiweb.net/shared/info/1104981491
+// yarn g scripts/ankis/xxx
 require("dotenv").config();
 const fs = require("fs-extra");
 const parseArgs = require("minimist");
