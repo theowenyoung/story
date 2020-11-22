@@ -56,12 +56,4 @@ jobs:
           message: "chore: add tweet data"
           add: "en/tweets/*"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: deploy vercel
-        run: curl ${{ secrets.VERCEL_HOOK }}
-      - name: Deploy site
-        uses: actionsflow/axios@v1
-        with:
-          url: https://theowenyoung:${{secrets.PERSONAL_TOKEN}}@api.github.com/repos/theowenyoung/theowenyoung.github.io/dispatches
-          method: "POST"
-          data: '{ "event_type": "redeploy"}'
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
