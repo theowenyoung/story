@@ -9,7 +9,11 @@ tags:
 
 这是我在 Anki 上标记为动作 Tag 的一些单词，比如推，转动等，记录如下：
 
-## Hang-挂起
+## Table of Contents
+
+## 详细解释
+
+### Hang-挂起
 
 | Item        | Value                                                                    |
 | ----------- | ------------------------------------------------------------------------ |
@@ -19,7 +23,7 @@ tags:
 | **Meaning** | To <i>hang</i> something is to keep it above the ground.                 |
 | **Example** | I drew a picture of my family, and my mother <b>hung</b> it on the wall. |
 
-## Tear-撕裂
+### Tear-撕裂
 
 | Item        | Value                                            |
 | ----------- | ------------------------------------------------ |
@@ -29,7 +33,7 @@ tags:
 | **Meaning** | To <i>tear</i> something means to pull it apart. |
 | **Example** | It is easy to <b>tear</b> paper.                 |
 
-## Rip-撕碎
+### Rip-撕碎
 
 | Item        | Value                                     |
 | ----------- | ----------------------------------------- |
@@ -39,7 +43,7 @@ tags:
 | **Meaning** | To rip something means to pull it apart.  |
 | **Example** | She ripped the paper in half by accident. |
 
-## Pull-拉
+### Pull-拉
 
 | Item        | Value                                                           |
 | ----------- | --------------------------------------------------------------- |
@@ -49,7 +53,7 @@ tags:
 | **Meaning** | To <i>pull</i> is to hold onto something to move it toward you. |
 | **Example** | The children <b>pull</b> the rope.                              |
 
-## Steal-偷窃
+### Steal-偷窃
 
 | Item        | Value                                                   |
 | ----------- | ------------------------------------------------------- |
@@ -59,7 +63,7 @@ tags:
 | **Meaning** | To <i>steal</i> is to take something that is not yours. |
 | **Example** | The men tried to <b>steal</b> money from the bank.      |
 
-## Strike-罢工
+### Strike-罢工
 
 | Item        | Value                                             |
 | ----------- | ------------------------------------------------- |
@@ -69,7 +73,7 @@ tags:
 | **Meaning** | To <i>strike</i> people or things is to hit them. |
 | **Example** | She <b>struck</b> the other girl in the face.     |
 
-## Spill-溢出
+### Spill-溢出
 
 | Item        | Value                                                                        |
 | ----------- | ---------------------------------------------------------------------------- |
@@ -79,7 +83,7 @@ tags:
 | **Meaning** | To <i>spill</i> is to accidentally make something fall out of its container. |
 | **Example** | I <b>spilled</b> the coffee on the table.                                    |
 
-## Twist-扭曲
+### Twist-扭曲
 
 | Item        | Value                                                        |
 | ----------- | ------------------------------------------------------------ |
@@ -89,7 +93,7 @@ tags:
 | **Meaning** | When we <i>twist</i> something we turn it around and around. |
 | **Example** | She <b>twisted</b> the spaghetti around her fork.            |
 
-## Trap-陷阱
+### Trap-陷阱
 
 | Item        | Value                                                                        |
 | ----------- | ---------------------------------------------------------------------------- |
@@ -99,7 +103,7 @@ tags:
 | **Meaning** | To <i>trap</i> people or animals is to capture them so they cannot get away. |
 | **Example** | We <b>trapped</b> butterflies in a net.                                      |
 
-## Pound-拍击
+### Pound-拍击
 
 | Item        | Value                                                                  |
 | ----------- | ---------------------------------------------------------------------- |
@@ -109,7 +113,7 @@ tags:
 | **Meaning** | To <i>pound</i> something is to hit it many times with a lot of force. |
 | **Example** | He <b>pounded</b> the nail with the hammer.                            |
 
-## Pour-浇注
+### Pour-浇注
 
 | Item        | Value                                                             |
 | ----------- | ----------------------------------------------------------------- |
@@ -119,7 +123,7 @@ tags:
 | **Meaning** | To <i>pour</i> a liquid means to make it come out of a container. |
 | **Example** | I <b>poured</b> some milk into my sister’s cup.                   |
 
-## Slip-滑倒
+### Slip-滑倒
 
 | Item        | Value                                        |
 | ----------- | -------------------------------------------- |
@@ -129,7 +133,7 @@ tags:
 | **Meaning** | To <i>slip</i> means to slide and fall down. |
 | **Example** | The man <b>slipped</b> on the wet floor.     |
 
-## Bend-本德
+### Bend-本德
 
 | Item        | Value                                                       |
 | ----------- | ----------------------------------------------------------- |
@@ -139,7 +143,7 @@ tags:
 | **Meaning** | To <i>bend</i> is to move something so it is not straight.  |
 | **Example** | Lee <b>bent</b> over and picked up the paper on the ground. |
 
-## Chew-咀嚼
+### Chew-咀嚼
 
 | Item        | Value                                                            |
 | ----------- | ---------------------------------------------------------------- |
@@ -149,7 +153,7 @@ tags:
 | **Meaning** | To <i>chew</i> is to break up food by using the mouth and teeth. |
 | **Example** | I always <b>chew</b> my food carefully before swallowing it.     |
 
-## Cast-铸造
+### Cast-铸造
 
 | Item        | Value                                              |
 | ----------- | -------------------------------------------------- |
@@ -159,7 +163,7 @@ tags:
 | **Meaning** | To <i>cast</i> something means to throw it.        |
 | **Example** | The fisherman <b>cast</b> his line into the water. |
 
-## Swing-秋千
+### Swing-秋千
 
 | Item        | Value                                                                           |
 | ----------- | ------------------------------------------------------------------------------- |
@@ -169,7 +173,7 @@ tags:
 | **Meaning** | To <i>swing</i> something means to move it back and forth or from side to side. |
 | **Example** | He can <b>swing</b> a golf club very powerfully.                                |
 
-## Chop-砍掉
+### Chop-砍掉
 
 | Item        | Value                                                             |
 | ----------- | ----------------------------------------------------------------- |
@@ -179,7 +183,7 @@ tags:
 | **Meaning** | To <i>chop</i> something means to cut it into pieces with a tool. |
 | **Example** | Mom <b>chopped</b> some vegetables to put into the stew.          |
 
-## Grasp-抓紧
+### Grasp-抓紧
 
 | Item        | Value                                       |
 | ----------- | ------------------------------------------- |
@@ -189,7 +193,7 @@ tags:
 | **Meaning** | To <i>grasp</i> something means to hold it. |
 | **Example** | He <b>grasped</b> the bag of money tightly. |
 
-## Stir-搅拌
+### Stir-搅拌
 
 | Item        | Value                                                                         |
 | ----------- | ----------------------------------------------------------------------------- |
@@ -199,7 +203,7 @@ tags:
 | **Meaning** | To <i>stir</i> something means to mix it using something small, like a spoon. |
 | **Example** | Mom <b>stirred</b> the batter until it was smooth.                            |
 
-## Tap-攻丝
+### Tap-攻丝
 
 | Item        | Value                                                            |
 | ----------- | ---------------------------------------------------------------- |
@@ -209,7 +213,7 @@ tags:
 | **Meaning** | To <i>tap</i> something is to hit it lightly.                    |
 | **Example** | He <b>tapped</b> the keys of the keyboard to write a short word. |
 
-## Rub-摩擦
+### Rub-摩擦
 
 | Item        | Value                                                                       |
 | ----------- | --------------------------------------------------------------------------- |
@@ -219,7 +223,7 @@ tags:
 | **Meaning** | To <i>rub</i> something is to push on it and move your hand back and forth. |
 | **Example** | Mom’s feet were sore, so she <b>rubbed</b> them.                            |
 
-## Polish-波兰语
+### Polish-波兰语
 
 | Item        | Value                                                              |
 | ----------- | ------------------------------------------------------------------ |
@@ -229,7 +233,7 @@ tags:
 | **Meaning** | To <i>polish</i> something is to rub it in order to make it shiny. |
 | **Example** | Mark spent all morning <b>polishing</b> his shoes for the wedding. |
 
-## Bounce-反弹
+### Bounce-反弹
 
 | Item        | Value                                                                    |
 | ----------- | ------------------------------------------------------------------------ |
@@ -239,7 +243,7 @@ tags:
 | **Meaning** | To <i>bounce</i> is to move up and away from a surface after hitting it. |
 | **Example** | Owen <b>bounced</b> the ball on the ground.                              |
 
-## Sting-刺痛
+### Sting-刺痛
 
 | Item        | Value                                                                   |
 | ----------- | ----------------------------------------------------------------------- |
@@ -249,7 +253,7 @@ tags:
 | **Meaning** | To <i>sting</i> is to cause pain by pushing a sharp part into the skin. |
 | **Example** | The needle <b>stung</b> my arm and made me say, “Ouch!”                 |
 
-## Pat-拍拍
+### Pat-拍拍
 
 | Item        | Value                                                       |
 | ----------- | ----------------------------------------------------------- |
@@ -259,7 +263,7 @@ tags:
 | **Meaning** | To <i>pat</i> something is to hit it softly with your hand. |
 | **Example** | I <b>patted</b> some lotion onto my face.                   |
 
-## Suck-太差劲了
+### Suck-太差劲了
 
 | Item        | Value                                                                                |
 | ----------- | ------------------------------------------------------------------------------------ |
@@ -269,7 +273,7 @@ tags:
 | **Meaning** | To <i>suck</i> is to put something in your mouth and try to get something out of it. |
 | **Example** | The baby <b>sucked</b> milk from her bottle.                                         |
 
-## Fasten-紧固
+### Fasten-紧固
 
 | Item        | Value                                                                |
 | ----------- | -------------------------------------------------------------------- |
@@ -279,7 +283,7 @@ tags:
 | **Meaning** | To <i>fasten</i> something is to close it or attach it to something. |
 | **Example** | Elizabeth <b>fastened</b> her seat belt.                             |
 
-## Scatter-散布
+### Scatter-散布
 
 | Item        | Value                                                        |
 | ----------- | ------------------------------------------------------------ |
@@ -289,7 +293,7 @@ tags:
 | **Meaning** | To <i>scatter</i> something is to make it go in many places. |
 | **Example** | I accidentally <b>scattered</b> all of my pills.             |
 
-## Toss-掷硬币
+### Toss-掷硬币
 
 | Item        | Value                                           |
 | ----------- | ----------------------------------------------- |
@@ -299,7 +303,7 @@ tags:
 | **Meaning** | To <i>toss</i> something is to throw it softly. |
 | **Example** | He <b>tossed</b> a coin into the air.           |
 
-## Seize-抓住
+### Seize-抓住
 
 | Item        | Value                                                                        |
 | ----------- | ---------------------------------------------------------------------------- |
@@ -309,7 +313,7 @@ tags:
 | **Meaning** | To <i>seize</i> something means to grab it quickly or strongly.              |
 | **Example** | The man <b>seized</b> as much money as he could before anyone could see him. |
 
-## Squeeze-挤压
+### Squeeze-挤压
 
 | Item        | Value                                                                       |
 | ----------- | --------------------------------------------------------------------------- |
@@ -319,7 +323,7 @@ tags:
 | **Meaning** | To <i>squeeze</i> something means to press it together and hold it tightly. |
 | **Example** | When Clara saw her cat, she <b>squeezed</b> it to her face.                 |
 
-## Shave-刮胡子
+### Shave-刮胡子
 
 | Item        | Value                                                                       |
 | ----------- | --------------------------------------------------------------------------- |
@@ -329,7 +333,7 @@ tags:
 | **Meaning** | To <i>shave</i> means to cut the hairs on one’s face with a sharp tool.     |
 | **Example** | My father <b>shaves</b> his face every day because he doesn’t want a beard. |
 
-## Wipe-擦拭
+### Wipe-擦拭
 
 | Item        | Value                                                                      |
 | ----------- | -------------------------------------------------------------------------- |
@@ -339,7 +343,7 @@ tags:
 | **Meaning** | To <i>wipe</i> something is to slide a piece of cloth over it to clean it. |
 | **Example** | She <b>wiped</b> the dust from the windows.                                |
 
-## Splash-飞溅
+### Splash-飞溅
 
 | Item        | Value                                                                   |
 | ----------- | ----------------------------------------------------------------------- |
@@ -349,7 +353,7 @@ tags:
 | **Meaning** | To <i>splash</i> is to crash into something so that liquid spreads out. |
 | **Example** | Some green paint <b>splashed</b> upon the floor.                        |
 
-## Clap-鼓掌
+### Clap-鼓掌
 
 | Item        | Value                                                                                  |
 | ----------- | -------------------------------------------------------------------------------------- |
@@ -359,7 +363,7 @@ tags:
 | **Meaning** | To <i>clap</i> means to hit one’s hands together to express pleasure or get attention. |
 | **Example** | After the speech, everyone in the crowd <b>clapped</b> their hands for the speaker.    |
 
-## Pinch-夹紧
+### Pinch-夹紧
 
 | Item        | Value                                                                            |
 | ----------- | -------------------------------------------------------------------------------- |
@@ -369,7 +373,7 @@ tags:
 | **Meaning** | To <i>pinch</i> means to take a piece of skin between one’s fingers and squeeze. |
 | **Example** | I <b>pinched</b> my nose so I couldn’t smell the odor from the garbage.          |
 
-## Pierce-皮尔斯
+### Pierce-皮尔斯
 
 | Item        | Value                                                                       |
 | ----------- | --------------------------------------------------------------------------- |
@@ -379,7 +383,7 @@ tags:
 | **Meaning** | To <i>pierce</i> something means to make a hole in it using a sharp object. |
 | **Example** | The arrow <b>pierced</b> the target in the very center.                     |
 
-## Cram-临时抱佛脚
+### Cram-临时抱佛脚
 
 | Item        | Value                                                                              |
 | ----------- | ---------------------------------------------------------------------------------- |
@@ -389,7 +393,7 @@ tags:
 | **Meaning** | To <i>cram</i> things means to put them into a place that can barely contain them. |
 | **Example** | He <b>crammed</b> all of his shirts into the top drawer of the dresser.            |
 
-## Snap-捕捉
+### Snap-捕捉
 
 | Item        | Value                                                                              |
 | ----------- | ---------------------------------------------------------------------------------- |
@@ -399,7 +403,7 @@ tags:
 | **Meaning** | To <i>snap</i> something means to break it suddenly, which can cause a loud noise. |
 | **Example** | I took the drumstick and <b>snapped</b> it with my hands.                          |
 
-## Slap-打耳光
+### Slap-打耳光
 
 | Item        | Value                                                               |
 | ----------- | ------------------------------------------------------------------- |
@@ -409,7 +413,7 @@ tags:
 | **Meaning** | To <i>slap</i> someone means to hit them with the palm of the hand. |
 | **Example** | Out of anger, Helen <b>slapped</b> Eunice on the face.              |
 
-## Sift-筛分
+### Sift-筛分
 
 | Item        | Value                                                          |
 | ----------- | -------------------------------------------------------------- |
@@ -419,7 +423,7 @@ tags:
 | **Meaning** | To <i>sift</i> something means to remove all the large pieces. |
 | **Example** | The baker <b>sifted</b> the four into a large bowl.            |
 
-## Sprinkle-洒水
+### Sprinkle-洒水
 
 | Item        | Value                                                                  |
 | ----------- | ---------------------------------------------------------------------- |
@@ -429,7 +433,7 @@ tags:
 | **Meaning** | To <i>sprinkle</i> means to scatter something all over something else. |
 | **Example** | He <b>sprinkled</b> the pasta with salt and black pepper.              |
 
-## Scrape-刮擦
+### Scrape-刮擦
 
 | Item        | Value                                                                   |
 | ----------- | ----------------------------------------------------------------------- |
@@ -439,7 +443,7 @@ tags:
 | **Meaning** | To <i>scrape</i> something is to rub it very hard with something sharp. |
 | **Example** | I accidentally <b>scraped</b> the paint of the side of the car.         |
 
-## Stitch-缝合
+### Stitch-缝合
 
 | Item        | Value                                                                            |
 | ----------- | -------------------------------------------------------------------------------- |
@@ -449,7 +453,7 @@ tags:
 | **Meaning** | To <i>stitch</i> is to use a needle and thread to join pieces of cloth together. |
 | **Example** | My grandmother <b>stitched</b> the pieces together to make a big blanket.        |
 
-## Flip-翻转
+### Flip-翻转
 
 | Item        | Value                                                                |
 | ----------- | -------------------------------------------------------------------- |
@@ -459,7 +463,7 @@ tags:
 | **Meaning** | To <i>flip</i> means to press a switch quickly to turn it on or off. |
 | **Example** | To turn on the lights, just <b>flip</b> this switch.                 |
 
-## Peel-剥皮
+### Peel-剥皮
 
 | Item        | Value                                                         |
 | ----------- | ------------------------------------------------------------- |
@@ -469,7 +473,7 @@ tags:
 | **Meaning** | To <i>peel</i> fruits and vegetables is to remove their skin. |
 | **Example** | He <b>peeled</b> the apple before eating it.                  |
 
-## Discard-丢弃
+### Discard-丢弃
 
 | Item        | Value                                                        |
 | ----------- | ------------------------------------------------------------ |
@@ -479,7 +483,7 @@ tags:
 | **Meaning** | To <i>discard</i> something is to throw it away.             |
 | **Example** | After repairing the window, <b>discard</b> any broken glass. |
 
-## Lick-舌舔
+### Lick-舌舔
 
 | Item        | Value                                                         |
 | ----------- | ------------------------------------------------------------- |
@@ -489,7 +493,7 @@ tags:
 | **Meaning** | When you <i>lick</i> something, you pass your tongue over it. |
 | **Example** | He <b>licked</b> his ice cream before it melted.              |
 
-## Inflate-充气
+### Inflate-充气
 
 | Item        | Value                                                    |
 | ----------- | -------------------------------------------------------- |
@@ -499,7 +503,7 @@ tags:
 | **Meaning** | To <i>infate</i> something means to fill it up with air. |
 | **Example** | I helped him <b>infate</b> the balloons.                 |
 
-## Sever-服务器
+### Sever-服务器
 
 | Item        | Value                                                      |
 | ----------- | ---------------------------------------------------------- |
@@ -509,7 +513,7 @@ tags:
 | **Meaning** | To <i>sever</i> something is to cut through it completely. |
 | **Example** | He <b>severed</b> the string using scissors.               |
 
-## Stab-刺伤
+### Stab-刺伤
 
 | Item        | Value                                                                     |
 | ----------- | ------------------------------------------------------------------------- |
@@ -519,7 +523,7 @@ tags:
 | **Meaning** | To <i>stab</i> means to cut with the end of a sharp object like a knife.  |
 | **Example** | He <b>stabbed</b> the fork into the potato and passed it to his daughter. |
 
-## Orbit-动态观察
+### Orbit-动态观察
 
 | Item        | Value                                                                            |
 | ----------- | -------------------------------------------------------------------------------- |
@@ -529,7 +533,7 @@ tags:
 | **Meaning** | To <i>orbit</i> something means to move around it in a continuous, curving path. |
 | **Example** | The Moon <b>orbits</b> the Earth.                                                |
 
-## Excavate-挖掘
+### Excavate-挖掘
 
 | Item        | Value                                                                          |
 | ----------- | ------------------------------------------------------------------------------ |
@@ -539,7 +543,7 @@ tags:
 | **Meaning** | To <i>excavate</i> means to dig on land and remove dirt to look for something. |
 | **Example** | The team wishes to <b>excavate</b> the site in hope of finding fossils.        |
 
-## Propel-推进
+### Propel-推进
 
 | Item        | Value                                                                            |
 | ----------- | -------------------------------------------------------------------------------- |
@@ -549,7 +553,7 @@ tags:
 | **Meaning** | To <i>propel</i> something means to push or move it somewhere.                   |
 | **Example** | The strong wind <b>propelled</b> the leaf through the air and across the street. |
 
-## Penetrate-穿透
+### Penetrate-穿透
 
 | Item        | Value                                                         |
 | ----------- | ------------------------------------------------------------- |

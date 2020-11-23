@@ -9,7 +9,11 @@ tags:
 
 这是我在 Anki 上标记为 buiding Tag 的一些单词，不得不感叹外国人的房子种类可真多，记录如下：
 
-## Apartment-公寓
+## Table of Contents
+
+## 详细解释
+
+### Apartment-公寓
 
 | Item        | Value                                                                  |
 | ----------- | ---------------------------------------------------------------------- |
@@ -19,7 +23,7 @@ tags:
 | **Meaning** | An <i>apartment</i> is a set of rooms in a building where people live. |
 | **Example** | She has a nice <b>apartment</b> in the city.                           |
 
-## Greenhouse-温室
+### Greenhouse-温室
 
 | Item        | Value                                                                      |
 | ----------- | -------------------------------------------------------------------------- |
@@ -29,7 +33,7 @@ tags:
 | **Meaning** | A <i>greenhouse</i> is a small glass building that is used to grow plants. |
 | **Example** | We have a small <b>greenhouse</b> in our backyard where we grow plants.    |
 
-## Hut-小屋
+### Hut-小屋
 
 | Item        | Value                                                                               |
 | ----------- | ----------------------------------------------------------------------------------- |
@@ -39,7 +43,7 @@ tags:
 | **Meaning** | A <i>hut</i> is a house made of wood, grass, or mud that has only one or two rooms. |
 | **Example** | We all went into the <b>hut</b> to sleep.                                           |
 
-## Lodge-小屋
+### Lodge-小屋
 
 | Item        | Value                                                                       |
 | ----------- | --------------------------------------------------------------------------- |
@@ -49,7 +53,7 @@ tags:
 | **Meaning** | A <i>lodge</i> is a house in the mountains used by people who hunt or fish. |
 | **Example** | During our ski trip, we stayed at a <b>lodge</b>.                           |
 
-## Shed-棚子
+### Shed-棚子
 
 | Item        | Value                                                                      |
 | ----------- | -------------------------------------------------------------------------- |
@@ -59,7 +63,7 @@ tags:
 | **Meaning** | A <i>shed</i> is a small building in which people store things like tools. |
 | **Example** | We have a small <b>shed</b> in the backyard for storage.                   |
 
-## Cottage-农舍
+### Cottage-农舍
 
 | Item        | Value                                                      |
 | ----------- | ---------------------------------------------------------- |
@@ -69,7 +73,7 @@ tags:
 | **Meaning** | A <i>cottage</i> is a small, old house in the countryside. |
 | **Example** | My aunt lives in a pretty <b>cottage</b> in the mountains. |
 
-## Barn-谷仓
+### Barn-谷仓
 
 | Item        | Value                                                                             |
 | ----------- | --------------------------------------------------------------------------------- |
@@ -79,7 +83,7 @@ tags:
 | **Meaning** | A <i>barn</i> is a large farm building that houses crops, equipment, and animals. |
 | **Example** | My grandparents keep hay in their red <b>barn</b>.                                |
 
-## Chapel-礼拜堂
+### Chapel-礼拜堂
 
 | Item        | Value                                                                  |
 | ----------- | ---------------------------------------------------------------------- |
@@ -89,7 +93,7 @@ tags:
 | **Meaning** | A <i>chapel</i> is a building where people go to pray and worship God. |
 | **Example** | We were married in a small wedding <b>chapel</b> in Las Vegas.         |
 
-## Cabin-小屋
+### Cabin-小屋
 
 | Item        | Value                                                                                 |
 | ----------- | ------------------------------------------------------------------------------------- |
@@ -99,7 +103,7 @@ tags:
 | **Meaning** | A <i>cabin</i> is a small wooden house in a forest or camping area.                   |
 | **Example** | The man reached the mountain <b>cabin</b> after a long day of hiking along the river. |
 
-## Abbey-修道院
+### Abbey-修道院
 
 | Item        | Value                                                                           |
 | ----------- | ------------------------------------------------------------------------------- |
@@ -109,7 +113,7 @@ tags:
 | **Meaning** | An <i>abbey</i> is a house, or group of houses, where monks or nuns live.       |
 | **Example** | When the monk returned to the <b>abbey</b>, he went immediately to his bedroom. |
 
-## Attic-阁楼
+### Attic-阁楼
 
 | Item        | Value                                                |
 | ----------- | ---------------------------------------------------- |
@@ -119,7 +123,7 @@ tags:
 | **Meaning** | An <i>attic</i> is a room just below a house’s roof. |
 | **Example** | There were two windows in their <b>attic</b>.        |
 
-## Manor-庄园
+### Manor-庄园
 
 | Item        | Value                                                        |
 | ----------- | ------------------------------------------------------------ |
@@ -129,7 +133,7 @@ tags:
 | **Meaning** | A <i>manor</i> is a large house with many rooms.             |
 | **Example** | The <b>manor</b> had over forty rooms and beautiful gardens. |
 
-## Nursery-幼儿房
+### Nursery-幼儿房
 
 | Item        | Value                                                                                |
 | ----------- | ------------------------------------------------------------------------------------ |
@@ -139,7 +143,7 @@ tags:
 | **Meaning** | A <i>nursery</i> is a room where babies and children sleep, play, or are cared for.  |
 | **Example** | The children kissed their parents goodnight and went upstairs to the <b>nursery</b>. |
 
-## Mansion-豪宅
+### Mansion-豪宅
 
 | Item        | Value                                                             |
 | ----------- | ----------------------------------------------------------------- |
