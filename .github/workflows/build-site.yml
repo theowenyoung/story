@@ -1,4 +1,4 @@
-name: Sync Source
+name: Build Site
 on:
   workflow_dispatch:
   push:

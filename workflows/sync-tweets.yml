@@ -23,37 +23,15 @@ jobs:
           OUTPUTS_PATH: ${{ on.twitter.outputs.path }}
         with:
           script: |
-            const path = require('path')
-            const fs = require('fs').promises
-            const outputs = require(`${process.env.GITHUB_WORKSPACE}/${process.env.OUTPUTS_PATH}`)
-            const promises = outputs.map((item) => {
-                const createdAt = new Date(Date.parse(item.created_at))
-                const tweetFilePath = `./en/tweets/${createdAt.getUTCFullYear()}/${createdAt.getUTCMonth()+1}/${item.id_str}.json`
-                return fs.mkdir(path.dirname(tweetFilePath), {
-                    recursive: true
-                }).then(()=>{
-                  return fs.writeFile(
-                      tweetFilePath,
-                      JSON.stringify(item, null, 2),
-                      {
-                        flag: "wx"
-                      }
-                  ).catch((e) => {
-                    if (e.code === "EEXIST") {
-                      return Promise.resolve();
-                    } else {
-                      return Promise.reject(e);
-                    }
-                  });
-                })
-
-            });
-            await Promise.all(promises);
-            return outputs.length
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v5
+            const syncTweets = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-tweets`)
+            const result = await syncTweets({lang:'en'})
+            return result
+      - name: Create Pull Request
+        if: true
+        uses: theowenyoung/create-pull-request@master
         with:
-          message: "chore: add tweet data"
-          add: "en/tweets/*"
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          commit-message: "chore: new item"
+          branch: new-item
+          delete-branch: true
+          title: New item update
