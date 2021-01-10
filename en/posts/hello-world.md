@@ -105,9 +105,6 @@ Blockquotes can be nested (i.e. a blockquote-in-a-blockquote) by
 adding additional levels of `>`:
 
 > This is the first level of quoting.
->
-> > This is nested blockquote.
->
 > Back to the first level.
 
 Blockquotes can contain other Markdown elements, including headers, lists,
