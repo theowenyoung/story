@@ -26,12 +26,3 @@ jobs:
             const syncTweets = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-tweets`)
             const result = await syncTweets({lang:'zh'})
             return result
-      - name: Create Pull Request
-        if: true
-        uses: theowenyoung/create-pull-request@master
-        with:
-          token: ${{ secrets.PERSONAL_TOKEN }}
-          commit-message: "chore: new item"
-          branch: new-item
-          delete-branch: true
-          title: New item update
