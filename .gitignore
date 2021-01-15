@@ -3,6 +3,9 @@
 .AppleDouble
 .LSOverride
 .actionsflow
+actionsflow-cache-key.txt
+.secrets
+
 # Icon must end with two \r
 Icon
 
