@@ -1,0 +1,24 @@
+name: Sync Instagram to JSON files
+on:
+  instagram:
+    access_token: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+    user_id: "17841432487737681"
+    fetchAllResultsAtFirst: true
+    config:
+      exportOutputs: true
+      outputsMode: combine
+jobs:
+  sync:
+    name: Sync Instagram to JSON
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create Instagram JSON
+        uses: actions/github-script@v2
+        env:
+          OUTPUTS_PATH: ${{ on.instagram.outputs.path }}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const sync = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-instagram`)
+            const result = await sync({lang:'en'})
+            return result
