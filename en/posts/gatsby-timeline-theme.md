@@ -30,3 +30,11 @@ Just start a new blog for yourself:
 ```bash
 gatsby new my-themed-blog https://github.com/theowenyoung/gatsby-starter-timeline
 ```
+
+> For more about installation please see [here](https://github.com/theowenyoung/gatsby-theme-timeline/tree/main/packages/gatsby-theme-timeline#installation)
+
+## Note
+
+In the starter demo, I use two gatsby plugins [gatsby-source-twitter](https://github.com/G100g/gatsby-source-twitter) and [gatsby-source-instagram](https://github.com/theowenyoung/gatsby-source-instagram) as the blog's sources. But in [my blog](https://blog.owenyoung.com), I use [Actionsflow](https://github.com/actionsflow/actionsflow) to get my tweets, instagram data, sync the JSON file to [my content source repository](https://github.com/theowenyoung/story) ((Why Actionsflow? For more stably, and I can store all my creative work into one)), and [site repository](https://github.com/theowenyoung/theowenyoung.github.io) use plugin [gatsby-source-git](https://github.com/theowenyoung/gatsby-source-git) to sync those data, and my markdown posts.
+
+> Disclaimer: I made the [Actionsflow](https://github.com/actionsflow/actionsflow) :)
