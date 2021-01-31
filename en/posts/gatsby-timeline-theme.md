@@ -13,6 +13,8 @@ Don't you think there are too many different personal profile for us? Like twitt
 
 Checkout my blog: https://blog.owenyoung.com/
 
+[Source Repo](https://github.com/theowenyoung/gatsby-theme-timeline)
+
 [Live Demo](https://gatsby-theme-timeline.owenyoung.com/)
 
 ![Screen](https://camo.githubusercontent.com/b3a1a92a41a81707b6690eb4710194e5d6e79895082e329d9d3bfe35944c0207/68747470733a2f2f692e696d6775722e636f6d2f367949544934452e706e67)
