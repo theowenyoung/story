@@ -8,18 +8,18 @@ tags:
   - Stack
 ---
 
-A long time ago I wanted to show all my works on my homepage, includes posts, tweets, instagram posts, etc. Today, I did it! By developing a new gatsby blog theme [gatsby-theme-timeline](https://github.com/theowenyoung/gatsby-theme-timeline). I'll record the workflow of my blog here.
+A long time ago I wanted to show all my works on my homepage, includes posts, tweets, Instagram posts, etc. Today, I did it! By developing a new gatsby blog theme [gatsby-theme-timeline](https://github.com/theowenyoung/gatsby-theme-timeline). I'll record the workflow of my blog here.
 
 ## Workflow
 
-The blog is content-site separated, which means I created a [content repository](https://github.com/theowenyoung/story)) and a [site repository](https://github.com/theowenyoung/theowenyoung.github.io). I supposed I can store all my creative works to [the content repo](https://github.com/theowenyoung/story)
+The blog is content-site separated, which means I created a [content repository](https://github.com/theowenyoung/story) and a [site repository](https://github.com/theowenyoung/theowenyoung.github.io). I hope I can store all my creative works to [the content repo](https://github.com/theowenyoung/story)
 
 I made a flow chart for the workflow:
 
 ```mermaid
 graph TD
     Article[Write Article]
-    Data[Third Party JSON Data tweets,instagram]
+    Data[Third Party's JSON Data tweets,instagram]
     Article --> | commit | Source
     Data --> |commit|Source
     Source[Content Source Repo]
@@ -27,9 +27,82 @@ graph TD
     Source --> |when update, trigger|Target
 ```
 
+## Sync Third Party's JSON Data
+
+How can I own my data? Maybe it's a googd idea to store all my third party's data to my git repository, then, even Twitter shut down, I still have my data.
+
+I use [Actionsflow](https://github.com/actionsflow/actionsflow) to sync my tweets, instagram post, when Actionsflow detect Twitter or Instagram updates, it'll get the JSON data of them by using their official API, and create a `.json` file, create a pull request to my [content repository](https://github.com/theowenyoung/story).
+
+For more about [Actionsflow](https://github.com/actionsflow/actionsflow), please see [docs](https://actionsflow.github.io/docs/)
+
+Here is [the Twitter workflow](https://github.com/theowenyoung/story/blob/main/workflows/sync-tweets.yml):
+
+```yaml
+name: Sync Tweets to JSON files
+on:
+  twitter:
+    auth:
+      consumer_key: ${{ secrets.TWITTER_CONSUMER_KEY }}
+      consumer_secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+      access_token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+      access_token_secret: ${{ secrets.TWITTER_ACCESS_SECRET }}
+    params:
+      screen_name: theowenyoung
+    fetchAllResultsAtFirst: true
+    config:
+      exportOutputs: true
+      outputsMode: combine
+jobs:
+  sync:
+    name: Sync Tweets to JSON
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create Tweet JSON
+        uses: actions/github-script@v2
+        env:
+          OUTPUTS_PATH: ${{ on.twitter.outputs.path }}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const syncTweets = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-tweets`)
+            const result = await syncTweets({lang:'en'})
+            return result
+```
+
+[The Instagram workflow](https://github.com/theowenyoung/story/blob/main/workflows/sync-instagram.yml):
+
+```yaml
+name: Sync Instagram to JSON files
+on:
+  instagram:
+    access_token: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+    user_id: "17841432487737681"
+    fetchAllResultsAtFirst: true
+    config:
+      exportOutputs: true
+      outputsMode: combine
+jobs:
+  sync:
+    name: Sync Instagram to JSON
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create Instagram JSON
+        uses: actions/github-script@v3
+        env:
+          OUTPUTS_PATH: ${{ on.instagram.outputs.path }}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const sync = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-instagram`)
+            const result = await sync({lang:'en'})
+            return result
+```
+
+> Disclaimer: I'm the author of [Actionsflow](https://github.com/actionsflow/actionsflow) :)
+
 ## Language
 
-My native language is Chinese, so I write Chinese posts, I have two twitter accounts to write tweets for [English tweets](https://twitter.com/TheOwenYoung) and [Chinese tweets](https://twitter.com/owenyoung_zh), the content repository's structure is like this:
+My native language is Chinese, so I write Chinese posts, I have two Twitter accounts to write tweets for [English tweets](https://twitter.com/TheOwenYoung) and [Chinese tweets](https://twitter.com/owenyoung_zh), the content repository's structure is like this:
 
 ```bash
 /en
@@ -41,7 +114,7 @@ My native language is Chinese, so I write Chinese posts, I have two twitter acco
   posts/
 ```
 
-I created 2 menu links `/zh`,`/en` to let users to filter posts by language.
+I created 2 menu links `/zh`,`/en` to let users filter posts by language.
 
 ![Menulinks Figure](https://i.imgur.com/VsRAC3u.png)
 
