@@ -1,6 +1,6 @@
 ---
 title: How I Built my Blog?
-date: 2021-1-30
+date: 2021-01-30
 tags:
   - Gatsby
   - Theme

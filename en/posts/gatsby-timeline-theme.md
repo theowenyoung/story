@@ -1,6 +1,6 @@
 ---
 title: A new Gatsby theme [Timeline] - Show your all posts, tweets, instagram posts into one
-date: 2021-1-29
+date: 2021-01-29
 tags:
   - Gatsby
   - Theme
