@@ -6,6 +6,7 @@ tags:
   - Theme
   - Product
   - Release
+image: https://i.imgur.com/LI3xVu0.png
 ---
 
 Don't you think there are too many different personal profile for us? Like twitter, instagram, facebook, blog, etc, So do I, I suppose there is an elegant site to show all my creative work, that's the new gatsby theme [Timeline](https://github.com/theowenyoung/gatsby-theme-timeline), a [Gatsby](https://www.gatsbyjs.com/) theme, you can use it to show your all posts, tweets, instagram posts etc into one blog. In my opinion, this is a real personal home.
