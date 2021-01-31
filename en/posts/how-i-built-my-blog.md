@@ -372,3 +372,8 @@ module.exports = {
   ],
 };
 ```
+
+## Related Repositories
+
+- [Content Repository](https://github.com/theowenyoung/story)
+- [Site Repository](https://github.com/theowenyoung/theowenyoung.github.io)
