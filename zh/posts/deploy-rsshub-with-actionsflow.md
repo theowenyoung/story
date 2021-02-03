@@ -39,6 +39,8 @@ jobs:
           disable_web_page_preview: true
 ```
 
+> 配置来自[这里](https://github.com/theowenyoung/actionsflow-workflow/blob/main/workflows/rsshub.yml)
+
 接下来介绍下如何部署：）
 
 > 因为 rsshub 这个 trigger 没有内置在 Actionsflow 里，所以按照官方的教程初始化之后，需要主动安装下[@actionsflow/trigger-rsshub](https://github.com/theowenyoung/actionsflow-trigger-rsshub)这个 trigger
