@@ -1,0 +1,218 @@
+{
+  "created_at": "Tue Mar 30 19:50:56 +0000 2021",
+  "id": 1376985315236188200,
+  "id_str": "1376985315236188160",
+  "full_text": "The browser Vivaldi https://t.co/W1cVtRwF4V , I think it's the best one for me. I created several workspaces, separated sessions, so I can switch the workspace for different purpose, work, home, anonymous, project. I also like the features like sidebar panels, custom bookmark bar https://t.co/zAQy0bMeTC",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    280
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/W1cVtRwF4V",
+        "expanded_url": "https://vivaldi.com",
+        "display_url": "vivaldi.com",
+        "indices": [
+          20,
+          43
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1376983297444638700,
+        "id_str": "1376983297444638721",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/ExwHA3HVcAEJOq4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ExwHA3HVcAEJOq4.jpg",
+        "url": "https://t.co/zAQy0bMeTC",
+        "display_url": "pic.twitter.com/zAQy0bMeTC",
+        "expanded_url": "https://twitter.com/TheOwenYoung/status/1376985315236188160/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 357,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 508,
+            "h": 968,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 508,
+            "h": 968,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1376983297444638700,
+        "id_str": "1376983297444638721",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/ExwHA3HVcAEJOq4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ExwHA3HVcAEJOq4.jpg",
+        "url": "https://t.co/zAQy0bMeTC",
+        "display_url": "pic.twitter.com/zAQy0bMeTC",
+        "expanded_url": "https://twitter.com/TheOwenYoung/status/1376985315236188160/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 357,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 508,
+            "h": 968,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 508,
+            "h": 968,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1376984719787581400,
+        "id_str": "1376984719787581440",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/ExwITpwUYAAAj-l.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ExwITpwUYAAAj-l.jpg",
+        "url": "https://t.co/zAQy0bMeTC",
+        "display_url": "pic.twitter.com/zAQy0bMeTC",
+        "expanded_url": "https://twitter.com/TheOwenYoung/status/1376985315236188160/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 528,
+            "h": 1144,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 528,
+            "h": 1144,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 314,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1241294513575878700,
+    "id_str": "1241294513575878656",
+    "name": "Owen Young",
+    "screen_name": "TheOwenYoung",
+    "location": "",
+    "description": "Freelancer / perfectionism / workflow lover / 中文推 @owenyoung_zh",
+    "url": "https://t.co/uPEqybiPDr",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/uPEqybiPDr",
+            "expanded_url": "https://blog.owenyoung.com",
+            "display_url": "blog.owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 27,
+    "friends_count": 85,
+    "listed_count": 1,
+    "created_at": "Sat Mar 21 09:24:27 +0000 2020",
+    "favourites_count": 18,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 27,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
