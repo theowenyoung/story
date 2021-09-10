@@ -1,0 +1,133 @@
+{
+  "created_at": "Sun Jun 06 14:55:54 +0000 2021",
+  "id": 1401553442665951200,
+  "id_str": "1401553442665951237",
+  "full_text": "Console: A free weekly roundup of the latest in open-source software https://t.co/U71RZlZDGr\n\nIt's really helpful for discovering new open-source softwares and the people behind the software.",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    191
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/U71RZlZDGr",
+        "expanded_url": "https://www.producthunt.com/posts/console-2",
+        "display_url": "producthunt.com/posts/console-2",
+        "indices": [
+          69,
+          92
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1241294513575878700,
+    "id_str": "1241294513575878656",
+    "name": "Owen Young",
+    "screen_name": "TheOwenYoung",
+    "location": "",
+    "description": "Freelancer / perfectionism / workflow lover / 中文推 @owenyoung_zh / the maker of https://t.co/4m2DI4WNd2 https://t.co/tj1ryzm1n0 https://t.co/9JETwbJC7K",
+    "url": "https://t.co/GOmdskRx05",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/GOmdskRx05",
+            "expanded_url": "https://wiki.owenyoung.com",
+            "display_url": "wiki.owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/4m2DI4WNd2",
+            "expanded_url": "http://buzzing.cc",
+            "display_url": "buzzing.cc",
+            "indices": [
+              79,
+              102
+            ]
+          },
+          {
+            "url": "https://t.co/tj1ryzm1n0",
+            "expanded_url": "http://trackawesomelist.com",
+            "display_url": "trackawesomelist.com",
+            "indices": [
+              103,
+              126
+            ]
+          },
+          {
+            "url": "https://t.co/9JETwbJC7K",
+            "expanded_url": "http://actionsflow.github.io",
+            "display_url": "actionsflow.github.io",
+            "indices": [
+              127,
+              150
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 41,
+    "friends_count": 107,
+    "listed_count": 4,
+    "created_at": "Sat Mar 21 09:24:27 +0000 2020",
+    "favourites_count": 24,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 34,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

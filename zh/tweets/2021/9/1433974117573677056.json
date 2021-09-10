@@ -1,0 +1,142 @@
+{
+  "created_at": "Sat Sep 04 02:04:06 +0000 2021",
+  "id": 1433974117573677000,
+  "id_str": "1433974117573677056",
+  "full_text": "2021最颠覆我认知的就是出现了一批要付费的浏览器。比如：https://t.co/slpI1HWd4m， https://t.co/r2wgMmoTTq 可能是嘴养刁了吧，感觉每月要为浏览器付费有点难以接受。。虽然sidekick确实也颠覆了我对浏览器的认知。但是最后还是选择了性能更好的Edge。我以前还以为浏览器是最好赚钱的工具呢。",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    169
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/slpI1HWd4m",
+        "expanded_url": "https://sizzy.co/",
+        "display_url": "sizzy.co",
+        "indices": [
+          29,
+          52
+        ]
+      },
+      {
+        "url": "https://t.co/r2wgMmoTTq",
+        "expanded_url": "https://www.meetsidekick.com",
+        "display_url": "meetsidekick.com",
+        "indices": [
+          54,
+          77
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1315602897091010600,
+    "id_str": "1315602897091010561",
+    "name": "Owen",
+    "screen_name": "OwenYoung_zh",
+    "location": "",
+    "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , https://t.co/qMcLMxVoJX , https://t.co/Pb7P5k11Zy , https://t.co/zVP31AWMJB",
+    "url": "https://t.co/SI1DtwxH2K",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/SI1DtwxH2K",
+            "expanded_url": "https://wiki.owenyoung.com",
+            "display_url": "wiki.owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/qMcLMxVoJX",
+            "expanded_url": "https://www.buzzing.cc",
+            "display_url": "buzzing.cc",
+            "indices": [
+              70,
+              93
+            ]
+          },
+          {
+            "url": "https://t.co/Pb7P5k11Zy",
+            "expanded_url": "https://www.trackawesomelist.com",
+            "display_url": "trackawesomelist.com",
+            "indices": [
+              96,
+              119
+            ]
+          },
+          {
+            "url": "https://t.co/zVP31AWMJB",
+            "expanded_url": "https://actionsflow.github.io/",
+            "display_url": "actionsflow.github.io",
+            "indices": [
+              122,
+              145
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 61,
+    "friends_count": 51,
+    "listed_count": 1,
+    "created_at": "Mon Oct 12 10:39:22 +0000 2020",
+    "favourites_count": 11,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 80,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "zh"
+}
