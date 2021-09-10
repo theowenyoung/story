@@ -5,6 +5,7 @@ on:
     user_id: "17841432487737681"
     fetchAllResultsAtFirst: true
     config:
+      active: false
       exportOutputs: true
       outputsMode: combine
 jobs:
