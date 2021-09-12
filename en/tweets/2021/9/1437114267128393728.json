@@ -1,0 +1,278 @@
+{
+  "created_at": "Sun Sep 12 18:01:56 +0000 2021",
+  "id": 1437114267128393700,
+  "id_str": "1437114267128393728",
+  "full_text": "RT @jakeprins_nl: The best places to post your startup. \n\nA great way to show your product to the world is by sharing it on platforms like…",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jakeprins_nl",
+        "name": "Jake Prins",
+        "id": 4406230233,
+        "id_str": "4406230233",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1241294513575878700,
+    "id_str": "1241294513575878656",
+    "name": "Owen Young",
+    "screen_name": "TheOwenYoung",
+    "location": "",
+    "description": "Freelancer / perfectionism / workflow lover / 中文推 @owenyoung_zh / the maker of https://t.co/4m2DI4WNd2 https://t.co/tj1ryzm1n0 https://t.co/9JETwbJC7K",
+    "url": "https://t.co/GOmdskRx05",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/GOmdskRx05",
+            "expanded_url": "https://wiki.owenyoung.com",
+            "display_url": "wiki.owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/4m2DI4WNd2",
+            "expanded_url": "http://buzzing.cc",
+            "display_url": "buzzing.cc",
+            "indices": [
+              79,
+              102
+            ]
+          },
+          {
+            "url": "https://t.co/tj1ryzm1n0",
+            "expanded_url": "http://trackawesomelist.com",
+            "display_url": "trackawesomelist.com",
+            "indices": [
+              103,
+              126
+            ]
+          },
+          {
+            "url": "https://t.co/9JETwbJC7K",
+            "expanded_url": "http://actionsflow.github.io",
+            "display_url": "actionsflow.github.io",
+            "indices": [
+              127,
+              150
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 42,
+    "friends_count": 111,
+    "listed_count": 4,
+    "created_at": "Sat Mar 21 09:24:27 +0000 2020",
+    "favourites_count": 24,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 35,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Aug 11 17:50:00 +0000 2020",
+    "id": 1293243281556594700,
+    "id_str": "1293243281556594690",
+    "full_text": "The best places to post your startup. \n\nA great way to show your product to the world is by sharing it on platforms like @ProductHunt, @IndieHackers, @reddit, etc. It’s also an easy way to get some feedback and backlinks. Here are some great directories to submit your product.👇",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ProductHunt",
+          "name": "Product Hunt 😸 ",
+          "id": 2208027565,
+          "id_str": "2208027565",
+          "indices": [
+            121,
+            133
+          ]
+        },
+        {
+          "screen_name": "IndieHackers",
+          "name": "Indie Hackers",
+          "id": 756326958946922500,
+          "id_str": "756326958946922496",
+          "indices": [
+            135,
+            148
+          ]
+        },
+        {
+          "screen_name": "Reddit",
+          "name": "Reddit",
+          "id": 811377,
+          "id_str": "811377",
+          "indices": [
+            150,
+            157
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4406230233,
+      "id_str": "4406230233",
+      "name": "Jake Prins",
+      "screen_name": "jakeprins_nl",
+      "location": "In the cloud ☁️",
+      "description": "Frontend Engineer at https://t.co/pqUaEn3FF8 |  Maker of https://t.co/5RBMuZdYgG, a starter kit for building SaaS applications with Next.js | $₳MP",
+      "url": "https://t.co/XmN2eDOWMo",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/XmN2eDOWMo",
+              "expanded_url": "https://www.jakeprins.com",
+              "display_url": "jakeprins.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/pqUaEn3FF8",
+              "expanded_url": "http://apideck.com",
+              "display_url": "apideck.com",
+              "indices": [
+                21,
+                44
+              ]
+            },
+            {
+              "url": "https://t.co/5RBMuZdYgG",
+              "expanded_url": "http://serverless.page",
+              "display_url": "serverless.page",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 741,
+      "friends_count": 631,
+      "listed_count": 27,
+      "created_at": "Mon Dec 07 15:52:22 +0000 2015",
+      "favourites_count": 3716,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 616,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1102120097081184257/61tO47TQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102120097081184257/61tO47TQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4406230233/1612173668",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 86,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 18,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": true,
+  "lang": "en"
+}
