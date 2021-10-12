@@ -1,6 +1,6 @@
 ---
 title: 分享somethingawful.com的论坛协议
-date: 2021-02-03
+date: 2021-10-12
 tags:
   - 规则
   - 分享
