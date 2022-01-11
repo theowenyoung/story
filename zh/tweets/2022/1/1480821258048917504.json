@@ -1,0 +1,279 @@
+{
+  "created_at": "Tue Jan 11 08:37:54 +0000 2022",
+  "id": 1480821258048917500,
+  "id_str": "1480821258048917504",
+  "full_text": "RT @HackerNewsZh: 开放源码维护者的负担\n\nThe burden of an Open Source maintainer\n\nHN讨论地址: https://t.co/77v1I6rQWq\n\n原文地址: https://t.co/cVL9trSiH3",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    133
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "HackerNewsZh",
+        "name": "Hacker News 中文精选",
+        "id": 1476693293014876200,
+        "id_str": "1476693293014876160",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/77v1I6rQWq",
+        "expanded_url": "https://news.ycombinator.com/item?id=29876674",
+        "display_url": "news.ycombinator.com/item?id=298766…",
+        "indices": [
+          79,
+          102
+        ]
+      },
+      {
+        "url": "https://t.co/cVL9trSiH3",
+        "expanded_url": "https://www.jeffgeerling.com/blog/2022/burden-open-source-maintainer",
+        "display_url": "jeffgeerling.com/blog/2022/burd…",
+        "indices": [
+          110,
+          133
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1315602897091010600,
+    "id_str": "1315602897091010561",
+    "name": "Owen",
+    "screen_name": "OwenYoung_zh",
+    "location": "",
+    "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , 正在完成一部可以留给grandchild的wiki. 正在维护: https://t.co/WKpxbUTAnZ , https://t.co/sFAPhwRPXU , https://t.co/PVEHFM38MW",
+    "url": "https://t.co/SI1DtwxH2K",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/SI1DtwxH2K",
+            "expanded_url": "https://wiki.owenyoung.com",
+            "display_url": "wiki.owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/WKpxbUTAnZ",
+            "expanded_url": "http://buzzing.cc",
+            "display_url": "buzzing.cc",
+            "indices": [
+              103,
+              126
+            ]
+          },
+          {
+            "url": "https://t.co/sFAPhwRPXU",
+            "expanded_url": "http://trackawesomelist.com",
+            "display_url": "trackawesomelist.com",
+            "indices": [
+              129,
+              152
+            ]
+          },
+          {
+            "url": "https://t.co/PVEHFM38MW",
+            "expanded_url": "http://actionsflow.github.io",
+            "display_url": "actionsflow.github.io",
+            "indices": [
+              155,
+              178
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 86,
+    "friends_count": 69,
+    "listed_count": 3,
+    "created_at": "Mon Oct 12 10:39:22 +0000 2020",
+    "favourites_count": 34,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 158,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315602897091010561/1632565739",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jan 11 07:40:48 +0000 2022",
+    "id": 1480806887859830800,
+    "id_str": "1480806887859830786",
+    "full_text": "开放源码维护者的负担\n\nThe burden of an Open Source maintainer\n\nHN讨论地址: https://t.co/77v1I6rQWq\n\n原文地址: https://t.co/cVL9trSiH3",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      115
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/77v1I6rQWq",
+          "expanded_url": "https://news.ycombinator.com/item?id=29876674",
+          "display_url": "news.ycombinator.com/item?id=298766…",
+          "indices": [
+            61,
+            84
+          ]
+        },
+        {
+          "url": "https://t.co/cVL9trSiH3",
+          "expanded_url": "https://www.jeffgeerling.com/blog/2022/burden-open-source-maintainer",
+          "display_url": "jeffgeerling.com/blog/2022/burd…",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://pipedream.com\" rel=\"nofollow\">Pipedream, Inc</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1476693293014876200,
+      "id_str": "1476693293014876160",
+      "name": "Hacker News 中文精选",
+      "screen_name": "HackerNewsZh",
+      "location": "",
+      "description": "Hacker News 中文 Bot， 每小时2条，推送 HN 当前最热门的讨论，附带原文标题,  地址和HN讨论地址, 中文标题来自 https://t.co/TvvVW5yfQR ，使用deepl机器翻译， 背后的人： @OwenYoung_zh",
+      "url": "https://t.co/ub1mvd5nVy",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ub1mvd5nVy",
+              "expanded_url": "https://hn.buzzing.cc",
+              "display_url": "hn.buzzing.cc",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/TvvVW5yfQR",
+              "expanded_url": "http://hn.buzzing.cc",
+              "display_url": "hn.buzzing.cc",
+              "indices": [
+                68,
+                91
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 33,
+      "friends_count": 41,
+      "listed_count": 0,
+      "created_at": "Thu Dec 30 23:15:02 +0000 2021",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 277,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1476698262031978496/qJqKfBi9_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1476698262031978496/qJqKfBi9_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476693293014876160/1640907848",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": true,
+  "retweeted": true,
+  "possibly_sensitive": false,
+  "lang": "zh"
+}
