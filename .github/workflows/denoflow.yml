@@ -33,7 +33,7 @@ jobs:
       - name: git config
         run: git config --global user.name "github-actions[bot]" && git config --global user.email github-actions-bot@users.noreply.github.com
       - name: git add
-        run: git add data && git add sources
+        run: git add data,en,zh
       - run: git status
       - id: isChanged
         run: git diff-index --cached --quiet HEAD || echo '::set-output name=changed::true'
