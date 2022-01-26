@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "date": "Wed, 26 Jan 2022 12:05:19 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "3CBE:3FA3:4FDC82:62D1CE:61F138FF",
+    "x-cache": "MISS",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-itm18849-ITM",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding,Origin",
+    "x-fastly-request-id": "8394f14a98b6b6748a43104e43f3e26678f30a3c",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish",
+    "etag": "W/\"9c7832c5ac8ed0cb68b6141d7c8618ecb414e0bea1167087ed333d00a9020fb5\"",
+    "expires": "Wed, 26 Jan 2022 12:10:19 GMT",
+    "source-age": "0",
+    "x-timer": "S1643198719.119130,VS0,VE229"
+  },
+  "url": "https://raw.githubusercontent.com/denoflow/denoflow/main/core/run-workflows.ts",
+  "now": {
+    "secs_since_epoch": 1643198719,
+    "nanos_since_epoch": 332704000
+  }
+}

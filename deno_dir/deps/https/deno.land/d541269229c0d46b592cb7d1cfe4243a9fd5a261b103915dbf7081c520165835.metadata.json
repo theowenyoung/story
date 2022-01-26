@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "server": "deploy/asia-northeast2-c",
+    "access-control-allow-origin": "*",
+    "x-amz-id-2": "BmJtEWVAfKRN3nk1+Cstb462g1CHhHOu0169iob+j0FXqDFS2RS7A216nD1dpZBlhJnGxmqovDI=",
+    "etag": "\"3fc23f5ad063b8b32a424cd4ff502610\"",
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "date": "Wed, 26 Jan 2022 12:05:22 GMT",
+    "x-amz-version-id": "null",
+    "content-length": "193",
+    "content-type": "application/javascript",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-request-id": "MKB33J67MANCSQ1X"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_Map.js",
+  "now": {
+    "secs_since_epoch": 1643198721,
+    "nanos_since_epoch": 983449000
+  }
+}

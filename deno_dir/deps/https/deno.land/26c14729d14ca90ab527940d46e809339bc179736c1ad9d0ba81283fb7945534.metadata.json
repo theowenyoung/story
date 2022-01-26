@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "447",
+    "server": "deploy/asia-northeast2-c",
+    "access-control-allow-origin": "*",
+    "date": "Wed, 26 Jan 2022 12:05:22 GMT",
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "x-amz-version-id": "null",
+    "x-amz-request-id": "MKB3WAAAHZFSETYX",
+    "x-amz-id-2": "58JYEGCRbgKXjXpKIBs7gZdbvnWkVHvKNKh4LYJcEuNcgQLXmDMbn8nM5vBRLPWVJe1yPC1x9k4=",
+    "etag": "\"732ce29ef604da743ce41ee977680c02\"",
+    "content-type": "application/javascript"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_cloneArrayBuffer.js",
+  "now": {
+    "secs_since_epoch": 1643198721,
+    "nanos_since_epoch": 982675000
+  }
+}

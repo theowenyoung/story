@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "content-length": "1245",
+    "content-type": "application/javascript",
+    "server": "deploy/asia-northeast2-c",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "\"cd97b84e87b5056d976045bfd3e10043\"",
+    "last-modified": "Sat, 29 Aug 2020 19:56:50 GMT",
+    "date": "Wed, 26 Jan 2022 12:05:21 GMT",
+    "x-amz-id-2": "R/k0SodfohqGt543Oa13A+VDvstcjdmVOdP7tbr2Bzz/8+uQngOTw2/gSflb0rpUH8yFyB6mg+M=",
+    "x-amz-request-id": "9A4C6XJK6TRD05TR",
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "null"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/mergeWith.js",
+  "now": {
+    "secs_since_epoch": 1643198720,
+    "nanos_since_epoch": 769267000
+  }
+}

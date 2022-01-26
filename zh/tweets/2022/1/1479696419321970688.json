@@ -1,0 +1,163 @@
+{
+  "created_at": "Sat Jan 08 06:08:12 +0000 2022",
+  "id": 1479696419321970700,
+  "id_str": "1479696419321970688",
+  "full_text": "@HackerNewsZh 欢迎关注！（-- 我是背后的人）\n\n同时一口气又做了另外2个Bot，都是我经常看的内容，一个是 问Reddit： @AskRedditZh , 收录Reddit上各种有意思的提问，哲学问题，两性问题，历史问题，以及各种不敢问别人 的问题等等。另一个是 国外新闻Bot @NewsBotZh , 第一时间转发谷歌全球新闻头条的中文速览。",
+  "truncated": false,
+  "display_text_range": [
+    14,
+    181
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "HackerNewsZh",
+        "name": "Hacker News 中文精选",
+        "id": 1476693293014876200,
+        "id_str": "1476693293014876160",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "screen_name": "AskRedditZh",
+        "name": "问Reddit",
+        "id": 1478935328375607300,
+        "id_str": "1478935328375607307",
+        "indices": [
+          71,
+          83
+        ]
+      },
+      {
+        "screen_name": "NewsBotZh",
+        "name": "国外新闻 Bot",
+        "id": 1479337809546981400,
+        "id_str": "1479337809546981377",
+        "indices": [
+          148,
+          158
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1479694500318834700,
+  "in_reply_to_status_id_str": "1479694500318834689",
+  "in_reply_to_user_id": 1476693293014876200,
+  "in_reply_to_user_id_str": "1476693293014876160",
+  "in_reply_to_screen_name": "HackerNewsZh",
+  "user": {
+    "id": 1315602897091010600,
+    "id_str": "1315602897091010561",
+    "name": "Owen",
+    "screen_name": "OwenYoung_zh",
+    "location": "",
+    "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
+    "url": "https://t.co/SI1DtwgE0K",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/SI1DtwgE0K",
+            "expanded_url": "https://wiki.owenyoung.com",
+            "display_url": "wiki.owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/HWIyoz4rCy",
+            "expanded_url": "http://wiki.owenyoung.com",
+            "display_url": "wiki.owenyoung.com",
+            "indices": [
+              76,
+              99
+            ]
+          },
+          {
+            "url": "https://t.co/WKpxbVbJC7",
+            "expanded_url": "http://buzzing.cc",
+            "display_url": "buzzing.cc",
+            "indices": [
+              106,
+              129
+            ]
+          },
+          {
+            "url": "https://t.co/sFAPhwAMVU",
+            "expanded_url": "http://trackawesomelist.com",
+            "display_url": "trackawesomelist.com",
+            "indices": [
+              132,
+              155
+            ]
+          },
+          {
+            "url": "https://t.co/PVEHFLM5KW",
+            "expanded_url": "http://actionsflow.github.io",
+            "display_url": "actionsflow.github.io",
+            "indices": [
+              158,
+              181
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 91,
+    "friends_count": 70,
+    "listed_count": 3,
+    "created_at": "Mon Oct 12 10:39:22 +0000 2020",
+    "favourites_count": 38,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 165,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315602897091010561/1632565739",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "zh"
+}

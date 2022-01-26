@@ -56,13 +56,13 @@
     "name": "Owen",
     "screen_name": "OwenYoung_zh",
     "location": "",
-    "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , 正在完成一部可以留给grandchild的wiki. 正在维护: https://t.co/WKpxbUTAnZ , https://t.co/sFAPhwRPXU , https://t.co/PVEHFM38MW",
-    "url": "https://t.co/SI1DtwxH2K",
+    "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
+    "url": "https://t.co/SI1DtwgE0K",
     "entities": {
       "url": {
         "urls": [
           {
-            "url": "https://t.co/SI1DtwxH2K",
+            "url": "https://t.co/SI1DtwgE0K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
             "indices": [
@@ -75,46 +75,55 @@
       "description": {
         "urls": [
           {
-            "url": "https://t.co/WKpxbUTAnZ",
+            "url": "https://t.co/HWIyoz4rCy",
+            "expanded_url": "http://wiki.owenyoung.com",
+            "display_url": "wiki.owenyoung.com",
+            "indices": [
+              76,
+              99
+            ]
+          },
+          {
+            "url": "https://t.co/WKpxbVbJC7",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
             "indices": [
-              103,
-              126
+              106,
+              129
             ]
           },
           {
-            "url": "https://t.co/sFAPhwRPXU",
+            "url": "https://t.co/sFAPhwAMVU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
             "indices": [
-              129,
-              152
+              132,
+              155
             ]
           },
           {
-            "url": "https://t.co/PVEHFM38MW",
+            "url": "https://t.co/PVEHFLM5KW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
             "indices": [
-              155,
-              178
+              158,
+              181
             ]
           }
         ]
       }
     },
     "protected": false,
-    "followers_count": 86,
-    "friends_count": 69,
+    "followers_count": 91,
+    "friends_count": 70,
     "listed_count": 3,
     "created_at": "Mon Oct 12 10:39:22 +0000 2020",
-    "favourites_count": 34,
+    "favourites_count": 38,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 158,
+    "statuses_count": 165,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,
@@ -191,7 +200,7 @@
       "name": "Hacker News 中文精选",
       "screen_name": "HackerNewsZh",
       "location": "",
-      "description": "Hacker News 中文 Bot， 每小时2条，推送 HN 当前最热门的讨论，附带原文标题,  地址和HN讨论地址, 中文标题来自 https://t.co/TvvVW5yfQR ，使用deepl机器翻译， 背后的人： @OwenYoung_zh",
+      "description": "Hacker News 中文 Bot， 每小时2条，推送 HN 当前最热门的讨论，附带原文标题,  地址和HN讨论地址, 中文标题来自 https://t.co/TvvVW5yfQR ，使用deepl机器翻译， 背后的人： @OwenYoung_zh , 兄弟bots： @AskRedditZh , 国外新闻bot @NewsBotZh",
       "url": "https://t.co/ub1mvd5nVy",
       "entities": {
         "url": {
@@ -222,16 +231,16 @@
         }
       },
       "protected": false,
-      "followers_count": 33,
-      "friends_count": 41,
+      "followers_count": 53,
+      "friends_count": 106,
       "listed_count": 0,
       "created_at": "Thu Dec 30 23:15:02 +0000 2021",
-      "favourites_count": 0,
+      "favourites_count": 2,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 277,
+      "statuses_count": 907,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,

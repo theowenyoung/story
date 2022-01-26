@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "location": "/std@0.122.0/testing/asserts.ts",
+    "x-deno-warning": "Implicitly using latest version (0.122.0) for https://deno.land/std/testing/asserts.ts",
+    "date": "Wed, 26 Jan 2022 12:05:19 GMT",
+    "server": "deploy/asia-northeast2-c",
+    "content-length": "0"
+  },
+  "url": "https://deno.land/std/testing/asserts.ts",
+  "now": {
+    "secs_since_epoch": 1643198720,
+    "nanos_since_epoch": 279773000
+  }
+}

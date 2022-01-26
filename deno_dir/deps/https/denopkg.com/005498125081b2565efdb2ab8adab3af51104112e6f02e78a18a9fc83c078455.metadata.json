@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "date": "Wed, 26 Jan 2022 12:05:31 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=63072000",
+    "content-length": "95",
+    "x-vercel-id": "hnd1::mm9xt-1643198730914-7c6adce92766",
+    "server": "Vercel",
+    "x-vercel-cache": "MISS",
+    "cache-control": "public, max-age=0, must-revalidate"
+  },
+  "url": "https://denopkg.com/chiefbiiko/sha512@v2.0.0/deps.ts",
+  "now": {
+    "secs_since_epoch": 1643198731,
+    "nanos_since_epoch": 140591000
+  }
+}

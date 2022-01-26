@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "date": "Wed, 26 Jan 2022 12:05:29 GMT",
+    "strict-transport-security": "max-age=63072000",
+    "cache-control": "public, max-age=0, must-revalidate",
+    "server": "Vercel",
+    "content-length": "46",
+    "content-type": "text/plain; charset=utf-8",
+    "x-vercel-id": "hnd1::mm9xt-1643198729022-c347ee21fa02",
+    "x-vercel-cache": "MISS"
+  },
+  "url": "https://denopkg.com/stefanuros/deno_twitter_api@v1.2.1/mod.ts",
+  "now": {
+    "secs_since_epoch": 1643198729,
+    "nanos_since_epoch": 299534000
+  }
+}

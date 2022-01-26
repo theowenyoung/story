@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "content-length": "0",
+    "date": "Wed, 26 Jan 2022 12:05:19 GMT",
+    "x-deno-warning": "Implicitly using latest version (1.1.1) for https://deno.land/x/hackle/init.ts",
+    "server": "deploy/asia-northeast2-c",
+    "location": "/x/hackle@1.1.1/init.ts"
+  },
+  "url": "https://deno.land/x/hackle/init.ts",
+  "now": {
+    "secs_since_epoch": 1643198720,
+    "nanos_since_epoch": 743272000
+  }
+}

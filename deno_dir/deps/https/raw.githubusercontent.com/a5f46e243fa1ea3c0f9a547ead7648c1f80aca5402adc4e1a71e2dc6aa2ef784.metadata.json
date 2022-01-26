@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "x-cache": "MISS",
+    "x-timer": "S1643198720.902629,VS0,VE222",
+    "vary": "Authorization,Accept-Encoding,Origin",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-itm18849-ITM",
+    "source-age": "0",
+    "x-github-request-id": "D05C:11DC:4E7021:61655A:61F138FF",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Wed, 26 Jan 2022 12:10:20 GMT",
+    "etag": "W/\"ffb29c28e3429ff35809227c4d37083e40e4f52b4e1f4320b624563223c2b359\"",
+    "date": "Wed, 26 Jan 2022 12:05:20 GMT",
+    "x-fastly-request-id": "0f2afa16745d4b5ed060d964b4400a6446930f6e"
+  },
+  "url": "https://raw.githubusercontent.com/denoflow/denoflow/main/core/adapters/json-store.ts",
+  "now": {
+    "secs_since_epoch": 1643198720,
+    "nanos_since_epoch": 113899000
+  }
+}

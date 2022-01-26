@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "expires": "Wed, 26 Jan 2022 12:10:19 GMT",
+    "x-served-by": "cache-itm18849-ITM",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding,Origin",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1643198719.444120,VS0,VE219",
+    "source-age": "0",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "49cbfff8ec70bf30fea6e01fe226d3cfc34a5f6b",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "etag": "W/\"62e3a01368c7b47284768ab05751581166ed96ef30170e339cee9d7d24cd0dbc\"",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Wed, 26 Jan 2022 12:05:19 GMT",
+    "x-github-request-id": "F294:3FA3:4FDC8A:62D1D8:61F138FF",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/denoflow/denoflow/main/core/run-post.ts",
+  "now": {
+    "secs_since_epoch": 1643198719,
+    "nanos_since_epoch": 714157000
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "via": "1.1 varnish",
+    "x-timer": "S1643198719.443998,VS0,VE236",
+    "x-fastly-request-id": "33c7bb8747881a24777acb605d3e34b6ffb83d93",
+    "date": "Wed, 26 Jan 2022 12:05:19 GMT",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding,Origin",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-itm18849-ITM",
+    "x-cache": "MISS",
+    "x-content-type-options": "nosniff",
+    "expires": "Wed, 26 Jan 2022 12:10:19 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "x-github-request-id": "9DB4:6079:519127:6486E2:61F138FF",
+    "accept-ranges": "bytes",
+    "etag": "W/\"38d843685e82f172acd6886206e2393cf33cc88c4c7f8e127d7265167a27e393\"",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/denoflow/denoflow/main/core/run-assert.ts",
+  "now": {
+    "secs_since_epoch": 1643198719,
+    "nanos_since_epoch": 767944000
+  }
+}

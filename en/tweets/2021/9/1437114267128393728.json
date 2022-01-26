@@ -11,18 +11,7 @@
   "entities": {
     "hashtags": [],
     "symbols": [],
-    "user_mentions": [
-      {
-        "screen_name": "jakeprins_nl",
-        "name": "Jake Prins",
-        "id": 4406230233,
-        "id_str": "4406230233",
-        "indices": [
-          3,
-          16
-        ]
-      }
-    ],
+    "user_mentions": [],
     "urls": []
   },
   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
@@ -86,16 +75,16 @@
       }
     },
     "protected": false,
-    "followers_count": 42,
-    "friends_count": 111,
+    "followers_count": 56,
+    "friends_count": 135,
     "listed_count": 4,
     "created_at": "Sat Mar 21 09:24:27 +0000 2020",
-    "favourites_count": 24,
+    "favourites_count": 30,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 35,
+    "statuses_count": 42,
     "lang": null,
     "contributors_enabled": false,
     "is_translator": false,
@@ -140,7 +129,7 @@
       "user_mentions": [
         {
           "screen_name": "ProductHunt",
-          "name": "Product Hunt 😸 ",
+          "name": "Product Hunt 😸",
           "id": 2208027565,
           "id_str": "2208027565",
           "indices": [
@@ -181,9 +170,9 @@
       "id": 4406230233,
       "id_str": "4406230233",
       "name": "Jake Prins",
-      "screen_name": "jakeprins_nl",
-      "location": "In the cloud ☁️",
-      "description": "Frontend Engineer at https://t.co/pqUaEn3FF8 |  Maker of https://t.co/5RBMuZdYgG, a starter kit for building SaaS applications with Next.js | $₳MP",
+      "screen_name": "jake_prins",
+      "location": "on chain ⛓",
+      "description": "Frontend Engineer at https://t.co/pqUaEn3FF8 | Creator of https://t.co/5RBMuZdYgG, a starter kit for building SaaS apps with Next.js | Building https://t.co/CIPU2kHwFs | LYX 🆙",
       "url": "https://t.co/XmN2eDOWMo",
       "entities": {
         "url": {
@@ -215,24 +204,33 @@
               "expanded_url": "http://serverless.page",
               "display_url": "serverless.page",
               "indices": [
-                57,
-                80
+                58,
+                81
+              ]
+            },
+            {
+              "url": "https://t.co/CIPU2kHwFs",
+              "expanded_url": "http://universal.page",
+              "display_url": "universal.page",
+              "indices": [
+                144,
+                167
               ]
             }
           ]
         }
       },
       "protected": false,
-      "followers_count": 741,
-      "friends_count": 631,
+      "followers_count": 924,
+      "friends_count": 627,
       "listed_count": 27,
       "created_at": "Mon Dec 07 15:52:22 +0000 2015",
-      "favourites_count": 3716,
+      "favourites_count": 4590,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 616,
+      "statuses_count": 653,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
@@ -241,8 +239,8 @@
       "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
       "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
       "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1102120097081184257/61tO47TQ_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102120097081184257/61tO47TQ_normal.jpg",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1455083690539769859/woNdvf0A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455083690539769859/woNdvf0A_normal.jpg",
       "profile_banner_url": "https://pbs.twimg.com/profile_banners/4406230233/1612173668",
       "profile_link_color": "3B94D9",
       "profile_sidebar_border_color": "000000",
@@ -264,7 +262,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 18,
-    "favorite_count": 86,
+    "favorite_count": 85,
     "favorited": false,
     "retweeted": true,
     "lang": "en"
