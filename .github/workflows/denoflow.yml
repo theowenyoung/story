@@ -32,9 +32,9 @@ jobs:
         run: sudo chown -R $USER:$USER ./
       - name: git config
         run: git config --global user.name "github-actions[bot]" && git config --global user.email github-actions-bot@users.noreply.github.com
+      - run: git status
       - name: git add
         run: git add data,en,zh
-      - run: git status
       - id: isChanged
         run: git diff-index --cached --quiet HEAD || echo '::set-output name=changed::true'
       - name: Create pull request
