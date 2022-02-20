@@ -4,10 +4,7 @@
   "id_str": "1315616396957499392",
   "full_text": "最近沒用過安卓系統的同學可能不知道，安卓已經支持多用戶了，這個功能非常吸引我。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    39
-  ],
+  "display_text_range": [0, 39],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

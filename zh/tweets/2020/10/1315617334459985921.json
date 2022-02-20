@@ -4,10 +4,7 @@
   "id_str": "1315617334459985921",
   "full_text": "家裡的東西現在都有個疊音名，比如驅蚊水叫熏熏，酒精叫噴噴，風扇叫吹吹。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    35
-  ],
+  "display_text_range": [0, 35],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

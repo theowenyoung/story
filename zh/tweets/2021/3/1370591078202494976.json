@@ -4,10 +4,7 @@
   "id_str": "1370591078202494976",
   "full_text": "被反爬到怀疑人生，再也不做爬虫项目了。🤣",
   "truncated": false,
-  "display_text_range": [
-    0,
-    20
-  ],
+  "display_text_range": [0, 20],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung",
     "url": "https://t.co/uPEqybiPDr",
@@ -35,10 +32,7 @@
             "url": "https://t.co/uPEqybiPDr",
             "expanded_url": "https://blog.owenyoung.com",
             "display_url": "blog.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },

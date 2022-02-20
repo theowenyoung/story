@@ -4,10 +4,7 @@
   "id_str": "1356586392420184064",
   "full_text": "Actionsflow 介绍： https://t.co/NTazohhqJc",
   "truncated": false,
-  "display_text_range": [
-    0,
-    39
-  ],
+  "display_text_range": [0, 39],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "url": "https://t.co/NTazohhqJc",
         "expanded_url": "https://blog.owenyoung.com/zh/posts/actionsflow/",
         "display_url": "blog.owenyoung.com/zh/posts/actio…",
-        "indices": [
-          16,
-          39
-        ]
+        "indices": [16, 39]
       }
     ]
   },
@@ -34,7 +28,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 為了學好英文，所以分開中英文推, 英文推: @TheOwenYoung",
     "url": null,

@@ -4,10 +4,7 @@
   "id_str": "1457506695563792384",
   "full_text": "在hn混久了，发现自己也开始迷上了部署小而美的东西，比如sqlite,以及sqlite开发的版本管理工具fossil: https://t.co/JUEJgUK72h, 又或者matrix的server最小实现版本Conduit https://t.co/Z2Q3SfjsNE，还有推特的最小开源实现twtxt：https://t.co/7LSPs0tmef",
   "truncated": false,
-  "display_text_range": [
-    0,
-    179
-  ],
+  "display_text_range": [0, 179],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,28 +14,19 @@
         "url": "https://t.co/JUEJgUK72h",
         "expanded_url": "https://www.fossil-scm.org/home/doc/trunk/www/index.wiki",
         "display_url": "fossil-scm.org/home/doc/trunk…",
-        "indices": [
-          60,
-          83
-        ]
+        "indices": [60, 83]
       },
       {
         "url": "https://t.co/Z2Q3SfjsNE",
         "expanded_url": "https://gitlab.com/famedly/conduit",
         "display_url": "gitlab.com/famedly/conduit",
-        "indices": [
-          115,
-          138
-        ]
+        "indices": [115, 138]
       },
       {
         "url": "https://t.co/7LSPs0tmef",
         "expanded_url": "https://twtxt.net/",
         "display_url": "twtxt.net",
-        "indices": [
-          156,
-          179
-        ]
+        "indices": [156, 179]
       }
     ]
   },
@@ -52,7 +40,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , 正在完成一部可以留给grandchild的wiki. https://t.co/WKpxbUTAnZ , https://t.co/sFAPhwRPXU , https://t.co/PVEHFM38MW",
     "url": "https://t.co/SI1DtwxH2K",
@@ -63,10 +51,7 @@
             "url": "https://t.co/SI1DtwxH2K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -76,28 +61,19 @@
             "url": "https://t.co/WKpxbUTAnZ",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              97,
-              120
-            ]
+            "indices": [97, 120]
           },
           {
             "url": "https://t.co/sFAPhwRPXU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              123,
-              146
-            ]
+            "indices": [123, 146]
           },
           {
             "url": "https://t.co/PVEHFM38MW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              149,
-              172
-            ]
+            "indices": [149, 172]
           }
         ]
       }

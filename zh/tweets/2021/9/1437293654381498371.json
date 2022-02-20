@@ -4,10 +4,7 @@
   "id_str": "1437293654381498371",
   "full_text": "分享一下目前的追剧工作流，买了一台绿云大阪1T年付$50的VPS当NAS\n\n1. qbittorrent: 种子下载器\n2. jackett: 种子聚合搜索\n3. sonarr: 电视剧下载神器\n4. bazarr: 字幕自动下载\n\n本来想用jellyfin作为影视中心的，但是发现客户端并不是 native 的，暂时还不胜用，所以直接用Caddy当静态服务器,未完待续 https://t.co/9tDdy5udlL",
   "truncated": false,
-  "display_text_range": [
-    0,
-    185
-  ],
+  "display_text_range": [0, 185],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,15 +14,12 @@
       {
         "id": 1437291020186620000,
         "id_str": "1437291020186619910",
-        "indices": [
-          186,
-          209
-        ],
+        "indices": [186, 209],
         "media_url": "http://pbs.twimg.com/media/E_JIkVkVEAYSAxp.jpg",
         "media_url_https": "https://pbs.twimg.com/media/E_JIkVkVEAYSAxp.jpg",
         "url": "https://t.co/9tDdy5udlL",
         "display_url": "pic.twitter.com/9tDdy5udlL",
-        "expanded_url": "https://twitter.com/OwenYoung_zh/status/1437293654381498371/photo/1",
+        "expanded_url": "https://twitter.com/OwenYoungZh/status/1437293654381498371/photo/1",
         "type": "photo",
         "sizes": {
           "thumb": {
@@ -57,15 +51,12 @@
       {
         "id": 1437291020186620000,
         "id_str": "1437291020186619910",
-        "indices": [
-          186,
-          209
-        ],
+        "indices": [186, 209],
         "media_url": "http://pbs.twimg.com/media/E_JIkVkVEAYSAxp.jpg",
         "media_url_https": "https://pbs.twimg.com/media/E_JIkVkVEAYSAxp.jpg",
         "url": "https://t.co/9tDdy5udlL",
         "display_url": "pic.twitter.com/9tDdy5udlL",
-        "expanded_url": "https://twitter.com/OwenYoung_zh/status/1437293654381498371/photo/1",
+        "expanded_url": "https://twitter.com/OwenYoungZh/status/1437293654381498371/photo/1",
         "type": "photo",
         "sizes": {
           "thumb": {
@@ -102,7 +93,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , https://t.co/qMcLMxVoJX , https://t.co/Pb7P5k11Zy , https://t.co/zVP31AWMJB",
     "url": "https://t.co/SI1DtwxH2K",
@@ -113,10 +104,7 @@
             "url": "https://t.co/SI1DtwxH2K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -126,28 +114,19 @@
             "url": "https://t.co/qMcLMxVoJX",
             "expanded_url": "https://www.buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              70,
-              93
-            ]
+            "indices": [70, 93]
           },
           {
             "url": "https://t.co/Pb7P5k11Zy",
             "expanded_url": "https://www.trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              96,
-              119
-            ]
+            "indices": [96, 119]
           },
           {
             "url": "https://t.co/zVP31AWMJB",
             "expanded_url": "https://actionsflow.github.io/",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              122,
-              145
-            ]
+            "indices": [122, 145]
           }
         ]
       }

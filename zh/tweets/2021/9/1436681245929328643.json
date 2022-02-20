@@ -4,10 +4,7 @@
   "id_str": "1436681245929328643",
   "full_text": "微软出的rust在线教程，课程设计的挺好的，感觉比我用的easy rust book好，更加的系统，以及从浅到深，所以这两天又跟着再入门一遍。推荐给初学者。https://t.co/ZQZwfX7Hjl ,另外我在wiki里收藏了一些最近看到的rust相关的优秀资源。 https://t.co/zuyzmvl8O0",
   "truncated": false,
-  "display_text_range": [
-    0,
-    158
-  ],
+  "display_text_range": [0, 158],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,19 +14,13 @@
         "url": "https://t.co/ZQZwfX7Hjl",
         "expanded_url": "https://docs.microsoft.com/zh-cn/learn/paths/rust-first-steps/",
         "display_url": "docs.microsoft.com/zh-cn/learn/pa…",
-        "indices": [
-          78,
-          101
-        ]
+        "indices": [78, 101]
       },
       {
         "url": "https://t.co/zuyzmvl8O0",
         "expanded_url": "https://wiki.owenyoung.com/awesome-rust/",
         "display_url": "wiki.owenyoung.com/awesome-rust/",
-        "indices": [
-          135,
-          158
-        ]
+        "indices": [135, 158]
       }
     ]
   },
@@ -43,7 +34,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , https://t.co/qMcLMxVoJX , https://t.co/Pb7P5k11Zy , https://t.co/zVP31AWMJB",
     "url": "https://t.co/SI1DtwxH2K",
@@ -54,10 +45,7 @@
             "url": "https://t.co/SI1DtwxH2K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -67,28 +55,19 @@
             "url": "https://t.co/qMcLMxVoJX",
             "expanded_url": "https://www.buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              70,
-              93
-            ]
+            "indices": [70, 93]
           },
           {
             "url": "https://t.co/Pb7P5k11Zy",
             "expanded_url": "https://www.trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              96,
-              119
-            ]
+            "indices": [96, 119]
           },
           {
             "url": "https://t.co/zVP31AWMJB",
             "expanded_url": "https://actionsflow.github.io/",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              122,
-              145
-            ]
+            "indices": [122, 145]
           }
         ]
       }

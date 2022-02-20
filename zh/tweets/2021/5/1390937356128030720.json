@@ -4,10 +4,7 @@
   "id_str": "1390937356128030720",
   "full_text": "RT @buzzingcc: Buzzing新增了两个子站点，热门业余项目讨论 https://t.co/81WsCwFEYF 和 100年前的今天 https://t.co/fWEFxoaHcS  欢迎使用和反馈。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    108
-  ],
+  "display_text_range": [0, 108],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "name": "Buzzing",
         "id": 1341263416166518800,
         "id_str": "1341263416166518784",
-        "indices": [
-          3,
-          13
-        ]
+        "indices": [3, 13]
       }
     ],
     "urls": [
@@ -28,19 +22,13 @@
         "url": "https://t.co/81WsCwFEYF",
         "expanded_url": "https://sideproject.buzzing.cc",
         "display_url": "sideproject.buzzing.cc",
-        "indices": [
-          40,
-          63
-        ]
+        "indices": [40, 63]
       },
       {
         "url": "https://t.co/fWEFxoaHcS",
         "expanded_url": "https://100.buzzing.cc",
         "display_url": "100.buzzing.cc",
-        "indices": [
-          75,
-          98
-        ]
+        "indices": [75, 98]
       }
     ]
   },
@@ -54,7 +42,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung",
     "url": "https://t.co/uPEqybiPDr",
@@ -65,10 +53,7 @@
             "url": "https://t.co/uPEqybiPDr",
             "expanded_url": "https://blog.owenyoung.com",
             "display_url": "blog.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -121,10 +106,7 @@
     "id_str": "1390936382944649217",
     "full_text": "Buzzing新增了两个子站点，热门业余项目讨论 https://t.co/81WsCwFEYF 和 100年前的今天 https://t.co/fWEFxoaHcS  欢迎使用和反馈。",
     "truncated": false,
-    "display_text_range": [
-      0,
-      93
-    ],
+    "display_text_range": [0, 93],
     "entities": {
       "hashtags": [],
       "symbols": [],
@@ -134,19 +116,13 @@
           "url": "https://t.co/81WsCwFEYF",
           "expanded_url": "https://sideproject.buzzing.cc",
           "display_url": "sideproject.buzzing.cc",
-          "indices": [
-            25,
-            48
-          ]
+          "indices": [25, 48]
         },
         {
           "url": "https://t.co/fWEFxoaHcS",
           "expanded_url": "https://100.buzzing.cc",
           "display_url": "100.buzzing.cc",
-          "indices": [
-            60,
-            83
-          ]
+          "indices": [60, 83]
         }
       ]
     },
@@ -171,10 +147,7 @@
               "url": "https://t.co/shlCVKE8CK",
               "expanded_url": "https://www.buzzing.cc",
               "display_url": "buzzing.cc",
-              "indices": [
-                0,
-                23
-              ]
+              "indices": [0, 23]
             }
           ]
         },
@@ -184,10 +157,7 @@
               "url": "https://t.co/8Lyam8RBe1",
               "expanded_url": "http://Buzzing.cc",
               "display_url": "Buzzing.cc",
-              "indices": [
-                0,
-                23
-              ]
+              "indices": [0, 23]
             }
           ]
         }

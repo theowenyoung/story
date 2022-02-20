@@ -4,10 +4,7 @@
   "id_str": "1474610645199093764",
   "full_text": "RT @jack: rust is a perfect programming language",
   "truncated": false,
-  "display_text_range": [
-    0,
-    48
-  ],
+  "display_text_range": [0, 48],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "name": "jack⚡️",
         "id": 12,
         "id_str": "12",
-        "indices": [
-          3,
-          8
-        ]
+        "indices": [3, 8]
       }
     ],
     "urls": []
@@ -35,7 +29,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , 正在完成一部可以留给grandchild的wiki. 正在维护: https://t.co/WKpxbUTAnZ , https://t.co/sFAPhwRPXU , https://t.co/PVEHFM38MW",
     "url": "https://t.co/SI1DtwxH2K",
@@ -46,10 +40,7 @@
             "url": "https://t.co/SI1DtwxH2K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -59,28 +50,19 @@
             "url": "https://t.co/WKpxbUTAnZ",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              103,
-              126
-            ]
+            "indices": [103, 126]
           },
           {
             "url": "https://t.co/sFAPhwRPXU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              129,
-              152
-            ]
+            "indices": [129, 152]
           },
           {
             "url": "https://t.co/PVEHFM38MW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              155,
-              178
-            ]
+            "indices": [155, 178]
           }
         ]
       }
@@ -131,10 +113,7 @@
     "id_str": "1474263588651126788",
     "full_text": "rust is a perfect programming language",
     "truncated": false,
-    "display_text_range": [
-      0,
-      38
-    ],
+    "display_text_range": [0, 38],
     "entities": {
       "hashtags": [],
       "symbols": [],

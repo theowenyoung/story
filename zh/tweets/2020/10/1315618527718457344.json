@@ -4,10 +4,7 @@
   "id_str": "1315618527718457344",
   "full_text": "當你女朋友是一位資深豆瓣勸分小組成員時，你的壓力有多大？\n\n她瀏覽的每一個貼都在伴隨著對你的重新審視",
   "truncated": false,
-  "display_text_range": [
-    0,
-    50
-  ],
+  "display_text_range": [0, 50],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

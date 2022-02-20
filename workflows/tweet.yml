@@ -22,11 +22,11 @@ sources:
         accessTokenSecret: ${{ctx.env.TWITTER_ACCESS_SECRET_ZH}}
     run: |
       return ctx.result.get('statuses/user_timeline.json',{
-          screen_name: "OwenYoung_zh",
+          screen_name: "OwenYoungZh",
           tweet_mode: "extended",
       }).then(result=>result.json())
     key: id_str
-steps: 
+steps:
   - run: |
       const createdAt = new Date(Date.parse(ctx.item.created_at));
       const source = ctx.item.user.screen_name;

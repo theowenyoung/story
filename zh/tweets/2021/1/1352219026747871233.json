@@ -4,10 +4,7 @@
   "id_str": "1352219026747871233",
   "full_text": "全世界最自恋的人才会做这种 没几个关注还煞有其事地分别开个中英文推",
   "truncated": false,
-  "display_text_range": [
-    0,
-    33
-  ],
+  "display_text_range": [0, 33],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

@@ -4,10 +4,7 @@
   "id_str": "1357956188227313664",
   "full_text": "整理一下关注，这个推只关注中文推，为了学习英文 @TheOwenYoung 只关注英文推，希望这不再是又一次失败的尝试",
   "truncated": false,
-  "display_text_range": [
-    0,
-    59
-  ],
+  "display_text_range": [0, 59],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "name": "Owen Young",
         "id": 1241294513575878700,
         "id_str": "1241294513575878656",
-        "indices": [
-          24,
-          37
-        ]
+        "indices": [24, 37]
       }
     ],
     "urls": []
@@ -35,7 +29,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 為了學好英文，所以分開中英文推, 英文推: @TheOwenYoung",
     "url": null,

@@ -4,10 +4,7 @@
   "id_str": "1437500658978988035",
   "full_text": "@sjkelleyjr Yes, and specific no-code website generator.",
   "truncated": false,
-  "display_text_range": [
-    12,
-    56
-  ],
+  "display_text_range": [12, 56],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "name": "Jackson",
         "id": 859199987514658800,
         "id_str": "859199987514658816",
-        "indices": [
-          0,
-          11
-        ]
+        "indices": [0, 11]
       }
     ],
     "urls": []
@@ -37,7 +31,7 @@
     "name": "Owen Young",
     "screen_name": "TheOwenYoung",
     "location": "",
-    "description": "Freelancer / perfectionism / workflow lover / 中文推 @owenyoung_zh / the maker of https://t.co/4m2DI4WNd2 https://t.co/tj1ryzm1n0 https://t.co/9JETwbJC7K",
+    "description": "Freelancer / perfectionism / workflow lover / 中文推 @OwenYoungZh / the maker of https://t.co/4m2DI4WNd2 https://t.co/tj1ryzm1n0 https://t.co/9JETwbJC7K",
     "url": "https://t.co/GOmdskRx05",
     "entities": {
       "url": {
@@ -46,10 +40,7 @@
             "url": "https://t.co/GOmdskRx05",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -59,28 +50,19 @@
             "url": "https://t.co/4m2DI4WNd2",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              79,
-              102
-            ]
+            "indices": [79, 102]
           },
           {
             "url": "https://t.co/tj1ryzm1n0",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              103,
-              126
-            ]
+            "indices": [103, 126]
           },
           {
             "url": "https://t.co/9JETwbJC7K",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              127,
-              150
-            ]
+            "indices": [127, 150]
           }
         ]
       }

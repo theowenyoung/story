@@ -4,10 +4,7 @@
   "id_str": "1353032196626366464",
   "full_text": "生活中最可能有意义的东西一般来说也是更困难的东西。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    25
-  ],
+  "display_text_range": [0, 25],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 為了學好英文，所以分開中英文推, 英文推: @TheOwenYoung",
     "url": null,

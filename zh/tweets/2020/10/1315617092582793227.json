@@ -4,10 +4,7 @@
   "id_str": "1315617092582793227",
   "full_text": "水管的修理工具是一個都不能少。\n水管出了毛病，先是在某寶買了個活動扳手，過幾天之後，擰開之後發現少了個墊片，然后買了個墊片回來，然後發現還少個內六角扳手，只能再去買，好在最後還是修好了。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    93
-  ],
+  "display_text_range": [0, 93],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

@@ -4,10 +4,7 @@
   "id_str": "1358961479899226112",
   "full_text": "RT @rheingoldspn: 好的人，也会互相折磨。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    29
-  ],
+  "display_text_range": [0, 29],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "name": "SuperFan Rheingold",
         "id": 310974352,
         "id_str": "310974352",
-        "indices": [
-          3,
-          16
-        ]
+        "indices": [3, 16]
       }
     ],
     "urls": []
@@ -35,7 +29,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung",
     "url": "https://t.co/uPEqybiPDr",
@@ -46,10 +40,7 @@
             "url": "https://t.co/uPEqybiPDr",
             "expanded_url": "https://blog.owenyoung.com",
             "display_url": "blog.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -101,10 +92,7 @@
     "id_str": "1358820923852300288",
     "full_text": "好的人，也会互相折磨。",
     "truncated": false,
-    "display_text_range": [
-      0,
-      11
-    ],
+    "display_text_range": [0, 11],
     "entities": {
       "hashtags": [],
       "symbols": [],

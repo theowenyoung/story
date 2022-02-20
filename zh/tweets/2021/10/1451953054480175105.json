@@ -4,10 +4,7 @@
   "id_str": "1451953054480175105",
   "full_text": "在hn上看到一个有意思的：如何让你的静态网站被托管500年 https://t.co/xexeXy1rRN \n这让我沉思我打算留给孙子的wiki，https://t.co/PF2thB3KBG ,虽然现在网站托管在免费的github上，但是这不可能维持500年，域名最多都只能续费10年，理论来说我死后10年网站就挂了。所以我可能需要一个pdf导出的功能？",
   "truncated": false,
-  "display_text_range": [
-    0,
-    178
-  ],
+  "display_text_range": [0, 178],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,19 +14,13 @@
         "url": "https://t.co/xexeXy1rRN",
         "expanded_url": "https://news.ycombinator.com/item?id=28957573",
         "display_url": "news.ycombinator.com/item?id=289575…",
-        "indices": [
-          30,
-          53
-        ]
+        "indices": [30, 53]
       },
       {
         "url": "https://t.co/PF2thB3KBG",
         "expanded_url": "https://wiki.owenyoung.com",
         "display_url": "wiki.owenyoung.com",
-        "indices": [
-          73,
-          96
-        ]
+        "indices": [73, 96]
       }
     ]
   },
@@ -43,7 +34,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , 正在完成一部可以留给grandchild的wiki. https://t.co/WKpxbUTAnZ , https://t.co/sFAPhwRPXU , https://t.co/PVEHFM38MW",
     "url": "https://t.co/SI1DtwxH2K",
@@ -54,10 +45,7 @@
             "url": "https://t.co/SI1DtwxH2K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -67,28 +55,19 @@
             "url": "https://t.co/WKpxbUTAnZ",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              97,
-              120
-            ]
+            "indices": [97, 120]
           },
           {
             "url": "https://t.co/sFAPhwRPXU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              123,
-              146
-            ]
+            "indices": [123, 146]
           },
           {
             "url": "https://t.co/PVEHFM38MW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              149,
-              172
-            ]
+            "indices": [149, 172]
           }
         ]
       }

@@ -4,10 +4,7 @@
   "id_str": "1479696419321970688",
   "full_text": "@HackerNewsZh 欢迎关注！（-- 我是背后的人）\n\n同时一口气又做了另外2个Bot，都是我经常看的内容，一个是 问Reddit： @AskRedditZh , 收录Reddit上各种有意思的提问，哲学问题，两性问题，历史问题，以及各种不敢问别人 的问题等等。另一个是 国外新闻Bot @NewsBotZh , 第一时间转发谷歌全球新闻头条的中文速览。",
   "truncated": false,
-  "display_text_range": [
-    14,
-    181
-  ],
+  "display_text_range": [14, 181],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,30 +14,21 @@
         "name": "Hacker News 中文精选",
         "id": 1476693293014876200,
         "id_str": "1476693293014876160",
-        "indices": [
-          0,
-          13
-        ]
+        "indices": [0, 13]
       },
       {
         "screen_name": "AskRedditZh",
         "name": "问Reddit",
         "id": 1478935328375607300,
         "id_str": "1478935328375607307",
-        "indices": [
-          71,
-          83
-        ]
+        "indices": [71, 83]
       },
       {
         "screen_name": "NewsBotZh",
         "name": "国外新闻 Bot",
         "id": 1479337809546981400,
         "id_str": "1479337809546981377",
-        "indices": [
-          148,
-          158
-        ]
+        "indices": [148, 158]
       }
     ],
     "urls": []
@@ -55,7 +43,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
     "url": "https://t.co/SI1DtwgE0K",
@@ -66,10 +54,7 @@
             "url": "https://t.co/SI1DtwgE0K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -79,37 +64,25 @@
             "url": "https://t.co/HWIyoz4rCy",
             "expanded_url": "http://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              76,
-              99
-            ]
+            "indices": [76, 99]
           },
           {
             "url": "https://t.co/WKpxbVbJC7",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              106,
-              129
-            ]
+            "indices": [106, 129]
           },
           {
             "url": "https://t.co/sFAPhwAMVU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              132,
-              155
-            ]
+            "indices": [132, 155]
           },
           {
             "url": "https://t.co/PVEHFLM5KW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              158,
-              181
-            ]
+            "indices": [158, 181]
           }
         ]
       }

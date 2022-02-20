@@ -4,10 +4,7 @@
   "id_str": "1388899838390009859",
   "full_text": "有人能用macbook自带的键盘编程？光是发烫就受不了啊。上一个hhkb坏了，这几天在用原生键盘，效率直线下降。下一个键盘换一个 左右分离的，客制化，人体工学的键盘。等到了发个体验报告。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    93
-  ],
+  "display_text_range": [0, 93],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung",
     "url": "https://t.co/uPEqybiPDr",
@@ -35,10 +32,7 @@
             "url": "https://t.co/uPEqybiPDr",
             "expanded_url": "https://blog.owenyoung.com",
             "display_url": "blog.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },

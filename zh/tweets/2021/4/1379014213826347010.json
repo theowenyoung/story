@@ -4,10 +4,7 @@
   "id_str": "1379014213826347010",
   "full_text": "上个项目由于强大的反爬技术GG了，沉淀出了一个小程序用的tailwind库，发现用tailwind写小程序很爽，小程序本身写起来很恶心，但是用了tailwind之后神清气爽。 https://t.co/jGyFGgLues",
   "truncated": false,
-  "display_text_range": [
-    0,
-    111
-  ],
+  "display_text_range": [0, 111],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "url": "https://t.co/jGyFGgLues",
         "expanded_url": "https://github.com/theowenyoung/mini-tailwind",
         "display_url": "github.com/theowenyoung/m…",
-        "indices": [
-          88,
-          111
-        ]
+        "indices": [88, 111]
       }
     ]
   },
@@ -34,7 +28,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung",
     "url": "https://t.co/uPEqybiPDr",
@@ -45,10 +39,7 @@
             "url": "https://t.co/uPEqybiPDr",
             "expanded_url": "https://blog.owenyoung.com",
             "display_url": "blog.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },

@@ -4,10 +4,7 @@
   "id_str": "1358713802636685313",
   "full_text": "我在想 庄家是不是可以用大数据计算出一个股票下跌时韭菜的平均恐慌期，也就是下跌第几天的时候开始坐不住并且亏损出售，这个时候庄可以开始买入。 这肯定屡试屡爽啊，反正我就是这种一开始下跌时坐得住，但要是连续跌几天，就有点坐不住，每当我坐不住卖出的时候，就是触底反弹之时。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    133
-  ],
+  "display_text_range": [0, 133],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung",
     "url": "https://t.co/uPEqybiPDr",
@@ -35,10 +32,7 @@
             "url": "https://t.co/uPEqybiPDr",
             "expanded_url": "https://blog.owenyoung.com",
             "display_url": "blog.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },

@@ -4,10 +4,7 @@
   "id_str": "1458894998754127914",
   "full_text": "这两天在读卡尔纽波特的《深度工作》，主要阐述了保持某种长时间的专注对产出的重要性。\n\n我发现自己在写脚本语言的时候，写几行就要看run的结果。但是写rust的很多时候，写很久才会去run一次。一方面是rust的编辑器编译检测真的做的很好，另一方面rust编译也慢。\n\n所以可以说rust可以有效促进深度工作",
   "truncated": false,
-  "display_text_range": [
-    0,
-    153
-  ],
+  "display_text_range": [0, 153],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , 正在完成一部可以留给grandchild的wiki. https://t.co/WKpxbUTAnZ , https://t.co/sFAPhwRPXU , https://t.co/PVEHFM38MW",
     "url": "https://t.co/SI1DtwxH2K",
@@ -35,10 +32,7 @@
             "url": "https://t.co/SI1DtwxH2K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -48,28 +42,19 @@
             "url": "https://t.co/WKpxbUTAnZ",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              97,
-              120
-            ]
+            "indices": [97, 120]
           },
           {
             "url": "https://t.co/sFAPhwRPXU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              123,
-              146
-            ]
+            "indices": [123, 146]
           },
           {
             "url": "https://t.co/PVEHFM38MW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              149,
-              172
-            ]
+            "indices": [149, 172]
           }
         ]
       }

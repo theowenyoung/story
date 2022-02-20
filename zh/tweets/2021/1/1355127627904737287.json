@@ -4,19 +4,13 @@
   "id_str": "1355127627904737287",
   "full_text": "刚好前段时间在做国外股市热门 https://t.co/516Y770Tbo ，抓取了reddit的stocks，investing, wallstreetbet还有一些推特的财经博主的热门推，用deepl把大纲翻译成中文，所以算是全程目睹了 $GME 的从开始到现在的热度。 看起来这个站点还是有用的！",
   "truncated": false,
-  "display_text_range": [
-    0,
-    152
-  ],
+  "display_text_range": [0, 152],
   "entities": {
     "hashtags": [],
     "symbols": [
       {
         "text": "GME",
-        "indices": [
-          122,
-          126
-        ]
+        "indices": [122, 126]
       }
     ],
     "user_mentions": [],
@@ -25,10 +19,7 @@
         "url": "https://t.co/516Y770Tbo",
         "expanded_url": "https://stocks.buzzing.cc/",
         "display_url": "stocks.buzzing.cc",
-        "indices": [
-          15,
-          38
-        ]
+        "indices": [15, 38]
       }
     ]
   },
@@ -42,7 +33,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 為了學好英文，所以分開中英文推, 英文推: @TheOwenYoung",
     "url": null,

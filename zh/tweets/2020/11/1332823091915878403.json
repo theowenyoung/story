@@ -4,10 +4,7 @@
   "id_str": "1332823091915878403",
   "full_text": "GetHer Chorus | 學唱團 《牡丹亭外》 https://t.co/vfsBl0xd1e \n\n這個合唱版本很棒哎",
   "truncated": false,
-  "display_text_range": [
-    0,
-    62
-  ],
+  "display_text_range": [0, 62],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "url": "https://t.co/vfsBl0xd1e",
         "expanded_url": "https://youtu.be/L0Wa9L-7c4U",
         "display_url": "youtu.be/L0Wa9L-7c4U",
-        "indices": [
-          27,
-          50
-        ]
+        "indices": [27, 50]
       }
     ]
   },
@@ -34,7 +28,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

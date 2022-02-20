@@ -102,7 +102,7 @@ jobs:
 
 ## Language
 
-My native language is Chinese, so I write Chinese posts, I have two Twitter accounts to write tweets for [English tweets](https://twitter.com/TheOwenYoung) and [Chinese tweets](https://twitter.com/owenyoung_zh), the content repository's structure is like this:
+My native language is Chinese, so I write Chinese posts, I have two Twitter accounts to write tweets for [English tweets](https://twitter.com/TheOwenYoung) and [Chinese tweets](https://twitter.com/OwenYoungZh), the content repository's structure is like this:
 
 ```bash
 /en
@@ -185,8 +185,8 @@ module.exports = {
         url: "https://twitter.com/TheOwenYoung",
       },
       {
-        name: "中文Twitter @OwenYoung_zh",
-        url: "https://twitter.com/OwenYoung_zh",
+        name: "中文Twitter @OwenYoungZh",
+        url: "https://twitter.com/OwenYoungZh",
       },
       {
         name: "Instagram @iamowenyoung",

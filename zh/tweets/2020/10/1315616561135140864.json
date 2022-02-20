@@ -4,10 +4,7 @@
   "id_str": "1315616561135140864",
   "full_text": "準備把所有社交平台的內容都同步一份raw到github上保存，並渲染成一個博客主頁。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    42
-  ],
+  "display_text_range": [0, 42],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

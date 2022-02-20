@@ -4,10 +4,7 @@
   "id_str": "1380895086846746625",
   "full_text": "今天发现了一个个人wiki网站，叫 \"Everything I know\", https://t.co/Ei8eLZBcQI 就是把自己毕生所学的东西一点点放在wiki上，感觉很好唉！甚至比博客都好？或者相互补充，改天我也要给自己建一个，以后可以给孙子说，这是你爷爷的毕生所学，拿去吧。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    143
-  ],
+  "display_text_range": [0, 143],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "url": "https://t.co/Ei8eLZBcQI",
         "expanded_url": "https://wiki.nikitavoloboev.xyz/meta",
         "display_url": "wiki.nikitavoloboev.xyz/meta",
-        "indices": [
-          39,
-          62
-        ]
+        "indices": [39, 62]
       }
     ]
   },
@@ -34,7 +28,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung",
     "url": "https://t.co/uPEqybiPDr",
@@ -45,10 +39,7 @@
             "url": "https://t.co/uPEqybiPDr",
             "expanded_url": "https://blog.owenyoung.com",
             "display_url": "blog.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },

@@ -4,10 +4,7 @@
   "id_str": "1476663994090160129",
   "full_text": "刚发现 https://t.co/moFVpU9bBf 的“每周精选”机器人已经生成了52期，说明buzzing已经上线一年了。\n\n时间过的好快，每次buzzing给我推送的时候，我都会觉得怎么又一周过去了，所以特别佩服那种能够坚持一年每周都人工写周刊推送文章的，比如阮老师，真的很不容易。 https://t.co/LqoAODrCEp https://t.co/TgmoH1x6eU",
   "truncated": false,
-  "display_text_range": [
-    0,
-    169
-  ],
+  "display_text_range": [0, 169],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,34 +14,25 @@
         "url": "https://t.co/moFVpU9bBf",
         "expanded_url": "http://buzzing.cc",
         "display_url": "buzzing.cc",
-        "indices": [
-          4,
-          27
-        ]
+        "indices": [4, 27]
       },
       {
         "url": "https://t.co/LqoAODrCEp",
         "expanded_url": "https://hn.buzzing.cc/issues",
         "display_url": "hn.buzzing.cc/issues",
-        "indices": [
-          146,
-          169
-        ]
+        "indices": [146, 169]
       }
     ],
     "media": [
       {
         "id": 1476662219748561000,
         "id_str": "1476662219748560897",
-        "indices": [
-          170,
-          193
-        ],
+        "indices": [170, 193],
         "media_url": "http://pbs.twimg.com/media/FH4odxVaUAE0aVe.jpg",
         "media_url_https": "https://pbs.twimg.com/media/FH4odxVaUAE0aVe.jpg",
         "url": "https://t.co/TgmoH1x6eU",
         "display_url": "pic.twitter.com/TgmoH1x6eU",
-        "expanded_url": "https://twitter.com/OwenYoung_zh/status/1476663994090160129/photo/1",
+        "expanded_url": "https://twitter.com/OwenYoungZh/status/1476663994090160129/photo/1",
         "type": "photo",
         "sizes": {
           "thumb": {
@@ -76,15 +64,12 @@
       {
         "id": 1476662219748561000,
         "id_str": "1476662219748560897",
-        "indices": [
-          170,
-          193
-        ],
+        "indices": [170, 193],
         "media_url": "http://pbs.twimg.com/media/FH4odxVaUAE0aVe.jpg",
         "media_url_https": "https://pbs.twimg.com/media/FH4odxVaUAE0aVe.jpg",
         "url": "https://t.co/TgmoH1x6eU",
         "display_url": "pic.twitter.com/TgmoH1x6eU",
-        "expanded_url": "https://twitter.com/OwenYoung_zh/status/1476663994090160129/photo/1",
+        "expanded_url": "https://twitter.com/OwenYoungZh/status/1476663994090160129/photo/1",
         "type": "photo",
         "sizes": {
           "thumb": {
@@ -121,7 +106,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
     "url": "https://t.co/SI1DtwgE0K",
@@ -132,10 +117,7 @@
             "url": "https://t.co/SI1DtwgE0K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -145,37 +127,25 @@
             "url": "https://t.co/HWIyoz4rCy",
             "expanded_url": "http://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              76,
-              99
-            ]
+            "indices": [76, 99]
           },
           {
             "url": "https://t.co/WKpxbVbJC7",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              106,
-              129
-            ]
+            "indices": [106, 129]
           },
           {
             "url": "https://t.co/sFAPhwAMVU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              132,
-              155
-            ]
+            "indices": [132, 155]
           },
           {
             "url": "https://t.co/PVEHFLM5KW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              158,
-              181
-            ]
+            "indices": [158, 181]
           }
         ]
       }

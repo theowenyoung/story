@@ -4,10 +4,7 @@
   "id_str": "1315617688325029888",
   "full_text": "在 next.js 的example海洋裡學習新框架，新寫法... https://t.co/s7pSqW0QhP",
   "truncated": false,
-  "display_text_range": [
-    0,
-    57
-  ],
+  "display_text_range": [0, 57],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "url": "https://t.co/s7pSqW0QhP",
         "expanded_url": "https://github.com/zeit/next.js/tree/canary/examples",
         "display_url": "github.com/zeit/next.js/t…",
-        "indices": [
-          34,
-          57
-        ]
+        "indices": [34, 57]
       }
     ]
   },
@@ -34,7 +28,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

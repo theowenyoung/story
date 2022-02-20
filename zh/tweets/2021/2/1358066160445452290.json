@@ -4,10 +4,7 @@
   "id_str": "1358066160445452290",
   "full_text": "我在想clubhouse的音频提供商是声网，一个中国公司，如果政府要审查，是不是会更容易？ https://t.co/txyzlNN8Zp",
   "truncated": false,
-  "display_text_range": [
-    0,
-    45
-  ],
+  "display_text_range": [0, 45],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "url": "https://t.co/txyzlNN8Zp",
         "expanded_url": "https://twitter.com/sanzhao41/status/1358001394221940737",
         "display_url": "twitter.com/sanzhao41/stat…",
-        "indices": [
-          46,
-          69
-        ]
+        "indices": [46, 69]
       }
     ]
   },
@@ -34,7 +28,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung",
     "url": "https://t.co/uPEqybiPDr",
@@ -45,10 +39,7 @@
             "url": "https://t.co/uPEqybiPDr",
             "expanded_url": "https://blog.owenyoung.com",
             "display_url": "blog.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -108,10 +99,7 @@
     "id_str": "1358001394221940737",
     "full_text": "估計先釣魚、喝茶再ban . https://t.co/Z77AWk7OBo",
     "truncated": false,
-    "display_text_range": [
-      0,
-      14
-    ],
+    "display_text_range": [0, 14],
     "entities": {
       "hashtags": [],
       "symbols": [],
@@ -121,10 +109,7 @@
           "url": "https://t.co/Z77AWk7OBo",
           "expanded_url": "https://twitter.com/nickname002002/status/1358000457352765441",
           "display_url": "twitter.com/nickname002002…",
-          "indices": [
-            15,
-            38
-          ]
+          "indices": [15, 38]
         }
       ]
     },

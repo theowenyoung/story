@@ -4,10 +4,7 @@
   "id_str": "1355777781309661188",
   "full_text": "I written a post to introduce my gatsby blog theme timeline, with this, you can make a real personal home, show your all posts, tweets, instagram posts into one blog. https://t.co/lgp44fmLFv",
   "truncated": false,
-  "display_text_range": [
-    0,
-    190
-  ],
+  "display_text_range": [0, 190],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "url": "https://t.co/lgp44fmLFv",
         "expanded_url": "https://blog.owenyoung.com/en/posts/gatsby-timeline-theme/",
         "display_url": "blog.owenyoung.com/en/posts/gatsb…",
-        "indices": [
-          167,
-          190
-        ]
+        "indices": [167, 190]
       }
     ]
   },
@@ -36,7 +30,7 @@
     "name": "Owen Young",
     "screen_name": "TheOwenYoung",
     "location": "",
-    "description": "Freelancer / perfectionism / workflow lover / 中文推 @owenyoung_zh / the maker of https://t.co/4m2DI4WNd2 https://t.co/tj1ryzm1n0 https://t.co/9JETwbJC7K",
+    "description": "Freelancer / perfectionism / workflow lover / 中文推 @OwenYoungZh / the maker of https://t.co/4m2DI4WNd2 https://t.co/tj1ryzm1n0 https://t.co/9JETwbJC7K",
     "url": "https://t.co/GOmdskRx05",
     "entities": {
       "url": {
@@ -45,10 +39,7 @@
             "url": "https://t.co/GOmdskRx05",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -58,28 +49,19 @@
             "url": "https://t.co/4m2DI4WNd2",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              79,
-              102
-            ]
+            "indices": [79, 102]
           },
           {
             "url": "https://t.co/tj1ryzm1n0",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              103,
-              126
-            ]
+            "indices": [103, 126]
           },
           {
             "url": "https://t.co/9JETwbJC7K",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              127,
-              150
-            ]
+            "indices": [127, 150]
           }
         ]
       }

@@ -4,10 +4,7 @@
   "id_str": "1433927921312272384",
   "full_text": "冷知识：独立开发者分为kol型独立开发者和其他独立开发者。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    29
-  ],
+  "display_text_range": [0, 29],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , https://t.co/qMcLMxVoJX , https://t.co/Pb7P5k11Zy , https://t.co/zVP31AWMJB",
     "url": "https://t.co/SI1DtwxH2K",
@@ -35,10 +32,7 @@
             "url": "https://t.co/SI1DtwxH2K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -48,28 +42,19 @@
             "url": "https://t.co/qMcLMxVoJX",
             "expanded_url": "https://www.buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              70,
-              93
-            ]
+            "indices": [70, 93]
           },
           {
             "url": "https://t.co/Pb7P5k11Zy",
             "expanded_url": "https://www.trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              96,
-              119
-            ]
+            "indices": [96, 119]
           },
           {
             "url": "https://t.co/zVP31AWMJB",
             "expanded_url": "https://actionsflow.github.io/",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              122,
-              145
-            ]
+            "indices": [122, 145]
           }
         ]
       }

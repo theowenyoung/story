@@ -4,10 +4,7 @@
   "id_str": "1437064601183535108",
   "full_text": "RT @buzzingcc: 大家好，今天为Buzzing的读者建了一个telegram群，希望大家能在这里找到”家人”。😍 欢迎加入：https://t.co/L61MUnSg8m",
   "truncated": false,
-  "display_text_range": [
-    0,
-    91
-  ],
+  "display_text_range": [0, 91],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "name": "Buzzing",
         "id": 1341263416166518800,
         "id_str": "1341263416166518784",
-        "indices": [
-          3,
-          13
-        ]
+        "indices": [3, 13]
       }
     ],
     "urls": [
@@ -28,10 +22,7 @@
         "url": "https://t.co/L61MUnSg8m",
         "expanded_url": "https://t.me/joinchat/GVK5UiDwPUAwMjkx",
         "display_url": "t.me/joinchat/GVK5U…",
-        "indices": [
-          68,
-          91
-        ]
+        "indices": [68, 91]
       }
     ]
   },
@@ -45,7 +36,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , https://t.co/qMcLMxVoJX , https://t.co/Pb7P5k11Zy , https://t.co/zVP31AWMJB",
     "url": "https://t.co/SI1DtwxH2K",
@@ -56,10 +47,7 @@
             "url": "https://t.co/SI1DtwxH2K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -69,28 +57,19 @@
             "url": "https://t.co/qMcLMxVoJX",
             "expanded_url": "https://www.buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              70,
-              93
-            ]
+            "indices": [70, 93]
           },
           {
             "url": "https://t.co/Pb7P5k11Zy",
             "expanded_url": "https://www.trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              96,
-              119
-            ]
+            "indices": [96, 119]
           },
           {
             "url": "https://t.co/zVP31AWMJB",
             "expanded_url": "https://actionsflow.github.io/",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              122,
-              145
-            ]
+            "indices": [122, 145]
           }
         ]
       }
@@ -140,10 +119,7 @@
     "id_str": "1437064357158948871",
     "full_text": "大家好，今天为Buzzing的读者建了一个telegram群，希望大家能在这里找到”家人”。😍 欢迎加入：https://t.co/L61MUnSg8m",
     "truncated": false,
-    "display_text_range": [
-      0,
-      76
-    ],
+    "display_text_range": [0, 76],
     "entities": {
       "hashtags": [],
       "symbols": [],
@@ -153,10 +129,7 @@
           "url": "https://t.co/L61MUnSg8m",
           "expanded_url": "https://t.me/joinchat/GVK5UiDwPUAwMjkx",
           "display_url": "t.me/joinchat/GVK5U…",
-          "indices": [
-            53,
-            76
-          ]
+          "indices": [53, 76]
         }
       ]
     },
@@ -181,10 +154,7 @@
               "url": "https://t.co/shlCVKE8CK",
               "expanded_url": "https://www.buzzing.cc",
               "display_url": "buzzing.cc",
-              "indices": [
-                0,
-                23
-              ]
+              "indices": [0, 23]
             }
           ]
         },
@@ -194,10 +164,7 @@
               "url": "https://t.co/8Lyam8RBe1",
               "expanded_url": "http://Buzzing.cc",
               "display_url": "Buzzing.cc",
-              "indices": [
-                0,
-                23
-              ]
+              "indices": [0, 23]
             }
           ]
         }

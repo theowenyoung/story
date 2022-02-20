@@ -4,10 +4,7 @@
   "id_str": "1315618879171747842",
   "full_text": "對我來說，只有背井離鄉才能活出真正的自己，如果留在家鄉，活著就是活給父母和親戚看。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    41
-  ],
+  "display_text_range": [0, 41],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

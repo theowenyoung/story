@@ -4,10 +4,7 @@
   "id_str": "1315618746317168642",
   "full_text": "自從項目運行開始依賴github後，發現GitHub還是挺能出問題的，三天兩頭出現問題...",
   "truncated": false,
-  "display_text_range": [
-    0,
-    46
-  ],
+  "display_text_range": [0, 46],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

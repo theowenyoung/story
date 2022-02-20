@@ -4,10 +4,7 @@
   "id_str": "1437114267128393728",
   "full_text": "RT @jakeprins_nl: The best places to post your startup. \n\nA great way to show your product to the world is by sharing it on platforms like…",
   "truncated": false,
-  "display_text_range": [
-    0,
-    139
-  ],
+  "display_text_range": [0, 139],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -26,7 +23,7 @@
     "name": "Owen Young",
     "screen_name": "TheOwenYoung",
     "location": "",
-    "description": "Freelancer / perfectionism / workflow lover / 中文推 @owenyoung_zh / the maker of https://t.co/4m2DI4WNd2 https://t.co/tj1ryzm1n0 https://t.co/9JETwbJC7K",
+    "description": "Freelancer / perfectionism / workflow lover / 中文推 @OwenYoungZh / the maker of https://t.co/4m2DI4WNd2 https://t.co/tj1ryzm1n0 https://t.co/9JETwbJC7K",
     "url": "https://t.co/GOmdskRx05",
     "entities": {
       "url": {
@@ -35,10 +32,7 @@
             "url": "https://t.co/GOmdskRx05",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -48,28 +42,19 @@
             "url": "https://t.co/4m2DI4WNd2",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              79,
-              102
-            ]
+            "indices": [79, 102]
           },
           {
             "url": "https://t.co/tj1ryzm1n0",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              103,
-              126
-            ]
+            "indices": [103, 126]
           },
           {
             "url": "https://t.co/9JETwbJC7K",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              127,
-              150
-            ]
+            "indices": [127, 150]
           }
         ]
       }
@@ -119,10 +104,7 @@
     "id_str": "1293243281556594690",
     "full_text": "The best places to post your startup. \n\nA great way to show your product to the world is by sharing it on platforms like @ProductHunt, @IndieHackers, @reddit, etc. It’s also an easy way to get some feedback and backlinks. Here are some great directories to submit your product.👇",
     "truncated": false,
-    "display_text_range": [
-      0,
-      278
-    ],
+    "display_text_range": [0, 278],
     "entities": {
       "hashtags": [],
       "symbols": [],
@@ -132,30 +114,21 @@
           "name": "Product Hunt 😸",
           "id": 2208027565,
           "id_str": "2208027565",
-          "indices": [
-            121,
-            133
-          ]
+          "indices": [121, 133]
         },
         {
           "screen_name": "IndieHackers",
           "name": "Indie Hackers",
           "id": 756326958946922500,
           "id_str": "756326958946922496",
-          "indices": [
-            135,
-            148
-          ]
+          "indices": [135, 148]
         },
         {
           "screen_name": "Reddit",
           "name": "Reddit",
           "id": 811377,
           "id_str": "811377",
-          "indices": [
-            150,
-            157
-          ]
+          "indices": [150, 157]
         }
       ],
       "urls": []
@@ -181,10 +154,7 @@
               "url": "https://t.co/XmN2eDOWMo",
               "expanded_url": "https://www.jakeprins.com",
               "display_url": "jakeprins.com",
-              "indices": [
-                0,
-                23
-              ]
+              "indices": [0, 23]
             }
           ]
         },
@@ -194,28 +164,19 @@
               "url": "https://t.co/pqUaEn3FF8",
               "expanded_url": "http://apideck.com",
               "display_url": "apideck.com",
-              "indices": [
-                21,
-                44
-              ]
+              "indices": [21, 44]
             },
             {
               "url": "https://t.co/5RBMuZdYgG",
               "expanded_url": "http://serverless.page",
               "display_url": "serverless.page",
-              "indices": [
-                58,
-                81
-              ]
+              "indices": [58, 81]
             },
             {
               "url": "https://t.co/CIPU2kHwFs",
               "expanded_url": "http://universal.page",
               "display_url": "universal.page",
-              "indices": [
-                144,
-                167
-              ]
+              "indices": [144, 167]
             }
           ]
         }

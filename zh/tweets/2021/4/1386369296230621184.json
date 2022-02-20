@@ -4,10 +4,7 @@
   "id_str": "1386369296230621184",
   "full_text": "不得不承认谷歌浏览器的翻译功能对我来讲是一个杀手级功能。其他的谷歌内核的浏览器只能用插件，但是插件的体验很糟糕。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    56
-  ],
+  "display_text_range": [0, 56],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung",
     "url": "https://t.co/uPEqybiPDr",
@@ -35,10 +32,7 @@
             "url": "https://t.co/uPEqybiPDr",
             "expanded_url": "https://blog.owenyoung.com",
             "display_url": "blog.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },

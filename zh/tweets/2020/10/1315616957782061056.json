@@ -4,10 +4,7 @@
   "id_str": "1315616957782061056",
   "full_text": "股票市場就像一座圍城，城外的人眼紅城內的人，覺得好賺錢，城內的交易員們則更羨慕普通人的生活，不用提心吊膽。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    53
-  ],
+  "display_text_range": [0, 53],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

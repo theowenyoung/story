@@ -4,10 +4,7 @@
   "id_str": "1332922834511826947",
   "full_text": "按現在國內這些大廠的尿性，有一天牆內的搜索引擎也需要登錄或者下載APP才能用了",
   "truncated": false,
-  "display_text_range": [
-    0,
-    39
-  ],
+  "display_text_range": [0, 39],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

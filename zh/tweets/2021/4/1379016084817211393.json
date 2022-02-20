@@ -4,10 +4,7 @@
   "id_str": "1379016084817211393",
   "full_text": "上个项目的小程序用了mpx框架，是一个基于原生小程序的框架，虽然框架本身封装的还不够优雅，但是够用，以及最重要的是性能没有任何折扣。试过tora, remax 等react框架，发现这些框架根本就不可用啊，随便一个列表，点起来都慢的要死，虽然写起来很爽，但是真的，不可用。推荐 https://t.co/qYt8R0t9PI",
   "truncated": false,
-  "display_text_range": [
-    0,
-    162
-  ],
+  "display_text_range": [0, 162],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "url": "https://t.co/qYt8R0t9PI",
         "expanded_url": "https://mpxjs.cn/guide/basic/intro.html",
         "display_url": "mpxjs.cn/guide/basic/in…",
-        "indices": [
-          139,
-          162
-        ]
+        "indices": [139, 162]
       }
     ]
   },
@@ -34,7 +28,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung",
     "url": "https://t.co/uPEqybiPDr",
@@ -45,10 +39,7 @@
             "url": "https://t.co/uPEqybiPDr",
             "expanded_url": "https://blog.owenyoung.com",
             "display_url": "blog.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },

@@ -4,10 +4,7 @@
   "id_str": "1352027412482064385",
   "full_text": "准备写点文章介绍下最近搞的东西，好多东西搞出来之后就丧失了好的状态去介绍它了。。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    40
-  ],
+  "display_text_range": [0, 40],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -24,7 +21,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,

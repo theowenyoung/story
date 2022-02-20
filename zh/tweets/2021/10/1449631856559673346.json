@@ -4,10 +4,7 @@
   "id_str": "1449631856559673346",
   "full_text": "大意了，学到现在，调用第三库还好，但是要自己写一个actix-web的中间件的时候，照猫画虎都好难，尤其是我还用的4.0的beta版，没有示例代码只能干瞪眼。 https://t.co/M2OX7KKPOb",
   "truncated": false,
-  "display_text_range": [
-    0,
-    79
-  ],
+  "display_text_range": [0, 79],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -15,12 +12,9 @@
     "urls": [
       {
         "url": "https://t.co/M2OX7KKPOb",
-        "expanded_url": "https://twitter.com/OwenYoung_zh/status/1435787353516175366",
-        "display_url": "twitter.com/OwenYoung_zh/s…",
-        "indices": [
-          80,
-          103
-        ]
+        "expanded_url": "https://twitter.com/OwenYoungZh/status/1435787353516175366",
+        "display_url": "twitter.com/OwenYoungZh/s…",
+        "indices": [80, 103]
       }
     ]
   },
@@ -34,7 +28,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , 正在完成一部可以留给grandchild的wiki. https://t.co/WKpxbUTAnZ , https://t.co/sFAPhwRPXU , https://t.co/PVEHFM38MW",
     "url": "https://t.co/SI1DtwxH2K",
@@ -45,10 +39,7 @@
             "url": "https://t.co/SI1DtwxH2K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -58,28 +49,19 @@
             "url": "https://t.co/WKpxbUTAnZ",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              97,
-              120
-            ]
+            "indices": [97, 120]
           },
           {
             "url": "https://t.co/sFAPhwRPXU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              123,
-              146
-            ]
+            "indices": [123, 146]
           },
           {
             "url": "https://t.co/PVEHFM38MW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              149,
-              172
-            ]
+            "indices": [149, 172]
           }
         ]
       }
@@ -129,8 +111,8 @@
   "quoted_status_id_str": "1435787353516175366",
   "quoted_status_permalink": {
     "url": "https://t.co/M2OX7KKPOb",
-    "expanded": "https://twitter.com/OwenYoung_zh/status/1435787353516175366",
-    "display": "twitter.com/OwenYoung_zh/s…"
+    "expanded": "https://twitter.com/OwenYoungZh/status/1435787353516175366",
+    "display": "twitter.com/OwenYoungZh/s…"
   },
   "quoted_status": {
     "created_at": "Thu Sep 09 02:09:15 +0000 2021",
@@ -138,10 +120,7 @@
     "id_str": "1435787353516175366",
     "full_text": "这几天入门了下rust，跟着这本https://t.co/ZYPPCfGYTU教程学的。边学边做ruslings的练习题，把我做的答案上传了：https://t.co/bOtLiPEQMr \n不得不说rust设计的可真好啊，之前老听说rust入门难什么的，但是我感觉对初学者贼友好啊，那错误提示，那文档，都太好了！那么做点什么呢！",
     "truncated": false,
-    "display_text_range": [
-      0,
-      165
-    ],
+    "display_text_range": [0, 165],
     "entities": {
       "hashtags": [],
       "symbols": [],
@@ -151,19 +130,13 @@
           "url": "https://t.co/ZYPPCfGYTU",
           "expanded_url": "https://github.com/Dhghomon/easy_rust",
           "display_url": "github.com/Dhghomon/easy_…",
-          "indices": [
-            16,
-            39
-          ]
+          "indices": [16, 39]
         },
         {
           "url": "https://t.co/bOtLiPEQMr",
           "expanded_url": "https://github.com/theowenyoung/rustlings-solutions",
           "display_url": "github.com/theowenyoung/r…",
-          "indices": [
-            71,
-            94
-          ]
+          "indices": [71, 94]
         }
       ]
     },
@@ -177,7 +150,7 @@
       "id": 1315602897091010600,
       "id_str": "1315602897091010561",
       "name": "Owen",
-      "screen_name": "OwenYoung_zh",
+      "screen_name": "OwenYoungZh",
       "location": "",
       "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推, 英文推见: @TheOwenYoung , 正在完成一部可以留给grandchild的wiki. https://t.co/WKpxbUTAnZ , https://t.co/sFAPhwRPXU , https://t.co/PVEHFM38MW",
       "url": "https://t.co/SI1DtwxH2K",
@@ -188,10 +161,7 @@
               "url": "https://t.co/SI1DtwxH2K",
               "expanded_url": "https://wiki.owenyoung.com",
               "display_url": "wiki.owenyoung.com",
-              "indices": [
-                0,
-                23
-              ]
+              "indices": [0, 23]
             }
           ]
         },
@@ -201,28 +171,19 @@
               "url": "https://t.co/WKpxbUTAnZ",
               "expanded_url": "http://buzzing.cc",
               "display_url": "buzzing.cc",
-              "indices": [
-                97,
-                120
-              ]
+              "indices": [97, 120]
             },
             {
               "url": "https://t.co/sFAPhwRPXU",
               "expanded_url": "http://trackawesomelist.com",
               "display_url": "trackawesomelist.com",
-              "indices": [
-                123,
-                146
-              ]
+              "indices": [123, 146]
             },
             {
               "url": "https://t.co/PVEHFM38MW",
               "expanded_url": "http://actionsflow.github.io",
               "display_url": "actionsflow.github.io",
-              "indices": [
-                149,
-                172
-              ]
+              "indices": [149, 172]
             }
           ]
         }

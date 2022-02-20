@@ -4,10 +4,7 @@
   "id_str": "1352219520488804354",
   "full_text": "Again https://t.co/4ZPv1Me5ei",
   "truncated": false,
-  "display_text_range": [
-    0,
-    5
-  ],
+  "display_text_range": [0, 5],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -15,12 +12,9 @@
     "urls": [
       {
         "url": "https://t.co/4ZPv1Me5ei",
-        "expanded_url": "https://twitter.com/OwenYoung_zh/status/1315618643288289280",
-        "display_url": "twitter.com/OwenYoung_zh/s…",
-        "indices": [
-          6,
-          29
-        ]
+        "expanded_url": "https://twitter.com/OwenYoungZh/status/1315618643288289280",
+        "display_url": "twitter.com/OwenYoungZh/s…",
+        "indices": [6, 29]
       }
     ]
   },
@@ -34,7 +28,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
     "url": null,
@@ -86,8 +80,8 @@
   "quoted_status_id_str": "1315618643288289280",
   "quoted_status_permalink": {
     "url": "https://t.co/4ZPv1Me5ei",
-    "expanded": "https://twitter.com/OwenYoung_zh/status/1315618643288289280",
-    "display": "twitter.com/OwenYoung_zh/s…"
+    "expanded": "https://twitter.com/OwenYoungZh/status/1315618643288289280",
+    "display": "twitter.com/OwenYoungZh/s…"
   },
   "quoted_status": {
     "created_at": "Mon Oct 12 11:41:42 +0000 2020",
@@ -95,10 +89,7 @@
     "id_str": "1315618643288289280",
     "full_text": "牛市恨自己沒能跟上，熊市恨自己為什麼要進入市場。",
     "truncated": false,
-    "display_text_range": [
-      0,
-      24
-    ],
+    "display_text_range": [0, 24],
     "entities": {
       "hashtags": [],
       "symbols": [],
@@ -115,7 +106,7 @@
       "id": 1315602897091010600,
       "id_str": "1315602897091010561",
       "name": "Owen",
-      "screen_name": "OwenYoung_zh",
+      "screen_name": "OwenYoungZh",
       "location": "",
       "description": "完美主義，工作流愛好者。 這是中文推, 英文推: @TheOwenYoung",
       "url": null,

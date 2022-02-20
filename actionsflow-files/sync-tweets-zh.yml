@@ -7,7 +7,7 @@ on:
       access_token: ${{ secrets.TWITTER_ACCESS_TOKEN_ZH }}
       access_token_secret: ${{ secrets.TWITTER_ACCESS_SECRET_ZH }}
     params:
-      screen_name: OwenYoung_zh
+      screen_name: OwenYoungZh
     fetchAllResultsAtFirst: true
     config:
       exportOutputs: true

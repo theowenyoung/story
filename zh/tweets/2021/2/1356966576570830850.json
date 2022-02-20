@@ -4,10 +4,7 @@
   "id_str": "1356966576570830850",
   "full_text": "自从做了reddit，国外股市，hacker news的中文热门导读之后，英文阅读量极速增加。写了篇文章分享我是如何培养长期的英文阅读兴趣  https://t.co/0BbaM6E2AA",
   "truncated": false,
-  "display_text_range": [
-    0,
-    94
-  ],
+  "display_text_range": [0, 94],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "url": "https://t.co/0BbaM6E2AA",
         "expanded_url": "https://blog.owenyoung.com/zh/posts/how-do-i-cultivate-long-term-interest-in-english-reading/",
         "display_url": "blog.owenyoung.com/zh/posts/how-d…",
-        "indices": [
-          71,
-          94
-        ]
+        "indices": [71, 94]
       }
     ]
   },
@@ -34,7 +28,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者。 為了學好英文，所以分開中英文推, 英文推: @TheOwenYoung",
     "url": null,

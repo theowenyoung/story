@@ -4,10 +4,7 @@
   "id_str": "1479717753078820868",
   "full_text": "RT @HackerNewsZh: 发现推特中文圈还没有账户专门搬运Hacker News  https://t.co/jFO6io8LRA 上相对高质量的讨论，我来试试吧，欢迎关注 @HackerNewsZh , 每小时精选2条HN上当前最热门的讨论，附带中文翻译和原文标题，…",
   "truncated": false,
-  "display_text_range": [
-    0,
-    140
-  ],
+  "display_text_range": [0, 140],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,20 +14,14 @@
         "name": "Hacker News 中文精选",
         "id": 1476693293014876200,
         "id_str": "1476693293014876160",
-        "indices": [
-          3,
-          16
-        ]
+        "indices": [3, 16]
       },
       {
         "screen_name": "HackerNewsZh",
         "name": "Hacker News 中文精选",
         "id": 1476693293014876200,
         "id_str": "1476693293014876160",
-        "indices": [
-          92,
-          105
-        ]
+        "indices": [92, 105]
       }
     ],
     "urls": [
@@ -38,10 +29,7 @@
         "url": "https://t.co/jFO6io8LRA",
         "expanded_url": "https://news.ycombinator.com/",
         "display_url": "news.ycombinator.com",
-        "indices": [
-          47,
-          70
-        ]
+        "indices": [47, 70]
       }
     ]
   },
@@ -55,7 +43,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
     "url": "https://t.co/SI1DtwgE0K",
@@ -66,10 +54,7 @@
             "url": "https://t.co/SI1DtwgE0K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -79,37 +64,25 @@
             "url": "https://t.co/HWIyoz4rCy",
             "expanded_url": "http://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              76,
-              99
-            ]
+            "indices": [76, 99]
           },
           {
             "url": "https://t.co/WKpxbVbJC7",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              106,
-              129
-            ]
+            "indices": [106, 129]
           },
           {
             "url": "https://t.co/sFAPhwAMVU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              132,
-              155
-            ]
+            "indices": [132, 155]
           },
           {
             "url": "https://t.co/PVEHFLM5KW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              158,
-              181
-            ]
+            "indices": [158, 181]
           }
         ]
       }
@@ -160,10 +133,7 @@
     "id_str": "1479694500318834689",
     "full_text": "发现推特中文圈还没有账户专门搬运Hacker News  https://t.co/jFO6io8LRA 上相对高质量的讨论，我来试试吧，欢迎关注 @HackerNewsZh , 每小时精选2条HN上当前最热门的讨论，附带中文翻译和原文标题，原文链接，以及HN讨论的链接。 中文翻译来自： https://t.co/6oLpLpHJO9",
     "truncated": false,
-    "display_text_range": [
-      0,
-      168
-    ],
+    "display_text_range": [0, 168],
     "entities": {
       "hashtags": [],
       "symbols": [],
@@ -173,10 +143,7 @@
           "name": "Hacker News 中文精选",
           "id": 1476693293014876200,
           "id_str": "1476693293014876160",
-          "indices": [
-            74,
-            87
-          ]
+          "indices": [74, 87]
         }
       ],
       "urls": [
@@ -184,19 +151,13 @@
           "url": "https://t.co/jFO6io8LRA",
           "expanded_url": "https://news.ycombinator.com/",
           "display_url": "news.ycombinator.com",
-          "indices": [
-            29,
-            52
-          ]
+          "indices": [29, 52]
         },
         {
           "url": "https://t.co/6oLpLpHJO9",
           "expanded_url": "https://hn.buzzing.cc",
           "display_url": "hn.buzzing.cc",
-          "indices": [
-            145,
-            168
-          ]
+          "indices": [145, 168]
         }
       ]
     },
@@ -212,7 +173,7 @@
       "name": "Hacker News 中文精选",
       "screen_name": "HackerNewsZh",
       "location": "",
-      "description": "Hacker News 中文 Bot， 每小时2条，推送 HN 当前最热门的讨论，附带原文标题,  地址和HN讨论地址, 中文标题来自 https://t.co/TvvVW5yfQR ，使用deepl机器翻译， 背后的人： @OwenYoung_zh , 兄弟bots： @AskRedditZh , 国外新闻bot @NewsBotZh",
+      "description": "Hacker News 中文 Bot， 每小时2条，推送 HN 当前最热门的讨论，附带原文标题,  地址和HN讨论地址, 中文标题来自 https://t.co/TvvVW5yfQR ，使用deepl机器翻译， 背后的人： @OwenYoungZh , 兄弟bots： @AskRedditZh , 国外新闻bot @NewsBotZh",
       "url": "https://t.co/ub1mvd5nVy",
       "entities": {
         "url": {
@@ -221,10 +182,7 @@
               "url": "https://t.co/ub1mvd5nVy",
               "expanded_url": "https://hn.buzzing.cc",
               "display_url": "hn.buzzing.cc",
-              "indices": [
-                0,
-                23
-              ]
+              "indices": [0, 23]
             }
           ]
         },
@@ -234,10 +192,7 @@
               "url": "https://t.co/TvvVW5yfQR",
               "expanded_url": "http://hn.buzzing.cc",
               "display_url": "hn.buzzing.cc",
-              "indices": [
-                68,
-                91
-              ]
+              "indices": [68, 91]
             }
           ]
         }
