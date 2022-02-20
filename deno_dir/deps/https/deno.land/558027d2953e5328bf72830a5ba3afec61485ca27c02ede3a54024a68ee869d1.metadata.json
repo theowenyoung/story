@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-length": "424",
+    "x-amz-version-id": "null",
+    "x-amz-id-2": "gvhLQTgpQOJlQu5tflYrxqHRkV4dSSDPE6SmyprYl2LSFCnvaOmOzZP4qqv0TFOlEC1YvjM8bsY=",
+    "date": "Sun, 20 Feb 2022 13:47:21 GMT",
+    "content-type": "application/javascript",
+    "server": "deploy/us-west1-a",
+    "x-amz-request-id": "XS9WGP6R87ZJW4GA",
+    "etag": "\"a3b1cd586f56c27d2026575e0d191857\"",
+    "access-control-allow-origin": "*",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/isNil.js",
+  "now": {
+    "secs_since_epoch": 1645364840,
+    "nanos_since_epoch": 506513398
+  }
+}

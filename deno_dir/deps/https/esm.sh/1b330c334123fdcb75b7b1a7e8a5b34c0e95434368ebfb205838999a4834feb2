@@ -1,0 +1,3 @@
+/* esm.sh - deepmerge@4.2.2 */
+export * from "https://cdn.esm.sh/v66/deepmerge@4.2.2/deno/deepmerge.js";
+export { default } from "https://cdn.esm.sh/v66/deepmerge@4.2.2/deno/deepmerge.js";
