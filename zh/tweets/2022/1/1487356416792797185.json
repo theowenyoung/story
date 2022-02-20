@@ -4,10 +4,7 @@
   "id_str": "1487356416792797185",
   "full_text": "@felixding 同，我有不少项目是用Gatsby生成的静态网站，每次想修改或者升级一下，依赖关系都让我崩溃。但是js的生态确实又是一绝，基本都有相应的库。\n\n现在开始慢慢把js的部分迁移到Deno上，当然Deno上的生态其实非常差，很多库没有，不少库有很多bug，反向逼你自己写，或者只用std库，这样代码其实更鲁棒一点。",
   "truncated": false,
-  "display_text_range": [
-    11,
-    164
-  ],
+  "display_text_range": [11, 164],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "name": "丁宇 | DING Yu",
         "id": 11240592,
         "id_str": "11240592",
-        "indices": [
-          0,
-          10
-        ]
+        "indices": [0, 10]
       }
     ],
     "urls": []
@@ -35,7 +29,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
     "url": "https://t.co/SI1DtwgE0K",
@@ -46,10 +40,7 @@
             "url": "https://t.co/SI1DtwgE0K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -59,37 +50,25 @@
             "url": "https://t.co/HWIyoz4rCy",
             "expanded_url": "http://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              76,
-              99
-            ]
+            "indices": [76, 99]
           },
           {
             "url": "https://t.co/WKpxbVbJC7",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              106,
-              129
-            ]
+            "indices": [106, 129]
           },
           {
             "url": "https://t.co/sFAPhwAMVU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              132,
-              155
-            ]
+            "indices": [132, 155]
           },
           {
             "url": "https://t.co/PVEHFLM5KW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              158,
-              181
-            ]
+            "indices": [158, 181]
           }
         ]
       }

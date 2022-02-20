@@ -4,10 +4,7 @@
   "id_str": "1488091756524892166",
   "full_text": "订阅了 @douban_read  完美👌 https://t.co/8Fmq64IEGi",
   "truncated": false,
-  "display_text_range": [
-    0,
-    21
-  ],
+  "display_text_range": [0, 21],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "name": "豆瓣精选",
         "id": 1339777612697067500,
         "id_str": "1339777612697067522",
-        "indices": [
-          4,
-          16
-        ]
+        "indices": [4, 16]
       }
     ],
     "urls": [],
@@ -28,15 +22,12 @@
       {
         "id": 1488091752838078500,
         "id_str": "1488091752838078469",
-        "indices": [
-          22,
-          45
-        ],
+        "indices": [22, 45],
         "media_url": "http://pbs.twimg.com/media/FKbDkKEaIAU651u.jpg",
         "media_url_https": "https://pbs.twimg.com/media/FKbDkKEaIAU651u.jpg",
         "url": "https://t.co/8Fmq64IEGi",
         "display_url": "pic.twitter.com/8Fmq64IEGi",
-        "expanded_url": "https://twitter.com/OwenYoung_zh/status/1488091756524892166/photo/1",
+        "expanded_url": "https://twitter.com/OwenYoungZh/status/1488091756524892166/photo/1",
         "type": "photo",
         "sizes": {
           "thumb": {
@@ -68,15 +59,12 @@
       {
         "id": 1488091752838078500,
         "id_str": "1488091752838078469",
-        "indices": [
-          22,
-          45
-        ],
+        "indices": [22, 45],
         "media_url": "http://pbs.twimg.com/media/FKbDkKEaIAU651u.jpg",
         "media_url_https": "https://pbs.twimg.com/media/FKbDkKEaIAU651u.jpg",
         "url": "https://t.co/8Fmq64IEGi",
         "display_url": "pic.twitter.com/8Fmq64IEGi",
-        "expanded_url": "https://twitter.com/OwenYoung_zh/status/1488091756524892166/photo/1",
+        "expanded_url": "https://twitter.com/OwenYoungZh/status/1488091756524892166/photo/1",
         "type": "photo",
         "sizes": {
           "thumb": {
@@ -108,12 +96,12 @@
   "in_reply_to_status_id_str": "1488086986305212417",
   "in_reply_to_user_id": 1315602897091010600,
   "in_reply_to_user_id_str": "1315602897091010561",
-  "in_reply_to_screen_name": "OwenYoung_zh",
+  "in_reply_to_screen_name": "OwenYoungZh",
   "user": {
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
     "url": "https://t.co/SI1DtwgE0K",
@@ -124,10 +112,7 @@
             "url": "https://t.co/SI1DtwgE0K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -137,37 +122,25 @@
             "url": "https://t.co/HWIyoz4rCy",
             "expanded_url": "http://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              76,
-              99
-            ]
+            "indices": [76, 99]
           },
           {
             "url": "https://t.co/WKpxbVbJC7",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              106,
-              129
-            ]
+            "indices": [106, 129]
           },
           {
             "url": "https://t.co/sFAPhwAMVU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              132,
-              155
-            ]
+            "indices": [132, 155]
           },
           {
             "url": "https://t.co/PVEHFLM5KW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              158,
-              181
-            ]
+            "indices": [158, 181]
           }
         ]
       }

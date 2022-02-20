@@ -4,10 +4,7 @@
   "id_str": "1493284634838241282",
   "full_text": "如果只听BBC的广播电台的话，目前我是用 @hzlzh 开发的Menubarx https://t.co/nSCiv3xY5X ，打开BBC sounds的网页版（BBC广播的网页版和客户端都做的非常棒）：https://t.co/hodlZKdb2W ，保存书签，下次即可接着收听，方便快捷。目前主要听bbc6和bbc1 relax频道，relax很适合工作的时候作为背景收听。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    190
-  ],
+  "display_text_range": [0, 190],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "name": "自力hzlzh",
         "id": 86696715,
         "id_str": "86696715",
-        "indices": [
-          21,
-          27
-        ]
+        "indices": [21, 27]
       }
     ],
     "urls": [
@@ -28,19 +22,13 @@
         "url": "https://t.co/nSCiv3xY5X",
         "expanded_url": "https://menubarx.app/",
         "display_url": "menubarx.app",
-        "indices": [
-          40,
-          63
-        ]
+        "indices": [40, 63]
       },
       {
         "url": "https://t.co/hodlZKdb2W",
         "expanded_url": "https://www.bbc.co.uk/sounds/play/live:bbc_6music",
         "display_url": "bbc.co.uk/sounds/play/li…",
-        "indices": [
-          103,
-          126
-        ]
+        "indices": [103, 126]
       }
     ]
   },
@@ -49,12 +37,12 @@
   "in_reply_to_status_id_str": "1492621490503962628",
   "in_reply_to_user_id": 1315602897091010600,
   "in_reply_to_user_id_str": "1315602897091010561",
-  "in_reply_to_screen_name": "OwenYoung_zh",
+  "in_reply_to_screen_name": "OwenYoungZh",
   "user": {
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
     "url": "https://t.co/O49uCkIrNR",
@@ -65,10 +53,7 @@
             "url": "https://t.co/O49uCkIrNR",
             "expanded_url": "https://wiki.owenyoung.com/now/",
             "display_url": "wiki.owenyoung.com/now/",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -78,37 +63,25 @@
             "url": "https://t.co/HWIyoz4rCy",
             "expanded_url": "http://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              76,
-              99
-            ]
+            "indices": [76, 99]
           },
           {
             "url": "https://t.co/WKpxbVbJC7",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              106,
-              129
-            ]
+            "indices": [106, 129]
           },
           {
             "url": "https://t.co/sFAPhwAMVU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              132,
-              155
-            ]
+            "indices": [132, 155]
           },
           {
             "url": "https://t.co/PVEHFLM5KW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              158,
-              181
-            ]
+            "indices": [158, 181]
           }
         ]
       }

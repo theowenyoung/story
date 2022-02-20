@@ -4,10 +4,7 @@
   "id_str": "1489561656145616897",
   "full_text": "@HomeDemonCrouch @felixding 自荐一下：高质量的英文论坛的中文翻译：https://t.co/2mVvQ1Yzhr",
   "truncated": false,
-  "display_text_range": [
-    28,
-    70
-  ],
+  "display_text_range": [28, 70],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,20 +14,14 @@
         "name": "RadioEcho",
         "id": 1255624258505584600,
         "id_str": "1255624258505584646",
-        "indices": [
-          0,
-          16
-        ]
+        "indices": [0, 16]
       },
       {
         "screen_name": "felixding",
         "name": "丁宇 | DING Yu",
         "id": 11240592,
         "id_str": "11240592",
-        "indices": [
-          17,
-          27
-        ]
+        "indices": [17, 27]
       }
     ],
     "urls": [
@@ -38,10 +29,7 @@
         "url": "https://t.co/2mVvQ1Yzhr",
         "expanded_url": "https://www.buzzing.cc",
         "display_url": "buzzing.cc",
-        "indices": [
-          47,
-          70
-        ]
+        "indices": [47, 70]
       }
     ]
   },
@@ -55,7 +43,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
     "url": "https://t.co/O49uCkIrNR",
@@ -66,10 +54,7 @@
             "url": "https://t.co/O49uCkIrNR",
             "expanded_url": "https://wiki.owenyoung.com/now/",
             "display_url": "wiki.owenyoung.com/now/",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -79,37 +64,25 @@
             "url": "https://t.co/HWIyoz4rCy",
             "expanded_url": "http://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              76,
-              99
-            ]
+            "indices": [76, 99]
           },
           {
             "url": "https://t.co/WKpxbVbJC7",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              106,
-              129
-            ]
+            "indices": [106, 129]
           },
           {
             "url": "https://t.co/sFAPhwAMVU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              132,
-              155
-            ]
+            "indices": [132, 155]
           },
           {
             "url": "https://t.co/PVEHFLM5KW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              158,
-              181
-            ]
+            "indices": [158, 181]
           }
         ]
       }

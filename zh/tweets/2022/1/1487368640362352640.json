@@ -4,10 +4,7 @@
   "id_str": "1487368640362352640",
   "full_text": "永久性：乐观的人认为坏事是暂时的，而不是永久的，并且可以迅速从失败中走出来，而其他人可能需要更长的时间来恢复，或者永远不会恢复。乐观主义者相信好事发生的原因是永久性的，而不是看到好事的短暂性。乐观主义者倾向于指出负面事件的具体临时原因，悲观主义者则指出永久原因。",
   "truncated": false,
-  "display_text_range": [
-    0,
-    131
-  ],
+  "display_text_range": [0, 131],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -19,12 +16,12 @@
   "in_reply_to_status_id_str": "1487367800297779201",
   "in_reply_to_user_id": 1315602897091010600,
   "in_reply_to_user_id_str": "1315602897091010561",
-  "in_reply_to_screen_name": "OwenYoung_zh",
+  "in_reply_to_screen_name": "OwenYoungZh",
   "user": {
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
     "url": "https://t.co/SI1DtwgE0K",
@@ -35,10 +32,7 @@
             "url": "https://t.co/SI1DtwgE0K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -48,37 +42,25 @@
             "url": "https://t.co/HWIyoz4rCy",
             "expanded_url": "http://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              76,
-              99
-            ]
+            "indices": [76, 99]
           },
           {
             "url": "https://t.co/WKpxbVbJC7",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              106,
-              129
-            ]
+            "indices": [106, 129]
           },
           {
             "url": "https://t.co/sFAPhwAMVU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              132,
-              155
-            ]
+            "indices": [132, 155]
           },
           {
             "url": "https://t.co/PVEHFLM5KW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              158,
-              181
-            ]
+            "indices": [158, 181]
           }
         ]
       }

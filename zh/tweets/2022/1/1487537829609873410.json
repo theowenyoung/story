@@ -4,10 +4,7 @@
   "id_str": "1487537829609873410",
   "full_text": "今天发现一个有意思的应用，定时在每天中午12点发出你的消息，以及接收来自别人的消息。 相当于每天中午12点邮差过来收信寄信。 要是企业微信或者钉钉能设置这个就好，频率可以高一点，每1个小时，集中收发一次消息，允许发紧急消息。这样每年可以为老板们节省1个亿。 https://t.co/pNpFjJ1Grl",
   "truncated": false,
-  "display_text_range": [
-    0,
-    152
-  ],
+  "display_text_range": [0, 152],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "url": "https://t.co/pNpFjJ1Grl",
         "expanded_url": "https://www.ponymessenger.com/",
         "display_url": "ponymessenger.com",
-        "indices": [
-          129,
-          152
-        ]
+        "indices": [129, 152]
       }
     ]
   },
@@ -34,7 +28,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
     "url": "https://t.co/SI1DtwgE0K",
@@ -45,10 +39,7 @@
             "url": "https://t.co/SI1DtwgE0K",
             "expanded_url": "https://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -58,37 +49,25 @@
             "url": "https://t.co/HWIyoz4rCy",
             "expanded_url": "http://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              76,
-              99
-            ]
+            "indices": [76, 99]
           },
           {
             "url": "https://t.co/WKpxbVbJC7",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              106,
-              129
-            ]
+            "indices": [106, 129]
           },
           {
             "url": "https://t.co/sFAPhwAMVU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              132,
-              155
-            ]
+            "indices": [132, 155]
           },
           {
             "url": "https://t.co/PVEHFLM5KW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              158,
-              181
-            ]
+            "indices": [158, 181]
           }
         ]
       }

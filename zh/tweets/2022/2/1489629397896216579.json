@@ -4,10 +4,7 @@
   "id_str": "1489629397896216579",
   "full_text": "整理一下当前运营的Bots😂:\n\nHacker News中文Bot: @HackerNewsZh\n\nReddit热门提问中文Bot: @AskRedditZh\n\n国外权威媒体的中文Bot: @NewsBotZh\n\n国外热门讨论每周精选Bot:@buzzingcc\n\n追踪Github Awesome列表更新的Bot： \n@trackawesome \n\n网站: \n\nhttps://t.co/p5QEg4PrRY \n\nhttps://t.co/4pgNssOL1t",
   "truncated": false,
-  "display_text_range": [
-    0,
-    231
-  ],
+  "display_text_range": [0, 231],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,50 +14,35 @@
         "name": "Hacker News 中文精选",
         "id": 1476693293014876200,
         "id_str": "1476693293014876160",
-        "indices": [
-          35,
-          48
-        ]
+        "indices": [35, 48]
       },
       {
         "screen_name": "AskRedditZh",
         "name": "问Reddit",
         "id": 1478935328375607300,
         "id_str": "1478935328375607307",
-        "indices": [
-          67,
-          79
-        ]
+        "indices": [67, 79]
       },
       {
         "screen_name": "NewsBotZh",
         "name": "国外新闻 Bot",
         "id": 1479337809546981400,
         "id_str": "1479337809546981377",
-        "indices": [
-          95,
-          105
-        ]
+        "indices": [95, 105]
       },
       {
         "screen_name": "buzzingcc",
         "name": "Buzzing",
         "id": 1341263416166518800,
         "id_str": "1341263416166518784",
-        "indices": [
-          121,
-          131
-        ]
+        "indices": [121, 131]
       },
       {
         "screen_name": "trackawesome",
         "name": "Track Awesome List",
         "id": 1401161409942102000,
         "id_str": "1401161409942102023",
-        "indices": [
-          160,
-          173
-        ]
+        "indices": [160, 173]
       }
     ],
     "urls": [
@@ -68,19 +50,13 @@
         "url": "https://t.co/p5QEg4PrRY",
         "expanded_url": "https://buzzing.cc",
         "display_url": "buzzing.cc",
-        "indices": [
-          182,
-          205
-        ]
+        "indices": [182, 205]
       },
       {
         "url": "https://t.co/4pgNssOL1t",
         "expanded_url": "https://trackawesomelist.com",
         "display_url": "trackawesomelist.com",
-        "indices": [
-          208,
-          231
-        ]
+        "indices": [208, 231]
       }
     ]
   },
@@ -94,7 +70,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
     "url": "https://t.co/O49uCkIrNR",
@@ -105,10 +81,7 @@
             "url": "https://t.co/O49uCkIrNR",
             "expanded_url": "https://wiki.owenyoung.com/now/",
             "display_url": "wiki.owenyoung.com/now/",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -118,37 +91,25 @@
             "url": "https://t.co/HWIyoz4rCy",
             "expanded_url": "http://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              76,
-              99
-            ]
+            "indices": [76, 99]
           },
           {
             "url": "https://t.co/WKpxbVbJC7",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              106,
-              129
-            ]
+            "indices": [106, 129]
           },
           {
             "url": "https://t.co/sFAPhwAMVU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              132,
-              155
-            ]
+            "indices": [132, 155]
           },
           {
             "url": "https://t.co/PVEHFLM5KW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              158,
-              181
-            ]
+            "indices": [158, 181]
           }
         ]
       }

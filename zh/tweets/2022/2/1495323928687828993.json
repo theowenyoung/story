@@ -4,10 +4,7 @@
   "id_str": "1495323928687828993",
   "full_text": "自由的安卓又一次惊艳到我了，这款免费的Kiwi浏览器不仅可以使用开发者面板调试网页，还可以安装Chrome扩展。我以前都没有试图想到过这个问题，因为默认移动版的体验就是降价的。 https://t.co/oD4W6sdpxy",
   "truncated": false,
-  "display_text_range": [
-    0,
-    112
-  ],
+  "display_text_range": [0, 112],
   "entities": {
     "hashtags": [],
     "symbols": [],
@@ -17,10 +14,7 @@
         "url": "https://t.co/oD4W6sdpxy",
         "expanded_url": "https://kiwibrowser.com/",
         "display_url": "kiwibrowser.com",
-        "indices": [
-          89,
-          112
-        ]
+        "indices": [89, 112]
       }
     ]
   },
@@ -34,7 +28,7 @@
     "id": 1315602897091010600,
     "id_str": "1315602897091010561",
     "name": "Owen",
-    "screen_name": "OwenYoung_zh",
+    "screen_name": "OwenYoungZh",
     "location": "",
     "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
     "url": "https://t.co/O49uCkIrNR",
@@ -45,10 +39,7 @@
             "url": "https://t.co/O49uCkIrNR",
             "expanded_url": "https://wiki.owenyoung.com/now/",
             "display_url": "wiki.owenyoung.com/now/",
-            "indices": [
-              0,
-              23
-            ]
+            "indices": [0, 23]
           }
         ]
       },
@@ -58,37 +49,25 @@
             "url": "https://t.co/HWIyoz4rCy",
             "expanded_url": "http://wiki.owenyoung.com",
             "display_url": "wiki.owenyoung.com",
-            "indices": [
-              76,
-              99
-            ]
+            "indices": [76, 99]
           },
           {
             "url": "https://t.co/WKpxbVbJC7",
             "expanded_url": "http://buzzing.cc",
             "display_url": "buzzing.cc",
-            "indices": [
-              106,
-              129
-            ]
+            "indices": [106, 129]
           },
           {
             "url": "https://t.co/sFAPhwAMVU",
             "expanded_url": "http://trackawesomelist.com",
             "display_url": "trackawesomelist.com",
-            "indices": [
-              132,
-              155
-            ]
+            "indices": [132, 155]
           },
           {
             "url": "https://t.co/PVEHFLM5KW",
             "expanded_url": "http://actionsflow.github.io",
             "display_url": "actionsflow.github.io",
-            "indices": [
-              158,
-              181
-            ]
+            "indices": [158, 181]
           }
         ]
       }
