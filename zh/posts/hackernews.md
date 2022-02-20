@@ -4,6 +4,7 @@ date: 2022-02-20
 tags:
   - 改变
   - Hacker News
+image: https://blog.entelo.com/hs-fs/hubfs/hackernewslogo.jpeg?width=809&name=hackernewslogo.jpeg
 ---
 
 昨天看到 Hacker News 的创始人 Paul Graham 在 2009 年写的一篇文章[《我从 Hacker News 中学到了什么》](http://www.paulgraham.com/hackernews.html), 作者提到：
