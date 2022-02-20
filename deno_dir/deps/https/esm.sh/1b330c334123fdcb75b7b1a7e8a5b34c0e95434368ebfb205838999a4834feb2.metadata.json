@@ -1,0 +1,20 @@
+{
+  "headers": {
+    "content-type": "application/javascript; charset=utf-8",
+    "cf-ray": "6e082fada98f08ef-SEA",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-cache-status": "DYNAMIC",
+    "cache-control": "public, max-age=600",
+    "vary": "Origin",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=D8HNNHzlL7jOsoWNhwx3MVh6jIMzTPgJUP13SKJzFMg%2FqZST7ta5uxWaoT2hRzY08rVWLyHKqCPwkWfkUk2HyXN9siwYOO3QbHRSJpgRxGYbA%2FXtXat31Yk%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "date": "Sun, 20 Feb 2022 13:47:20 GMT",
+    "server": "cloudflare"
+  },
+  "url": "https://esm.sh/deepmerge@4.2.2",
+  "now": {
+    "secs_since_epoch": 1645364840,
+    "nanos_since_epoch": 822672095
+  }
+}
