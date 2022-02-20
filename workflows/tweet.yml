@@ -30,7 +30,7 @@ steps:
       const createdAt = new Date(Date.parse(ctx.item.created_at));
       const source = ctx.item.user.screen_name;
       let lang = 'en';
-      if(source.endsWith('_zh')){
+      if(source.toLowerCase().endsWith('zh')){
         lang = 'zh';
       }
       const tweetFilePath = `./${lang}/tweets/${createdAt.getUTCFullYear()}/${
