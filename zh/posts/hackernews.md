@@ -28,9 +28,9 @@ image: https://blog.entelo.com/hs-fs/hubfs/hackernewslogo.jpeg?width=809&name=ha
 
 正好去年那会儿，刚做完[Actionsflow](https://github.com/actionsflow/actionsflow), 想利用 Actionsflow 做点什么，所以说那就做一个 HN 的中文翻译吧，这很适合工作流去处理，处理完之后生成一个静态网页，就算没人用，我自己也可以天天用，做好之后也不用维护，就一直在那。于是就开干，没想到做到后面发现还可以顺便做点别的我感兴趣的英文内容翻译，比如[Reddit 的美股讨论](https://reddit.buzzing.cc)，[国外的权威媒体报道](https://news.buzzing.cc)，[ProductHunt](https://ph.buzzing.cc)等等，最后就汇总成了一个[Buzzing](https://www.buzzing.cc)
 
-Buzzing 运行了一年之后，发现之前的设计有不少欠考虑的地方，[Actionsflow](https://github.com/actionsflow/actionsflow)也有点太重了，尤其是看了一年 HN 的帖子后，觉得 Actionsflow 的设计简直就是一坨屎，又臭又长。这个时候[才发现 Deno 是最适合做工作流的运行时](https://twitter.com/OwenYoungZh/status/1478928692781137925)，Deno 的依赖只需要 URL，天生适合脚本。这样就可以和`package.json`,`package-lock.json`,`node_modules`地狱说拜拜了，而且我的工作流也不用再依赖 Docker 和[act](https://github.com/nektos/act)了，于是过了 10 多天之后，我开始着手做了一个史上最快兑现的 「如果我有时间，我一定要做 XXX 」的项目：[Denoflow](https://twitter.com/OwenYoungZh/status/1485381401327267840),用来做我的低代码 IFTTT 或者说 Zapier，用流行一点的话说，这是配置即代码。
+Buzzing 运行了一年之后，发现之前的设计有不少欠考虑的地方，[Actionsflow](https://github.com/actionsflow/actionsflow)也有点太重了，尤其是看了一年 HN 的帖子后，觉得 Actionsflow 的设计简直就是一坨屎，又臭又长。这个时候[才发现 Deno 是最适合做工作流的运行时](https://twitter.com/OwenYoungZh/status/1478928692781137925)，Deno 的依赖只需要 URL，天生适合脚本。这样就可以和`package.json`,`package-lock.json`,`node_modules`地狱说拜拜了，而且我的工作流也不用再依赖 Docker 和[act](https://github.com/nektos/act)了，于是过了 10 多天之后，我开始着手做了一个史上最快兑现的 「如果我有时间，我一定要做 XXX 」的项目：[Denoflow](https://twitter.com/OwenYoungZh/status/1485381401327267840),用来做我的低代码 IFTTT 或者说 Zapier，用流行一点的话说，这是配置即代码服务(Configure as Code)。
 
-这一次，产生了一些变化，在泡了一年自己做的 HN 中文版之后。
+这一次，产生了一些变化，在泡了一年自己做的 HN 中文版之后：
 
 1. 首先我没有像 Actionsflow 一样设计一个浮夸的[Landing 页](https://actionsflow.github.io/).
 2. 其次我没有用自己蹩脚的英语凑成一个看起来功能很丰富，维护人员很多，很正规的[一个文档网站](https://actionsflow.github.io/docs/reference/)。我只在项目的[Readme 文件](https://github.com/denoflow/denoflow)里写了一个我自认为很诚恳的说明，在一页的文本里说清楚这个项目的用途，和看一个示例就能明白的使用方法，没有多余的营销话语，把时间真正花在工具本身，利用省下的时间做了一个[在线 PlayGround](https://playground.owenyoung.com/)，运行在我的廉价 VPS 上。
@@ -41,9 +41,9 @@ Buzzing 运行了一年之后，发现之前的设计有不少欠考虑的地方
 
 做完之后，又花了 2 个小时，用 Denoflow 做了[Show HN](https://showhn.buzzing.cc/),[Ask HN](https://askhn.buzzing.cc/),[HN 首页](https://hackernews.buzzing.cc/),[Best HN](https://besthn.buzzing.cc)，这里可以和之前的[HN 热门](https://hn.buzzing.cc)对比下，没有追踪，没有 JS 代码，只是使用一个舒服的背景色，使用[class less 原则](https://github.com/dbohdan/classless-css)，同时生成一个 RSS。没有使用任何框架，就几句简单的 deno 代码即可生成。和之前的[HN 热门](https://hn.buzzing.cc)相比，[HN 热门](https://hn.buzzing.cc)在一个屏幕里只能显示出 2 篇文章，而现在[HN 首页](https://hackernews.buzzing.cc/)可以放 20 多篇，效率直接提升 10 倍啊有木有。
 
-很快，我发现这些已有的时间流，我不够看了，所以我索性单独为我自己生成一个[HN 时间流](https://myfeed.owenyoung.com/)，里面包含了 hn 上前 100 位用户提交的任何帖子。
+很快，我发现按照这样布局的话，阅读效率高了太多了，已有的这些时间流，已经不够我看了，所以索性单独为我自己生成一个[HN 时间流](https://myfeed.owenyoung.com/)，里面包含了 hn 上前 100 位用户提交的任何帖子。
 
-几天之后我就发现，之前只看 HN 的热门帖子损失有多大，HN 上有太多优秀的内容没有被顶上去了。所以，我又做了一个变化，直接抓取 HN 上最新的提交（我去掉了 Ask HN 的内容，因为 Ask HN 的质量相对较差，并且我还有专门的[Ask HN](https://ask.buzzing.cc)可以回头再看），所以现在专属于我的[HN 时间流](https://myfeed.owenyoung.com/)包括了 HN 上最新的全部文章了。即使是全部文章，由于是母语阅读，我还是能快速读完这些标题，找到感兴趣的内容，还可能留下我的 2 cents.
+几天之后我就发现，之前只看 HN 的热门帖子损失有多大，HN 上有太多优秀的内容没有被顶上去了。热门真的很随机，所以我们也要万分警惕大公司的算法机制。基于此，我又做了一个变化，直接抓取 HN 上最新的提交（我去掉了 Ask HN 的内容，因为 Ask HN 的质量相对较差，并且我还有专门的[Ask HN](https://ask.buzzing.cc)可以回头再看）。那么现在专属于我的[HN 时间流](https://myfeed.owenyoung.com/)就包括了 HN 上所有最新的文章了。即使是全部文章，由于是母语阅读，我还是能快速读完这些标题，找到感兴趣的内容，还可能留下我的 2 cents. 把之前关注了很久的不少优质英文 RSS 源，也利于[Denoflow](https://github.com/denoflow/denoflow)生成了一个专属于我的[RSS 翻译流](https://myrss.owenyoung.com/). 这样下来我的空余时间就可以住要花在阅读长文章，而不是刷推特这样更短的文章。我们都知道推特其实无法代替长文章，就像长文章也无法代替读书一样。
 
 如果有人看到这里的话，那你一定会觉得 HN 有毒，而我已经上瘾了。其实没错，目前阶段是这样。
 
