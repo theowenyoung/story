@@ -1,0 +1,222 @@
+{
+  "created_at": "Tue Mar 08 07:07:17 +0000 2022",
+  "id": 1501092171650580500,
+  "id_str": "1501092171650580483",
+  "full_text": "@ThaddeusJiang 同痛苦中，完全就是升级噩梦。我期望的是，常用功能都应该由官方提供，且是typescript写的（不然即使是官方提供的，也可能会有不少问题）。尽可能少的依赖任何库，可行的替代方法是直接copy 代码片段。 https://t.co/wPg9kvWMY1",
+  "truncated": false,
+  "display_text_range": [
+    15,
+    116
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ThaddeusJiang",
+        "name": "蒋继发",
+        "id": 1150937016361553900,
+        "id_str": "1150937016361553920",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1501090698137063400,
+        "id_str": "1501090698137063424",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/FNTyCW4aUAAxSNi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FNTyCW4aUAAxSNi.jpg",
+        "url": "https://t.co/wPg9kvWMY1",
+        "display_url": "pic.twitter.com/wPg9kvWMY1",
+        "expanded_url": "https://twitter.com/OwenYoungZh/status/1501092171650580483/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1292,
+            "h": 766,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 403,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 711,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1501090698137063400,
+        "id_str": "1501090698137063424",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/FNTyCW4aUAAxSNi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FNTyCW4aUAAxSNi.jpg",
+        "url": "https://t.co/wPg9kvWMY1",
+        "display_url": "pic.twitter.com/wPg9kvWMY1",
+        "expanded_url": "https://twitter.com/OwenYoungZh/status/1501092171650580483/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1292,
+            "h": 766,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 403,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 711,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1501072337625817000,
+  "in_reply_to_status_id_str": "1501072337625817090",
+  "in_reply_to_user_id": 1150937016361553900,
+  "in_reply_to_user_id_str": "1150937016361553920",
+  "in_reply_to_screen_name": "ThaddeusJiang",
+  "user": {
+    "id": 1315602897091010600,
+    "id_str": "1315602897091010561",
+    "name": "Owen",
+    "screen_name": "OwenYoungZh",
+    "location": "",
+    "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
+    "url": "https://t.co/O49uCkIrNR",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/O49uCkIrNR",
+            "expanded_url": "https://wiki.owenyoung.com/now/",
+            "display_url": "wiki.owenyoung.com/now/",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/HWIyoz4rCy",
+            "expanded_url": "http://wiki.owenyoung.com",
+            "display_url": "wiki.owenyoung.com",
+            "indices": [
+              76,
+              99
+            ]
+          },
+          {
+            "url": "https://t.co/WKpxbVbJC7",
+            "expanded_url": "http://buzzing.cc",
+            "display_url": "buzzing.cc",
+            "indices": [
+              106,
+              129
+            ]
+          },
+          {
+            "url": "https://t.co/sFAPhwAMVU",
+            "expanded_url": "http://trackawesomelist.com",
+            "display_url": "trackawesomelist.com",
+            "indices": [
+              132,
+              155
+            ]
+          },
+          {
+            "url": "https://t.co/PVEHFLM5KW",
+            "expanded_url": "http://actionsflow.github.io",
+            "display_url": "actionsflow.github.io",
+            "indices": [
+              158,
+              181
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 312,
+    "friends_count": 70,
+    "listed_count": 5,
+    "created_at": "Mon Oct 12 10:39:22 +0000 2020",
+    "favourites_count": 54,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 225,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315602897091010561/1632565739",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "zh"
+}

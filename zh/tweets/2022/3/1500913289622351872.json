@@ -1,0 +1,455 @@
+{
+  "created_at": "Mon Mar 07 19:16:28 +0000 2022",
+  "id": 1500913289622352000,
+  "id_str": "1500913289622351872",
+  "full_text": "RT @jimsciutto: “War Is Peace. Freedom Is Slavery. Ignorance Is Strength”",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    73
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jimsciutto",
+        "name": "Jim Sciutto",
+        "id": 22129280,
+        "id_str": "22129280",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1315602897091010600,
+    "id_str": "1315602897091010561",
+    "name": "Owen",
+    "screen_name": "OwenYoungZh",
+    "location": "",
+    "description": "完美主義，工作流愛好者，old school，英文学习失败者，為了學好英文，所以分開中英文推: @TheOwenYoung , 正在完成一部wiki. https://t.co/HWIyoz4rCy , 在维护：https://t.co/WKpxbVbJC7 , https://t.co/sFAPhwAMVU , https://t.co/PVEHFLM5KW",
+    "url": "https://t.co/O49uCkIrNR",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/O49uCkIrNR",
+            "expanded_url": "https://wiki.owenyoung.com/now/",
+            "display_url": "wiki.owenyoung.com/now/",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/HWIyoz4rCy",
+            "expanded_url": "http://wiki.owenyoung.com",
+            "display_url": "wiki.owenyoung.com",
+            "indices": [
+              76,
+              99
+            ]
+          },
+          {
+            "url": "https://t.co/WKpxbVbJC7",
+            "expanded_url": "http://buzzing.cc",
+            "display_url": "buzzing.cc",
+            "indices": [
+              106,
+              129
+            ]
+          },
+          {
+            "url": "https://t.co/sFAPhwAMVU",
+            "expanded_url": "http://trackawesomelist.com",
+            "display_url": "trackawesomelist.com",
+            "indices": [
+              132,
+              155
+            ]
+          },
+          {
+            "url": "https://t.co/PVEHFLM5KW",
+            "expanded_url": "http://actionsflow.github.io",
+            "display_url": "actionsflow.github.io",
+            "indices": [
+              158,
+              181
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 312,
+    "friends_count": 70,
+    "listed_count": 5,
+    "created_at": "Mon Oct 12 10:39:22 +0000 2020",
+    "favourites_count": 54,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 224,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315602897091010561/1632565739",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Mar 07 18:49:40 +0000 2022",
+    "id": 1500906546175295500,
+    "id_str": "1500906546175295498",
+    "full_text": "“War Is Peace. Freedom Is Slavery. Ignorance Is Strength” https://t.co/7OpZY4Qyfj",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      57
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7OpZY4Qyfj",
+          "expanded_url": "https://twitter.com/russianembassy/status/1500886096837849099",
+          "display_url": "twitter.com/russianembassy…",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 22129280,
+      "id_str": "22129280",
+      "name": "Jim Sciutto",
+      "screen_name": "jimsciutto",
+      "location": "Washington, DC & New York, NY",
+      "description": "CNN Anchor & Chief Nat Sec Correspondent, Author, “The Madman Theory” and “The Shadow War” https://t.co/XjeHg6EgwZ",
+      "url": "https://t.co/raO3OvfBtI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/raO3OvfBtI",
+              "expanded_url": "http://www.jimsciutto.com",
+              "display_url": "jimsciutto.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/XjeHg6EgwZ",
+              "expanded_url": "https://www.harpercollins.com/blogs/authors/jim-sciutto",
+              "display_url": "harpercollins.com/blogs/authors/…",
+              "indices": [
+                91,
+                114
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 532862,
+      "friends_count": 1174,
+      "listed_count": 6307,
+      "created_at": "Fri Feb 27 11:07:05 +0000 2009",
+      "favourites_count": 4651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 37487,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1135502950351159304/kGJgAERD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135502950351159304/kGJgAERD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22129280/1558814227",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1500886096837849000,
+    "quoted_status_id_str": "1500886096837849099",
+    "quoted_status_permalink": {
+      "url": "https://t.co/7OpZY4Qyfj",
+      "expanded": "https://twitter.com/russianembassy/status/1500886096837849099",
+      "display": "twitter.com/russianembassy…"
+    },
+    "quoted_status": {
+      "created_at": "Mon Mar 07 17:28:25 +0000 2022",
+      "id": 1500886096837849000,
+      "id_str": "1500886096837849099",
+      "full_text": "FM #Lavrov: The goal of Russia’s special military operation is to stop any war that could take place on Ukrainian territory or that could start from there. https://t.co/tLf7798DIh",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        155
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Lavrov",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1500885514504786000,
+            "id_str": "1500885514504785925",
+            "indices": [
+              156,
+              179
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNQ3bGSWUAUa39F.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNQ3bGSWUAUa39F.jpg",
+            "url": "https://t.co/tLf7798DIh",
+            "display_url": "pic.twitter.com/tLf7798DIh",
+            "expanded_url": "https://twitter.com/RussianEmbassy/status/1500886096837849099/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1500885514504786000,
+            "id_str": "1500885514504785925",
+            "indices": [
+              156,
+              179
+            ],
+            "media_url": "http://pbs.twimg.com/media/FNQ3bGSWUAUa39F.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FNQ3bGSWUAUa39F.jpg",
+            "url": "https://t.co/tLf7798DIh",
+            "display_url": "pic.twitter.com/tLf7798DIh",
+            "expanded_url": "https://twitter.com/RussianEmbassy/status/1500886096837849099/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 114718372,
+        "id_str": "114718372",
+        "name": "Russian Embassy, UK",
+        "screen_name": "RussianEmbassy",
+        "location": "London",
+        "description": "Embassy of the Russian Federation 🇷🇺in London - official Twitter feed (на русском языке - @RussianEmbassyR)",
+        "url": "https://t.co/7hnAqobhsJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7hnAqobhsJ",
+                "expanded_url": "http://www.rusemb.org.uk",
+                "display_url": "rusemb.org.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 142820,
+        "friends_count": 1703,
+        "listed_count": 1392,
+        "created_at": "Tue Feb 16 11:26:37 +0000 2010",
+        "favourites_count": 4281,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 26149,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201514938860261376/sFM3X7Rl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201514938860261376/sFM3X7Rl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/114718372/1645787924",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 346,
+      "favorite_count": 1021,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 131,
+    "favorite_count": 487,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1500886096837849000,
+  "quoted_status_id_str": "1500886096837849099",
+  "quoted_status_permalink": {
+    "url": "https://t.co/7OpZY4Qyfj",
+    "expanded": "https://twitter.com/russianembassy/status/1500886096837849099",
+    "display": "twitter.com/russianembassy…"
+  },
+  "retweet_count": 131,
+  "favorite_count": 0,
+  "favorited": true,
+  "retweeted": true,
+  "lang": "en"
+}
