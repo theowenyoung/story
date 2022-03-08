@@ -1,5 +1,5 @@
 ---
-title: Soylent News 的文章提交指南
+title: Soylent News 的文章提交指南[翻译]
 date: 2022-03-08
 tags:
   - 指南
