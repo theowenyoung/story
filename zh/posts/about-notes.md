@@ -1,6 +1,6 @@
 ---
 title: 不要再碎片化笔记了 - 关于笔记的思考
-date: 2021-03-10
+date: 2022-03-10
 tags:
   - Notes
 image: ../../assets/note-cuts.jpg
