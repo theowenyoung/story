@@ -23,15 +23,15 @@ image: ../../assets/note-cuts.jpg
 
 > 关于日记方面，现在其实有一个很好的记录形式，就是[子弹日记](https://bulletjournal.com/) ，清晰明了的格式，只记最重要的东西，以及索引日记。
 
-笔记多了，即使有“第二大脑”的帮助下，你也会发现，很难通过卡片间找到灵感，因为卡片是在是太多了，仅仅通过卡片间互相链接的形式很容易忘记/错过某些过去的卡片。我目前的采用的办法是：归类，而且归的类越少越好，事实证明纯文本很强大，一个纯文本可以放进去超级多的东西而不会有多少 K。比如说，如果你在一个纯文本文件里面发送/放置你的原创推特，假设你平均每天发一条推特，假设你是活到 100 岁，其实这个推特的纯文本文件只有 36500 行，对于一个纯文本文件来说，这并不算太大。 比如我就用这个[纯文本文件记录](https://raw.githubusercontent.com/theowenyoung/wiki/main/thoughts.md)记录我的短想法。有个很有名的[twtxt](https://github.com/buckket/twtxt)标准，就是用一个换行符分割的 txt 文件来写推特。
+笔记多了，即使有“第二大脑”的帮助下，你也会发现，很难通过卡片间找到灵感，因为卡片是在是太多了，仅仅通过卡片间互相链接的形式很容易忘记/错过某些过去的卡片。我目前的采用的办法是：归类，而且归的类越少越好。事实证明纯文本很强大，一个纯文本文件可以放进去超级多内容而大小并不会有多少 K。比如说，如果你在一个纯文本文件里面发送/放置你的原创推特，假设你平均每天发一条推特，假设你是活到 100 岁，其实这个推特的纯文本文件只有 36500 行，对于一个纯文本文件来说，这并不算太大。 我就用这个[纯文本文件](https://raw.githubusercontent.com/theowenyoung/wiki/main/thoughts.md)记录我的短想法。还有个很有名的[twtxt](https://github.com/buckket/twtxt)标准，就是用一个换行符作为分割的 txt 文件写推特。
 
-以下是我觉得比较公共的几个纯文本文件笔记类型：
+以下是我目前整理出的大多数人可能会需要的几个纯文本文件笔记类型：
 
-- quotes，记录一些别人的话，[示例](https://wiki.owenyoung.com/awesome-quotes/)
-- thoughts, 记录一些你自己的话,[示例](https://wiki.owenyoung.com/thoughts/)
+- quotes, 记录一些别人的话，[示例](https://wiki.owenyoung.com/awesome-quotes/)
+- thoughts, 记录一些自己的话,[示例](https://wiki.owenyoung.com/thoughts/)
 - books , 记录一些读书笔记，这个按照个人笔记的多少，可以按不同年份保存，比如 [/books-2022/](https://wiki.owenyoung.com/books-2022/)
-- journal, 日记，可以按照不同年份保存，[示例](https://wiki.owenyoung.com/journal-2021/)
-- tools, 记录好工具，[示例](https://wiki.owenyoung.com/awesome-tools/)
+- journal, 日记，可按照不同年份保存，[示例](https://wiki.owenyoung.com/journal-2021/)
+- tools, 记录好用的工具，[示例](https://wiki.owenyoung.com/awesome-tools/)
 - articles, 记录好文章, [示例](https://wiki.owenyoung.com/awesome-articles/)
 - sources, 记录常用的内容源， [示例](https://wiki.owenyoung.com/awesome-sources/)
 - answers，记录一些好的答案，[示例](https://wiki.owenyoung.com/awesome-answers/)
