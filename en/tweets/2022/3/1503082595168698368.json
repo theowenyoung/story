@@ -1,0 +1,260 @@
+{
+  "created_at": "Sun Mar 13 18:56:31 +0000 2022",
+  "id": 1503082595168698400,
+  "id_str": "1503082595168698368",
+  "full_text": "RT @TIME: A statement from TIME on the death of journalist Brent Renaud https://t.co/5mXpjyl4Gd",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    95
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "TIME",
+        "name": "TIME",
+        "id": 14293310,
+        "id_str": "14293310",
+        "indices": [
+          3,
+          8
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/5mXpjyl4Gd",
+        "expanded_url": "https://ti.me/3I7WbBO",
+        "display_url": "ti.me/3I7WbBO",
+        "indices": [
+          72,
+          95
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1241294513575878700,
+    "id_str": "1241294513575878656",
+    "name": "Owen Young",
+    "screen_name": "TheOwenYoung",
+    "location": "",
+    "description": "Freelancer / perfectionism / workflow lover / 中文推 @OwenYoungZh / the maker of https://t.co/4m2DI4WNd2 https://t.co/tj1ryzm1n0 https://t.co/9JETwbJC7K",
+    "url": "https://t.co/GOmdskRx05",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/GOmdskRx05",
+            "expanded_url": "https://wiki.owenyoung.com",
+            "display_url": "wiki.owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/4m2DI4WNd2",
+            "expanded_url": "http://buzzing.cc",
+            "display_url": "buzzing.cc",
+            "indices": [
+              78,
+              101
+            ]
+          },
+          {
+            "url": "https://t.co/tj1ryzm1n0",
+            "expanded_url": "http://trackawesomelist.com",
+            "display_url": "trackawesomelist.com",
+            "indices": [
+              102,
+              125
+            ]
+          },
+          {
+            "url": "https://t.co/9JETwbJC7K",
+            "expanded_url": "http://actionsflow.github.io",
+            "display_url": "actionsflow.github.io",
+            "indices": [
+              126,
+              149
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 82,
+    "friends_count": 148,
+    "listed_count": 4,
+    "created_at": "Sat Mar 21 09:24:27 +0000 2020",
+    "favourites_count": 37,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 51,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Mar 13 18:02:00 +0000 2022",
+    "id": 1503068877370056700,
+    "id_str": "1503068877370056711",
+    "full_text": "A statement from TIME on the death of journalist Brent Renaud https://t.co/5mXpjyl4Gd",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      85
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/5mXpjyl4Gd",
+          "expanded_url": "https://ti.me/3I7WbBO",
+          "display_url": "ti.me/3I7WbBO",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14293310,
+      "id_str": "14293310",
+      "name": "TIME",
+      "screen_name": "TIME",
+      "location": "",
+      "description": "News and current events from around the globe. Subscribe: https://t.co/yT0dueLEm0",
+      "url": "https://t.co/vl89LXOvyB",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vl89LXOvyB",
+              "expanded_url": "https://www.time.com",
+              "display_url": "time.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/yT0dueLEm0",
+              "expanded_url": "http://ti.me/subscribe",
+              "display_url": "ti.me/subscribe",
+              "indices": [
+                58,
+                81
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 18772929,
+      "friends_count": 514,
+      "listed_count": 105517,
+      "created_at": "Thu Apr 03 13:54:30 +0000 2008",
+      "favourites_count": 577,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 388989,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "CC0000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1367496192662331402/7ye6OsYx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367496192662331402/7ye6OsYx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1645981334",
+      "profile_link_color": "DE3333",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "D9D9D9",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 159,
+    "favorite_count": 307,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 159,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": true,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
