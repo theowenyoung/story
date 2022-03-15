@@ -27,14 +27,15 @@ image: ../../assets/note-cuts.jpg
 
 以下是我目前整理出的大多数人可能会需要的几个纯文本文件笔记类型：
 
-- quotes, 记录一些别人的话，[示例](https://wiki.owenyoung.com/awesome-quotes/)
+- quotes, 记录一些别人的话，[示例](https://wiki.owenyoung.com/quotes/)
 - thoughts, 记录一些自己的话,[示例](https://wiki.owenyoung.com/thoughts/)
 - books , 记录一些读书笔记，这个按照个人笔记的多少，可以按不同年份保存，比如 [/books-2022/](https://wiki.owenyoung.com/books-2022/)
 - journal, 日记，可按照不同年份保存，[示例](https://wiki.owenyoung.com/journal-2021/)
-- tools, 记录好用的工具，[示例](https://wiki.owenyoung.com/awesome-tools/)
+- tools, 记录好用的工具，[示例](https://wiki.owenyoung.com/tools/)
 - articles, 记录好文章, [示例](https://wiki.owenyoung.com/awesome-articles/)
-- sources, 记录常用的内容源， [示例](https://wiki.owenyoung.com/awesome-sources/)
-- answers，记录一些好的答案，[示例](https://wiki.owenyoung.com/awesome-answers/)
+- sources, 记录常用的内容源， [示例](https://wiki.owenyoung.com/sources/)
+- answers，记录一些好的答案，[示例](https://wiki.owenyoung.com/answers/)
+- fun, 记录一些有意思的东西, [示例](https://wiki.owenyoung.com/fun/)
 - tips，记录一些常用的技巧
 
 以上这些就是我觉得大多数人都需要的一些公共类型的笔记，其他的类型就根据自己的类型来分类了。原则就是尽量少一点类型，这样更容易碰撞灵感和回顾，整理。
