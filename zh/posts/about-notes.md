@@ -35,7 +35,7 @@ image: ../../assets/note-cuts.jpg
 - articles, 记录好文章, [示例](https://wiki.owenyoung.com/awesome-articles/)
 - sources, 记录常用的内容源， [示例](https://wiki.owenyoung.com/sources/)
 - answers，记录一些好的答案，[示例](https://wiki.owenyoung.com/answers/)
-- fun, 记录一些有意思的东西, [示例](https://wiki.owenyoung.com/fun/)
+- inspires, 记录一些启发灵感的，有意思的东西, [示例](https://wiki.owenyoung.com/inspires/)
 - tips，记录一些常用的技巧
 
 以上这些就是我觉得大多数人都需要的一些公共类型的笔记，其他的类型就根据自己的类型来分类了。原则就是尽量少一点类型，这样更容易碰撞灵感和回顾，整理。
