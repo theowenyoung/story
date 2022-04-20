@@ -1,0 +1,239 @@
+{
+  "created_at": "Wed Apr 20 17:36:14 +0000 2022",
+  "id": 1516833130556326000,
+  "id_str": "1516833130556325888",
+  "full_text": "RT @BethanyAllenEbr: Snowball, a nonprofit organization based in Taiwan, is helping democracy-conscious consumers put their money where the…",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BethanyAllenEbr",
+        "name": "B. Allen-Ebrahimian",
+        "id": 69048123,
+        "id_str": "69048123",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1241294513575878700,
+    "id_str": "1241294513575878656",
+    "name": "Owen Young",
+    "screen_name": "TheOwenYoung",
+    "location": "",
+    "description": "Freelancer / perfectionism / workflow lover / 中文推 @OwenYoungZh / the maker of https://t.co/4m2DI4WNd2 https://t.co/tj1ryzm1n0 https://t.co/9JETwbJC7K",
+    "url": "https://t.co/CuVcFOTmbZ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/CuVcFOTmbZ",
+            "expanded_url": "https://www.owenyoung.com/en/",
+            "display_url": "owenyoung.com/en/",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/4m2DI4WNd2",
+            "expanded_url": "http://buzzing.cc",
+            "display_url": "buzzing.cc",
+            "indices": [
+              78,
+              101
+            ]
+          },
+          {
+            "url": "https://t.co/tj1ryzm1n0",
+            "expanded_url": "http://trackawesomelist.com",
+            "display_url": "trackawesomelist.com",
+            "indices": [
+              102,
+              125
+            ]
+          },
+          {
+            "url": "https://t.co/9JETwbJC7K",
+            "expanded_url": "http://actionsflow.github.io",
+            "display_url": "actionsflow.github.io",
+            "indices": [
+              126,
+              149
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 95,
+    "friends_count": 159,
+    "listed_count": 4,
+    "created_at": "Sat Mar 21 09:24:27 +0000 2020",
+    "favourites_count": 37,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 54,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Apr 20 13:25:22 +0000 2022",
+    "id": 1516769999104397300,
+    "id_str": "1516769999104397314",
+    "full_text": "Snowball, a nonprofit organization based in Taiwan, is helping democracy-conscious consumers put their money where their values lie.\n\nhttps://t.co/augaoTs37O",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      157
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/augaoTs37O",
+          "expanded_url": "https://www.axios.com/pocketbooks-for-democracy-taiwan-china-milk-tea-5b24165a-e797-4aba-b69a-cf37b35fc97f.html",
+          "display_url": "axios.com/pocketbooks-fo…",
+          "indices": [
+            134,
+            157
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 69048123,
+      "id_str": "69048123",
+      "name": "B. Allen-Ebrahimian",
+      "screen_name": "BethanyAllenEbr",
+      "location": "Washington, DC",
+      "description": "China reporter @axios. Writing a book on China for @HarperCollins. Previously, lead reporter @ICIJorg’s China Cables. 中文.",
+      "url": "https://t.co/HuQaCQyCuG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/HuQaCQyCuG",
+              "expanded_url": "https://link.axios.com/join/china-signup",
+              "display_url": "link.axios.com/join/china-sig…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 70562,
+      "friends_count": 1836,
+      "listed_count": 1138,
+      "created_at": "Wed Aug 26 17:57:30 +0000 2009",
+      "favourites_count": 12332,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 3046,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1225506155687968769/209GBF7-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225506155687968769/209GBF7-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/69048123/1609690898",
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "DFDFDF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": true,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 35,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 12,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": true,
+  "lang": "en"
+}
