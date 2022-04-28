@@ -1,0 +1,116 @@
+{
+  "created_at": "Thu Apr 28 20:48:57 +0000 2022",
+  "id": 1519780731626541000,
+  "id_str": "1519780731626541056",
+  "full_text": "第一次在Youtube发现这个AlJazeeraEnglish频道还以为是英语博主，没想到是半岛电视台的Youtube频道。关注了之后发现他们才是真正的世界新闻啊，有很多独家新闻，用他们自己的话说是“我们将努力关注被低估的话题，倾听故事的各个方面，并为“无声者发声””。\nhttps://t.co/gORuknh134",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    159
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/gORuknh134",
+        "expanded_url": "https://www.youtube.com/c/aljazeeraenglish",
+        "display_url": "youtube.com/c/aljazeeraeng…",
+        "indices": [
+          136,
+          159
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1315602897091010600,
+    "id_str": "1315602897091010561",
+    "name": "Owen",
+    "screen_name": "OwenYoungZh",
+    "location": "",
+    "description": "所有的遗产都在： https://t.co/BzeFhwYRmp",
+    "url": "https://t.co/d9pjX5mQW9",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/d9pjX5mQW9",
+            "expanded_url": "https://www.owenyoung.com",
+            "display_url": "owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/BzeFhwYRmp",
+            "expanded_url": "http://owenyoung.com",
+            "display_url": "owenyoung.com",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 388,
+    "friends_count": 78,
+    "listed_count": 7,
+    "created_at": "Mon Oct 12 10:39:22 +0000 2020",
+    "favourites_count": 61,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 262,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315602897091010561/1632565739",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "zh"
+}
