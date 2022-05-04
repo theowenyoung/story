@@ -1,0 +1,249 @@
+{
+  "created_at": "Wed May 04 22:36:18 +0000 2022",
+  "id": 1521982076089942000,
+  "id_str": "1521982076089942016",
+  "full_text": "RT @Wikipedia: Wikipedia's article on Roe v. Wade was viewed over a million times yesterday.\n\nIt's the most-viewed English Wikipedia articl…",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Wikipedia",
+        "name": "Wikipedia",
+        "id": 86390214,
+        "id_str": "86390214",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1241294513575878700,
+    "id_str": "1241294513575878656",
+    "name": "Owen Young",
+    "screen_name": "TheOwenYoung",
+    "location": "",
+    "description": "Freelancer / perfectionism / workflow lover / 中文推 @OwenYoungZh / the maker of https://t.co/4m2DI4WNd2 https://t.co/tj1ryzm1n0 https://t.co/9JETwbJC7K",
+    "url": "https://t.co/CuVcFOTmbZ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/CuVcFOTmbZ",
+            "expanded_url": "https://www.owenyoung.com/en/",
+            "display_url": "owenyoung.com/en/",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/4m2DI4WNd2",
+            "expanded_url": "http://buzzing.cc",
+            "display_url": "buzzing.cc",
+            "indices": [
+              78,
+              101
+            ]
+          },
+          {
+            "url": "https://t.co/tj1ryzm1n0",
+            "expanded_url": "http://trackawesomelist.com",
+            "display_url": "trackawesomelist.com",
+            "indices": [
+              102,
+              125
+            ]
+          },
+          {
+            "url": "https://t.co/9JETwbJC7K",
+            "expanded_url": "http://actionsflow.github.io",
+            "display_url": "actionsflow.github.io",
+            "indices": [
+              126,
+              149
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 97,
+    "friends_count": 155,
+    "listed_count": 4,
+    "created_at": "Sat Mar 21 09:24:27 +0000 2020",
+    "favourites_count": 38,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 62,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed May 04 20:35:21 +0000 2022",
+    "id": 1521951638390456300,
+    "id_str": "1521951638390456324",
+    "full_text": "Wikipedia's article on Roe v. Wade was viewed over a million times yesterday.\n\nIt's the most-viewed English Wikipedia article from any day in the last month.\n\nLearn more about the history of the 1973 US Supreme Court decision. ⬇️ \n\nhttps://t.co/Gw2A2oY6ec",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      255
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Gw2A2oY6ec",
+          "expanded_url": "https://w.wiki/3hvq",
+          "display_url": "w.wiki/3hvq",
+          "indices": [
+            232,
+            255
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 86390214,
+      "id_str": "86390214",
+      "name": "Wikipedia",
+      "screen_name": "Wikipedia",
+      "location": "",
+      "description": "Let's set knowledge free. \nGot a question? https://t.co/F6dmvs5ED3",
+      "url": "https://t.co/UxICFVtwvc",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/UxICFVtwvc",
+              "expanded_url": "https://www.wikipedia.org/",
+              "display_url": "wikipedia.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/F6dmvs5ED3",
+              "expanded_url": "http://w.wiki/b3f",
+              "display_url": "w.wiki/b3f",
+              "indices": [
+                43,
+                66
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 627275,
+      "friends_count": 759,
+      "listed_count": 4649,
+      "created_at": "Fri Oct 30 20:29:14 +0000 2009",
+      "favourites_count": 3915,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 21086,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1018552942670966784/0Zflj6Y__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1018552942670966784/0Zflj6Y__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/86390214/1642022335",
+      "profile_link_color": "347BFF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 80,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 25,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": true,
+  "lang": "en"
+}
