@@ -1,0 +1,136 @@
+{
+  "created_at": "Fri May 06 16:46:02 +0000 2022",
+  "id": 1522618703694950400,
+  "id_str": "1522618703694950400",
+  "full_text": "@WuPingJu 我之前也给Obsidian写过一套Gatsby的主题， https://t.co/EXEsEeOsxw ，支持双向链接等功能，但是后来觉得把wiki和博客分开维护起来太麻烦，而且双向链接我觉得也不必展示给别人，只需要本地用Obsidian打开我现在的博客，https://t.co/Yvz9pQe1sh , 就能看到双向链接和Graph图等等了，导出的话就妥协下",
+  "truncated": false,
+  "display_text_range": [
+    10,
+    191
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "WuPingJu",
+        "name": "P.J. Wu 吳秉儒",
+        "id": 159287109,
+        "id_str": "159287109",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/EXEsEeOsxw",
+        "expanded_url": "http://wiki.owenyoung.com",
+        "display_url": "wiki.owenyoung.com",
+        "indices": [
+          38,
+          61
+        ]
+      },
+      {
+        "url": "https://t.co/Yvz9pQe1sh",
+        "expanded_url": "https://github.com/theowenyoung/blog",
+        "display_url": "github.com/theowenyoung/b…",
+        "indices": [
+          138,
+          161
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1522586076161974300,
+  "in_reply_to_status_id_str": "1522586076161974275",
+  "in_reply_to_user_id": 159287109,
+  "in_reply_to_user_id_str": "159287109",
+  "in_reply_to_screen_name": "WuPingJu",
+  "user": {
+    "id": 1315602897091010600,
+    "id_str": "1315602897091010561",
+    "name": "Owen",
+    "screen_name": "OwenYoungZh",
+    "location": "",
+    "description": "所有的遗产都在： https://t.co/BzeFhwYRmp",
+    "url": "https://t.co/d9pjX5mQW9",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/d9pjX5mQW9",
+            "expanded_url": "https://www.owenyoung.com",
+            "display_url": "owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/BzeFhwYRmp",
+            "expanded_url": "http://owenyoung.com",
+            "display_url": "owenyoung.com",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 390,
+    "friends_count": 79,
+    "listed_count": 7,
+    "created_at": "Mon Oct 12 10:39:22 +0000 2020",
+    "favourites_count": 62,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 268,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315602897091010561/1632565739",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "zh"
+}
