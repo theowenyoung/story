@@ -1,0 +1,568 @@
+{
+  "created_at": "Sun May 22 04:13:35 +0000 2022",
+  "id": 1528227551327715300,
+  "id_str": "1528227551327715329",
+  "full_text": "RT @HarmaninToronto: Do all kids in the Netherlands take the bicycle to school?\n\nNo, some take the bus! \n\nhttps://t.co/TO7WyVFnig",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    129
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "HarmaninToronto",
+        "name": "Harman Idema",
+        "id": 180221480,
+        "id_str": "180221480",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1050001546707169300,
+        "id_str": "1050001546707169280",
+        "indices": [
+          106,
+          129
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050001546707169280/pu/img/_STSiA20hn7z3ZGz.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050001546707169280/pu/img/_STSiA20hn7z3ZGz.jpg",
+        "url": "https://t.co/TO7WyVFnig",
+        "display_url": "pic.twitter.com/TO7WyVFnig",
+        "expanded_url": "https://twitter.com/D_Roopa_IPS/status/1050001774772453376/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 400,
+            "h": 224,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 400,
+            "h": 224,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 400,
+            "h": 224,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1050001774772453400,
+        "source_status_id_str": "1050001774772453376",
+        "source_user_id": 734751240047853600,
+        "source_user_id_str": "734751240047853568"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1050001546707169300,
+        "id_str": "1050001546707169280",
+        "indices": [
+          106,
+          129
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050001546707169280/pu/img/_STSiA20hn7z3ZGz.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050001546707169280/pu/img/_STSiA20hn7z3ZGz.jpg",
+        "url": "https://t.co/TO7WyVFnig",
+        "display_url": "pic.twitter.com/TO7WyVFnig",
+        "expanded_url": "https://twitter.com/D_Roopa_IPS/status/1050001774772453376/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 400,
+            "h": 224,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 400,
+            "h": 224,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 400,
+            "h": 224,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1050001774772453400,
+        "source_status_id_str": "1050001774772453376",
+        "source_user_id": 734751240047853600,
+        "source_user_id_str": "734751240047853568",
+        "video_info": {
+          "aspect_ratio": [
+            25,
+            14
+          ],
+          "duration_millis": 24875,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1050001546707169280/pu/vid/400x224/Aid2VHnXBwH32VE3.mp4?tag=5"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1050001546707169280/pu/pl/yWsYD8jlyamHlDIa.m3u8?tag=5"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "id": 734751240047853600,
+            "id_str": "734751240047853568",
+            "name": "D Roopa IPS",
+            "screen_name": "D_Roopa_IPS",
+            "location": "Bengaluru",
+            "description": "IGP. MD,Karnataka Handicrafts Development Corp- brand CAUVERY.Ex Home Secretary. Recipient-President Police Medal.I write,sing,shoot.W/o Munish Moudgil IAS.",
+            "url": "https://t.co/uhpoNhJFt0",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/uhpoNhJFt0",
+                    "expanded_url": "https://www.ted.com/talks/roopa_d_moudgil_ips_why_bureaucrats_hesitate_to_act/details",
+                    "display_url": "ted.com/talks/roopa_d_…",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 268600,
+            "friends_count": 549,
+            "listed_count": 155,
+            "created_at": "Mon May 23 14:22:01 +0000 2016",
+            "favourites_count": 16487,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5190,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1527488338697277440/YCS_DmpM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527488338697277440/YCS_DmpM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/734751240047853568/1566654402",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1241294513575878700,
+    "id_str": "1241294513575878656",
+    "name": "Owen Young",
+    "screen_name": "TheOwenYoung",
+    "location": "",
+    "description": "Freelancer / perfectionism / workflow lover / 中文推 @OwenYoungZh / the maker of https://t.co/4m2DI4WNd2 https://t.co/tj1ryzm1n0 https://t.co/9JETwbJC7K",
+    "url": "https://t.co/CuVcFOTmbZ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/CuVcFOTmbZ",
+            "expanded_url": "https://www.owenyoung.com/en/",
+            "display_url": "owenyoung.com/en/",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/4m2DI4WNd2",
+            "expanded_url": "http://buzzing.cc",
+            "display_url": "buzzing.cc",
+            "indices": [
+              78,
+              101
+            ]
+          },
+          {
+            "url": "https://t.co/tj1ryzm1n0",
+            "expanded_url": "http://trackawesomelist.com",
+            "display_url": "trackawesomelist.com",
+            "indices": [
+              102,
+              125
+            ]
+          },
+          {
+            "url": "https://t.co/9JETwbJC7K",
+            "expanded_url": "http://actionsflow.github.io",
+            "display_url": "actionsflow.github.io",
+            "indices": [
+              126,
+              149
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 97,
+    "friends_count": 155,
+    "listed_count": 4,
+    "created_at": "Sat Mar 21 09:24:27 +0000 2020",
+    "favourites_count": 38,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 68,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241298955742273536/E26HEH2o_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Feb 03 21:40:16 +0000 2022",
+    "id": 1489353068361703400,
+    "id_str": "1489353068361703425",
+    "full_text": "Do all kids in the Netherlands take the bicycle to school?\n\nNo, some take the bus! \n\nhttps://t.co/TO7WyVFnig",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      108
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1050001546707169300,
+          "id_str": "1050001546707169280",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050001546707169280/pu/img/_STSiA20hn7z3ZGz.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050001546707169280/pu/img/_STSiA20hn7z3ZGz.jpg",
+          "url": "https://t.co/TO7WyVFnig",
+          "display_url": "pic.twitter.com/TO7WyVFnig",
+          "expanded_url": "https://twitter.com/D_Roopa_IPS/status/1050001774772453376/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 400,
+              "h": 224,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 400,
+              "h": 224,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 400,
+              "h": 224,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1050001774772453400,
+          "source_status_id_str": "1050001774772453376",
+          "source_user_id": 734751240047853600,
+          "source_user_id_str": "734751240047853568"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1050001546707169300,
+          "id_str": "1050001546707169280",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050001546707169280/pu/img/_STSiA20hn7z3ZGz.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050001546707169280/pu/img/_STSiA20hn7z3ZGz.jpg",
+          "url": "https://t.co/TO7WyVFnig",
+          "display_url": "pic.twitter.com/TO7WyVFnig",
+          "expanded_url": "https://twitter.com/D_Roopa_IPS/status/1050001774772453376/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 400,
+              "h": 224,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 400,
+              "h": 224,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 400,
+              "h": 224,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1050001774772453400,
+          "source_status_id_str": "1050001774772453376",
+          "source_user_id": 734751240047853600,
+          "source_user_id_str": "734751240047853568",
+          "video_info": {
+            "aspect_ratio": [
+              25,
+              14
+            ],
+            "duration_millis": 24875,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1050001546707169280/pu/vid/400x224/Aid2VHnXBwH32VE3.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1050001546707169280/pu/pl/yWsYD8jlyamHlDIa.m3u8?tag=5"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 734751240047853600,
+              "id_str": "734751240047853568",
+              "name": "D Roopa IPS",
+              "screen_name": "D_Roopa_IPS",
+              "location": "Bengaluru",
+              "description": "IGP. MD,Karnataka Handicrafts Development Corp- brand CAUVERY.Ex Home Secretary. Recipient-President Police Medal.I write,sing,shoot.W/o Munish Moudgil IAS.",
+              "url": "https://t.co/uhpoNhJFt0",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/uhpoNhJFt0",
+                      "expanded_url": "https://www.ted.com/talks/roopa_d_moudgil_ips_why_bureaucrats_hesitate_to_act/details",
+                      "display_url": "ted.com/talks/roopa_d_…",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "protected": false,
+              "followers_count": 268600,
+              "friends_count": 549,
+              "listed_count": 155,
+              "created_at": "Mon May 23 14:22:01 +0000 2016",
+              "favourites_count": 16487,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": true,
+              "verified": true,
+              "statuses_count": 5190,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1527488338697277440/YCS_DmpM_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527488338697277440/YCS_DmpM_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/734751240047853568/1566654402",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": true,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": []
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 180221480,
+      "id_str": "180221480",
+      "name": "Harman Idema",
+      "screen_name": "HarmaninToronto",
+      "location": "Toronto, Canada",
+      "description": "Consul General of the Netherlands in Toronto 🇳🇱🤝🇨🇦 🚲. See also @NLinToronto.",
+      "url": "https://t.co/FEZBs2AUr4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/FEZBs2AUr4",
+              "expanded_url": "https://www.instagram.com/harmanidema/",
+              "display_url": "instagram.com/harmanidema/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 10757,
+      "friends_count": 2755,
+      "listed_count": 71,
+      "created_at": "Thu Aug 19 03:03:06 +0000 2010",
+      "favourites_count": 11612,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 7665,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "AEC9D6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1525152744960577536/80tifKRG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1525152744960577536/80tifKRG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/180221480/1614173889",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "C3E9FA",
+      "profile_text_color": "120212",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 52,
+    "favorite_count": 191,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 52,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": true,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
