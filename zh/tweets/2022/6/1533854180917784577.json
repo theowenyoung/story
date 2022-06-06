@@ -1,0 +1,172 @@
+{
+  "created_at": "Mon Jun 06 16:51:49 +0000 2022",
+  "id": 1533854180917784600,
+  "id_str": "1533854180917784577",
+  "full_text": "@WuPingJu 博客天生适合作为个人的各种产出的汇总，目前是我最满意自己的博客的时刻，效率也高：首页：https://t.co/63xcWAyV8F ，短想法：https://t.co/uXQQ2bvF9z ，笔记：https://t.co/qgEJ2pEURB , 文章：https://t.co/VszBu1gk4k ，自定义页面：https://t.co/jCRAjw1u9I , 英文版：https://t.co/XGOYxXXLfS",
+  "truncated": false,
+  "display_text_range": [
+    10,
+    223
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "WuPingJu",
+        "name": "P.J. Wu 吳秉儒",
+        "id": 159287109,
+        "id_str": "159287109",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/63xcWAyV8F",
+        "expanded_url": "https://www.owenyoung.com/",
+        "display_url": "owenyoung.com",
+        "indices": [
+          53,
+          76
+        ]
+      },
+      {
+        "url": "https://t.co/uXQQ2bvF9z",
+        "expanded_url": "https://www.owenyoung.com/thoughts/",
+        "display_url": "owenyoung.com/thoughts/",
+        "indices": [
+          82,
+          105
+        ]
+      },
+      {
+        "url": "https://t.co/qgEJ2pEURB",
+        "expanded_url": "https://www.owenyoung.com/#all-notes",
+        "display_url": "owenyoung.com/#all-notes",
+        "indices": [
+          110,
+          133
+        ]
+      },
+      {
+        "url": "https://t.co/VszBu1gk4k",
+        "expanded_url": "https://www.owenyoung.com/blog/",
+        "display_url": "owenyoung.com/blog/",
+        "indices": [
+          139,
+          162
+        ]
+      },
+      {
+        "url": "https://t.co/jCRAjw1u9I",
+        "expanded_url": "https://www.owenyoung.com/books/",
+        "display_url": "owenyoung.com/books/",
+        "indices": [
+          170,
+          193
+        ]
+      },
+      {
+        "url": "https://t.co/XGOYxXXLfS",
+        "expanded_url": "https://www.owenyoung.com/en/",
+        "display_url": "owenyoung.com/en/",
+        "indices": [
+          200,
+          223
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1533853160951128000,
+  "in_reply_to_status_id_str": "1533853160951128064",
+  "in_reply_to_user_id": 1315602897091010600,
+  "in_reply_to_user_id_str": "1315602897091010561",
+  "in_reply_to_screen_name": "OwenYoungZh",
+  "user": {
+    "id": 1315602897091010600,
+    "id_str": "1315602897091010561",
+    "name": "Owen",
+    "screen_name": "OwenYoungZh",
+    "location": "",
+    "description": "所有的遗产都在： https://t.co/BzeFhwYRmp , EN: @TheOwenYoung",
+    "url": "https://t.co/d9pjX5mQW9",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/d9pjX5mQW9",
+            "expanded_url": "https://www.owenyoung.com",
+            "display_url": "owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/BzeFhwYRmp",
+            "expanded_url": "http://owenyoung.com",
+            "display_url": "owenyoung.com",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 397,
+    "friends_count": 82,
+    "listed_count": 7,
+    "created_at": "Mon Oct 12 10:39:22 +0000 2020",
+    "favourites_count": 68,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 281,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315602897091010561/1632565739",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "zh"
+}
