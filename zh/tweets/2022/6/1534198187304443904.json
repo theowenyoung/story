@@ -1,0 +1,125 @@
+{
+  "created_at": "Tue Jun 07 15:38:46 +0000 2022",
+  "id": 1534198187304444000,
+  "id_str": "1534198187304443904",
+  "full_text": "今天在维基百科上阅读了一些关于女权主义相关的词条，发现我认同“激进女权主义”的绝大多数观点：https://t.co/dF0KIiVkXK\n\nhttps://t.co/HgGiLRhMHq",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    94
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/dF0KIiVkXK",
+        "expanded_url": "https://en.wikipedia.org/wiki/Radical_feminism",
+        "display_url": "en.wikipedia.org/wiki/Radical_f…",
+        "indices": [
+          46,
+          69
+        ]
+      },
+      {
+        "url": "https://t.co/HgGiLRhMHq",
+        "expanded_url": "https://www.owenyoung.com/feminism/#ji-jin-nu-quan-zhu-yi",
+        "display_url": "owenyoung.com/feminism/#ji-j…",
+        "indices": [
+          71,
+          94
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1315602897091010600,
+    "id_str": "1315602897091010561",
+    "name": "Owen",
+    "screen_name": "OwenYoungZh",
+    "location": "",
+    "description": "所有的遗产都在： https://t.co/BzeFhwYRmp , EN: @TheOwenYoung",
+    "url": "https://t.co/d9pjX5mQW9",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/d9pjX5mQW9",
+            "expanded_url": "https://www.owenyoung.com",
+            "display_url": "owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/BzeFhwYRmp",
+            "expanded_url": "http://owenyoung.com",
+            "display_url": "owenyoung.com",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 397,
+    "friends_count": 82,
+    "listed_count": 7,
+    "created_at": "Mon Oct 12 10:39:22 +0000 2020",
+    "favourites_count": 68,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 282,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315602897091010561/1632565739",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "zh"
+}
