@@ -167,7 +167,7 @@ export function equal(c, d) {
         }
         try {
             expectedString = String(expected);
-        } catch (e2) {
+        } catch (e1) {
             expectedString = "[Cannot display]";
         }
         if (!msg) {
