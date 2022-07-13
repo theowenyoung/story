@@ -1,0 +1,261 @@
+{
+  "created_at": "Wed Jul 13 03:27:37 +0000 2022",
+  "id": 1547060152062591000,
+  "id_str": "1547060152062590976",
+  "full_text": "RT @HackerNewsZh: 发表你的作品会增加你的运气\n\nPublishing your work increases your luck\n\nHN讨论地址: https://t.co/vaGJwtRJW8\n\n原文地址: https://t.co/pHOdxPaZWS",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    137
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "HackerNewsZh",
+        "name": "Hacker News 中文精选",
+        "id": 1476693293014876200,
+        "id_str": "1476693293014876160",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/vaGJwtRJW8",
+        "expanded_url": "https://news.ycombinator.com/item?id=32071137",
+        "display_url": "news.ycombinator.com/item?id=320711…",
+        "indices": [
+          83,
+          106
+        ]
+      },
+      {
+        "url": "https://t.co/pHOdxPaZWS",
+        "expanded_url": "https://github.com/readme/guides/publishing-your-work",
+        "display_url": "github.com/readme/guides/…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1315602897091010600,
+    "id_str": "1315602897091010561",
+    "name": "Owen",
+    "screen_name": "OwenYoungZh",
+    "location": "",
+    "description": "所有的遗产都在： https://t.co/BzeFhwYRmp , EN: @TheOwenYoung",
+    "url": "https://t.co/d9pjX5mQW9",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/d9pjX5mQW9",
+            "expanded_url": "https://www.owenyoung.com",
+            "display_url": "owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/BzeFhwYRmp",
+            "expanded_url": "http://owenyoung.com",
+            "display_url": "owenyoung.com",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 529,
+    "friends_count": 107,
+    "listed_count": 9,
+    "created_at": "Mon Oct 12 10:39:22 +0000 2020",
+    "favourites_count": 79,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 338,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315602897091010561/1632565739",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jul 13 03:07:47 +0000 2022",
+    "id": 1547055159297073200,
+    "id_str": "1547055159297073154",
+    "full_text": "发表你的作品会增加你的运气\n\nPublishing your work increases your luck\n\nHN讨论地址: https://t.co/vaGJwtRJW8\n\n原文地址: https://t.co/pHOdxPaZWS",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      119
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vaGJwtRJW8",
+          "expanded_url": "https://news.ycombinator.com/item?id=32071137",
+          "display_url": "news.ycombinator.com/item?id=320711…",
+          "indices": [
+            65,
+            88
+          ]
+        },
+        {
+          "url": "https://t.co/pHOdxPaZWS",
+          "expanded_url": "https://github.com/readme/guides/publishing-your-work",
+          "display_url": "github.com/readme/guides/…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://pipedream.com\" rel=\"nofollow\">Pipedream, Inc</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1476693293014876200,
+      "id_str": "1476693293014876160",
+      "name": "Hacker News 中文精选",
+      "screen_name": "HackerNewsZh",
+      "location": "",
+      "description": "Hacker News 中文 Bot， 每小时2条，推送 HN 当前最热门的讨论，附带原文标题,  地址和HN讨论地址, 中文标题来自 https://t.co/nU7WyDqvAO ，使用deepl翻译， 背后的人： @OwenYoungZh , 兄弟bots： @AskRedditZh , 国外新闻bot @NewsBotZh",
+      "url": "https://t.co/ub1mvd5nVy",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ub1mvd5nVy",
+              "expanded_url": "https://hn.buzzing.cc",
+              "display_url": "hn.buzzing.cc",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/nU7WyDqvAO",
+              "expanded_url": "http://besthn.buzzing.cc",
+              "display_url": "besthn.buzzing.cc",
+              "indices": [
+                68,
+                91
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 452,
+      "friends_count": 151,
+      "listed_count": 7,
+      "created_at": "Thu Dec 30 23:15:02 +0000 2021",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6284,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1476698262031978496/qJqKfBi9_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1476698262031978496/qJqKfBi9_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476693293014876160/1640907848",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": true,
+  "possibly_sensitive": false,
+  "lang": "zh"
+}

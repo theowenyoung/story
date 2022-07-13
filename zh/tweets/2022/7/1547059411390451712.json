@@ -1,0 +1,127 @@
+{
+  "created_at": "Wed Jul 13 03:24:41 +0000 2022",
+  "id": 1547059411390451700,
+  "id_str": "1547059411390451712",
+  "full_text": "@cyukang 大多数配置文件我是用软链接的形式link到repo里的，所以更改是直接同步到本地repo里的，比如vscode的配置文件，有小部分配置文件需要用到模板（比如带有密码的的配置文件），如果是这部分配置的话，建议修改repo的配置，修改后很容易同步过去。 感觉你可以考虑这个库来管理： https://t.co/VAYe9l1M9B",
+  "truncated": false,
+  "display_text_range": [
+    9,
+    172
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "cyukang",
+        "name": "yukang",
+        "id": 358792499,
+        "id_str": "358792499",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/VAYe9l1M9B",
+        "expanded_url": "https://www.chezmoi.io/",
+        "display_url": "chezmoi.io",
+        "indices": [
+          149,
+          172
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1547057665448231000,
+  "in_reply_to_status_id_str": "1547057665448230913",
+  "in_reply_to_user_id": 358792499,
+  "in_reply_to_user_id_str": "358792499",
+  "in_reply_to_screen_name": "cyukang",
+  "user": {
+    "id": 1315602897091010600,
+    "id_str": "1315602897091010561",
+    "name": "Owen",
+    "screen_name": "OwenYoungZh",
+    "location": "",
+    "description": "所有的遗产都在： https://t.co/BzeFhwYRmp , EN: @TheOwenYoung",
+    "url": "https://t.co/d9pjX5mQW9",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/d9pjX5mQW9",
+            "expanded_url": "https://www.owenyoung.com",
+            "display_url": "owenyoung.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/BzeFhwYRmp",
+            "expanded_url": "http://owenyoung.com",
+            "display_url": "owenyoung.com",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 529,
+    "friends_count": 107,
+    "listed_count": 9,
+    "created_at": "Mon Oct 12 10:39:22 +0000 2020",
+    "favourites_count": 79,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 338,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315603145557385216/dQFmDtsf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315602897091010561/1632565739",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "zh"
+}
